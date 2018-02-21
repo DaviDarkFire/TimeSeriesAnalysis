@@ -1,0 +1,12 @@
+with open('output.ou') as f: #inicializa os valores de W a partir do arquivo de entrada
+            for linha in f:
+                linha = linha.strip()
+                if linha:
+                    valores = linha.split(',')
+                    x,y = trataValores(valores)
+                    W[x] = y
+                    W_data.append(x)
+                    W_valor.append(y)
+
+def trataValores(valores): #transforma os literais em valores inteiro e float, respectivamente, pra uso posterior
+    return int(valores[0]), float(valores[1])
