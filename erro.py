@@ -10,6 +10,7 @@ import pips
 import os
 from matplotlib.backends.backend_pdf import PdfPages
 from pylab import *
+import generate_simplifications
 
 def calc_reta(x1,y1,x2,y2): #função que calcula reta que liga os dois pontos mais próximos da simplificação
     # print "x1: "+str(y1), "x2: "+str(y2)
@@ -129,6 +130,7 @@ def main(dataset_name, W_data, W_valor, pontos):
         saida.write(',')
         saida.write(str(erro_zigzag))
         saida.write('\n')
+        generate_simplifications.main(i, od_pips, od_volca, od_zigzag)
     saida.close()
     graf(p, ep, ev, ez, "Erro", dataset_name)
     graf(p, tp, tv, tz, "Tempo", dataset_name)
