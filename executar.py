@@ -33,7 +33,7 @@ def trataArquivo(file_name): #trata os valores recebidos no arquivo.csv para que
     f.close()
     s.close()
 
-def main(pontos):
+def main():
     #pontos = 30
     for file_name in os.listdir("entrada"):
         trataArquivo(file_name)
@@ -48,13 +48,15 @@ def main(pontos):
                     W_data.append(x)
                     W_valor.append(y)
 
-        od_pips, od_volca, od_zigzag = erro.main(file_name, W_data, W_valor, pontos)
-        graf.gera_graficos(od_volca, od_pips, od_zigzag, file_name, pontos)
+        od_pips, od_volca, od_zigzag = erro.main(file_name, W_data, W_valor)
+        #graf.gera_graficos(od_volca, od_pips, od_zigzag, file_name, pontos)
         os.remove("output.ou")
         clean.clear()
 
-def blau_executa_tudo_esse_cacete():
-    for i in range(5, 105, 5):
-        main(i)
+#def blau_executa_tudo_esse_cacete():
+#    for i in range(5, 105, 5):
+#        main(i)
 
-blau_executa_tudo_esse_cacete()
+#blau_executa_tudo_esse_cacete()
+
+main()

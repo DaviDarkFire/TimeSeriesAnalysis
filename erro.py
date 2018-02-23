@@ -11,6 +11,7 @@ import os
 from matplotlib.backends.backend_pdf import PdfPages
 from pylab import *
 import generate_simplifications
+import gera_graficos as graficos
 
 def calc_reta(x1,y1,x2,y2): #função que calcula reta que liga os dois pontos mais próximos da simplificação
     # print "x1: "+str(y1), "x2: "+str(y2)
@@ -75,7 +76,10 @@ def graf(x, y, z, w, name, dataset_name):
     close()
     pdf.close()
 
-def main(dataset_name, W_data, W_valor, pontos):
+def main(dataset_name, W_data, W_valor):
+    od_pips = []
+    od_volca = []
+    od_zigzag = []
     if not os.path.exists("saida/"+dataset_name):
         os.makedirs("saida/"+dataset_name)
     saida = open("saida/"+dataset_name+"/erro_tempo_vs_pontos.csv", "w")
@@ -130,12 +134,11 @@ def main(dataset_name, W_data, W_valor, pontos):
         saida.write(',')
         saida.write(str(erro_zigzag))
         saida.write('\n')
-        generate_simplifications.main(i, od_pips, od_volca, od_zigzag)
+        generate_simplifications.main(i, dataset_name,od_pips, od_volca, od_zigzag)
+        graficos.gera_graficos(od_volca, od_pips, od_zigzag, dataset_name, i)
     saida.close()
     graf(p, ep, ev, ez, "Erro", dataset_name)
     graf(p, tp, tv, tz, "Tempo", dataset_name)
-    temp_pips, temp_volca, temp_zigzag, erro_pips, erro_volca, erro_zigzag, od_pips, od_volca, od_zigzag = erro_vs_pontos(pontos, W_data, W_valor)
-    print "Tamanho PIPs: "+str(len(od_pips))
-    print "Tamanho VOLCA: "+str(len(od_volca))
-    print "Tamanho ZIGZAG: "+str(len(od_zigzag))
+    #for i in range(5, 105, 5):
+        #temp_pips, temp_volca, temp_zigzag, erro_pips, erro_volca, erro_zigzag, od_pips, od_volca, od_zigzag = erro_vs_pontos(i, W_data, W_valor)
     return od_pips, od_volca, od_zigzag
