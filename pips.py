@@ -17,7 +17,7 @@ class Pips():
         if(type == 1): #se type = 1 fazemos distancia euclidiana
             dist = np.sqrt(np.power(x1-x2,2)+np.power(y1-y2,2))
             dist += np.sqrt(np.power(x2-x3,2)+np.power(y2-y3,2))
-        if (type == 0):#se type = 0 fazemos distancia vertical
+        if (type == 0):#se type diferente de 1 fazemos distancia vertical
             # dist = (y1+(y2-y1)*((x3-x1)/(x2-x1)))-y3
             dist = self.calc_distancia_vertical(x1,y1,x2,y2,x3,y3)
         if (type == 2):#se type iguala 2 fazemos a distancia euclidiana somada à distância vertical
@@ -50,7 +50,7 @@ class Pips():
         maior_distancia = 0
         distancia = 0
         for i, val in enumerate(self.valor[b:e]):
-            dist = self.distance(0,self.data[b],self.data[i+b],self.data[e],self.valor[b],self.valor[i+b],self.valor[e])
+            dist = self.distance(1,self.data[b],self.data[i+b],self.data[e],self.valor[b],self.valor[i+b],self.valor[e])
             # print i, dist
             # print maior, maior_distancia
             if (dist > maior_distancia):
