@@ -24,21 +24,26 @@ def main():
                 cel.append(y)
                 serie.append(cel)
 
-    ini_pos = ((len(serie)-QTD_PREDICT)/k)*(k-1)
+    ini_pos = int(((len(serie)-QTD_PREDICT)/k)*(k-1)) #posição inicial do último pedaço de série antes dos valores quedeverão ser preditos
     comp_serie = []
     another_series = []
-    for i in range(ini_pos,len(serie)-11):
+    for i in range(ini_pos,len(serie)-11): #joga os valores da última série em comp_serie
         comp_serie.append(serie[i])
 
     
-    for i in range(0,len(serie)-11):
-        another_series.append(serie[i])
+    for i in range(0, ini_pos, int((len(serie)-QTD_PREDICT)/k)): #percorre a lista de séries e joga os trechos para comparação
+        distancia = compare(comp_serie, serie[i:i+int((len(serie)-QTD_PREDICT)/k)])
+        dist_list.append(distancia)
 
+    print dist_list
+    
 
-        
+    
 
 def compare(list1, list2):
-    print "faz o urro"
-
+    x = np.array(list1)
+    y = np.array(list2)
+    distancia, path = fastdtw(x, y, dist=euclidean)
+    return distancia
 
 main()
