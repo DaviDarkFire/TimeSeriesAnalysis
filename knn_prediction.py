@@ -3,15 +3,15 @@
 import numpy as np
 from scipy.spatial.distance import euclidean
 from fastdtw import fastdtw
-import copy
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LogisticRegression
+
+
 
 def trataValores(valores): #transforma os literais em valores inteiro e float, respectivamente, pra uso posterior
     return int(valores[0]), float(valores[1])
 
 def main():
-    QTD_PREDICT = 10
-    k = 8
-    dist_list = []
     serie = []
     with open('output.ou') as f: #inicializa os valores de W a partir do arquivo de entrada
         for linha in f:
@@ -19,31 +19,19 @@ def main():
             if linha:
                 valores = linha.split(',')
                 x,y = trataValores(valores)
-                cel = []
-                cel.append(x)
-                cel.append(y)
-                serie.append(cel)
+                # cel = []
+                # cel.append(x)
+                # cel.append(y)
+                serie.append(y)
 
-    ini_pos = int(((len(serie)-QTD_PREDICT)/k)*(k-1)) #posição inicial do último pedaço de série antes dos valores quedeverão ser preditos
-    comp_serie = []
-    another_series = []
-    for i in range(ini_pos,len(serie)-11): #joga os valores da última série em comp_serie
-        comp_serie.append(serie[i])
+    serie = np.matrix(serie)
+    fim_x = int(len(serie)*0.5)
 
-    
-    for i in range(0, ini_pos, int((len(serie)-QTD_PREDICT)/k)): #percorre a lista de séries e joga os trechos para comparação
-        distancia = compare(comp_serie, serie[i:i+int((len(serie)-QTD_PREDICT)/k)])
-        dist_list.append(distancia)
-
-    print dist_list
-    
-
-    
-
-def compare(list1, list2):
-    x = np.array(list1)
-    y = np.array(list2)
-    distancia, path = fastdtw(x, y, dist=euclidean)
-    return distancia
-
+    x = serie[0:fim_x]
+    y = serie[fim_x:len(serie)-1] 
+    X_train, X_test, y_train, y_test = train_test_split(x, y, test_size=0.2, random_state=4)
+    logreg = LogisticRegression()
+    logreg.fit(X_train, y_train)
+    y_pred = logreg.predict(X_test)
+    # print metrics.accuracy_score(y_test, y_pred)
 main()
