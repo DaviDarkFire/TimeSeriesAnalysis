@@ -1,0 +1,2 @@
+Dividir o datastamp em ano, mes e dia em 3 colunas separadas o resultado ficou pior
+Usar o knn linear regression melhorou o resultado
