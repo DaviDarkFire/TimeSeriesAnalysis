@@ -43,4 +43,4 @@ def main():
     knn = KNeighborsRegressor(n_neighbors=1)
     knn.fit(x_train, y_train)
     pred = knn.predict(x_test)
-    return knn.score(x_test,y_test)
+    return x_test, y_test, pred
