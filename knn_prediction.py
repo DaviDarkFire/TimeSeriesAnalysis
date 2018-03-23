@@ -40,7 +40,7 @@ def main():
     x = x.reshape(x.shape[0],1)
     y = np.array(y)
     x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.2, random_state=4)
-    knn = KNeighborsRegressor(n_neighbors=1, metric='pyfunc', func=dtw)
+    knn = KNeighborsRegressor(n_neighbors=1, metric=dtw)
     knn.fit(x_train, y_train)
     pred = knn.predict(x_test)
     return x_test, y_test, pred

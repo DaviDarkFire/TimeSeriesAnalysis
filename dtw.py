@@ -9,4 +9,3 @@ def dtw(array1,array2):
 	# y = np.array([2,4,1,22,5,8,3,5,7,2])
 	distance, path = fastdtw(array1, array2, dist=euclidean)
 	return distance
-dtw()

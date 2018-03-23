@@ -50,7 +50,7 @@ class Pips():
         maior_distancia = 0
         distancia = 0
         for i, val in enumerate(self.valor[b:e]):
-            dist = self.distance(1,self.data[b],self.data[i+b],self.data[e],self.valor[b],self.valor[i+b],self.valor[e])
+            dist = self.distance(0,self.data[b],self.data[i+b],self.data[e],self.valor[b],self.valor[i+b],self.valor[e])
             # print i, dist
             # print maior, maior_distancia
             if (dist > maior_distancia):
