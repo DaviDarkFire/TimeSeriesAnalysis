@@ -80,7 +80,7 @@ def gera_grafico_error_bar(pontos, media_pips, media_volca, media_zigzag, name, 
     plt.xticks(rotation=60)
     plt.tight_layout()
     plt.grid(True)
-    pdf = PdfPages('new_saida/Pontos vs '+name)
+    pdf = PdfPages('new_saida/Pontos vs '+name+'.pdf')
     title('Plot')
     pdf.savefig()
     close()

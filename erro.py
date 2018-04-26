@@ -70,7 +70,7 @@ def graf(x, y, z, w, name, dataset_name):
     plt.xticks(rotation=60)
     plt.tight_layout()
     plt.grid(True)
-    pdf = PdfPages('saida/'+dataset_name+'/Pontos vs '+name)
+    pdf = PdfPages('saida/'+dataset_name+'/Pontos vs '+name+'.pdf')
     title('Plot')
     pdf.savefig()
     close()

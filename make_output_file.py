@@ -6,8 +6,8 @@ import os
 def trataValores(valores): #transforma os literais em valores inteiro e float, respectivamente, pra uso posterior
     return int(valores[0]), float(valores[1])
 
-def trataArquivo(): #trata os valores recebidos no arquivo.csv para que assim possamos aplicar os algortimos sobre eles
-    file_name = sys.argv[1]
+def trataArquivo(file_name): #trata os valores recebidos no arquivo.csv para que assim possamos aplicar os algortimos sobre eles
+    # file_name = sys.argv[1]
     s = open("output.ou", "w")
     with open(file_name) as f:
         flag = 0
@@ -31,4 +31,4 @@ def trataArquivo(): #trata os valores recebidos no arquivo.csv para que assim po
     s.close()
 
 
-trataArquivo()
+# trataArquivo()
