@@ -9,6 +9,7 @@ from sklearn.model_selection import GridSearchCV
 from sklearn.neighbors import DistanceMetric
 from sklearn import preprocessing
 from dtw import dtw
+import normalization_dtw as ndtw
 import time
 
 def trataValores(valores): #transforma os literais em valores inteiro e float, respectivamente, pra uso posterior
@@ -29,8 +30,8 @@ def main():
                 x_aux.append(a)
                 y_aux.append(b)
 
-    
-    
+   
+    x_aux,y_aux = ndtw.suavizacao(x_aux,y_aux)
 
     count = 0;
     cel = []
@@ -38,8 +39,10 @@ def main():
         count += 1
         y_saida.append(i)
         if (count % 5 == 0 and count != 0):
-            y.append(i)
-            x.append(cel)
+            cel.append(i)
+            ndtw.sliding_window_normalizations([],cel,1) #faço as normalizações de janela deslizante
+            y.append(cel[-1:]) #o ultimo valor normalizado é meu y
+            x.append(cel[:4])  #os primeiro 4 valores são o meu x
             cel = []
         else:
             cel.append(i)
@@ -56,7 +59,13 @@ def main():
 
     for i in range(int(len(y_aux)*0.2)+1): #slicing lists like a BALLLSS
         passar = np.array(y_saida[-4:]).reshape(1,-1) #transformo a janela em numpy array e dou um reshape pq o knn reclama
-        y_saida.append(obj.predict(passar)[0]) #janela deslizante fazendo predições, essa posição [0] é pq o retorno do predict é uma np.array com uma posição que tem o valor que eu quero
+        volta = np.copy(passar)
+        passar = ndtw.sliding_window_normalizations([],passar,1) #normalizo com a média e desvio padrão
+        pred = obj.predict(passar)[0] #pego a predição normalizada
+        passar = np.append(passar,pred) #adiciono ela nos valores da qual a predição foi feita
+        passar = ndtw.sliding_window_normalizations(volta,passar,0) #tiro a normlização pra jogar na lista de saida
+        y_saida.append(passar[-1:]) #janela deslizante fazendo predições, essa posição [0] é pq o retorno do predict é uma np.array com uma posição que tem o valor que eu quero
+
 
     # print rsearch.score(x_test,y_test)
     # print len(x_aux),"\n", len(y_aux),"\n", len(y_saida) #tem que retornar só y_test e res e alterar x_test

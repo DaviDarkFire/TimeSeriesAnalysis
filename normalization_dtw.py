@@ -21,18 +21,35 @@ def get_data():
                 y.append(b)
     return x,y
 
-def suavizacao():
-    x,y = get_data()
+def suavizacao(x,y):
+    # x,y = get_data()
     x_exit = []
     y_exit = []
     for i in range(0,len(y)-3,3):
         y_exit.append((y[i]+y[i+1]+y[i+2])/3)
         x_exit.append(x[i+1])
 
-    return x,y,x_exit,y_exit
+    return x_exit,y_exit
 
 
-def sliding_window_normalizations():
-    print "Code"
+def sliding_window_normalizations(volta,lista,flag):#se flag == 1 fazemos a normalização se flag == 0 voltamos a normalização
+    lista = np.array(lista)
+    desp = np.std(lista)
+    media = np.mean(lista)
+    if desp == 0:
+        desp = 1
 
-suavizacao()
+    if flag:
+        lista = (lista - media)/desp
+        print "norm"
+        print lista, media, desp
+    else:
+        volta = np.array(volta)
+        desp = np.std(volta)
+        media = np.mean(volta)
+        if desp == 0:
+            desp = 1
+
+        lista = (lista+media)*desp
+
+    return lista
