@@ -36,20 +36,37 @@ def sliding_window_normalizations(volta,lista,flag):#se flag == 1 fazemos a norm
     lista = np.array(lista)
     desp = np.std(lista)
     media = np.mean(lista)
-    if desp == 0:
-        desp = 1
-
     if flag:
+        print "normalização \n"
+        print "original: ", lista
+        if desp == 0:
+            desp = 0,1
         lista = (lista - media)/desp
-        print "norm"
-        print lista, media, desp
+        # print "norm"
+        # print lista
+
+        
+        
+
+        print "desvio padrão: ", desp
+        print "média: ", media
+        print lista
+        print "///////////////////////////////////"
     else:
         volta = np.array(volta)
         desp = np.std(volta)
         media = np.mean(volta)
         if desp == 0:
-            desp = 1
+            desp = 0,1
 
-        lista = (lista+media)*desp
+        print "volta da normalização \n"
+        print "desvio padrão: ", desp
+        print "média: ", media
+
+        lista = lista*desp + media
+        # print "volta"
+        # print volta
+        print lista
+        print "///////////////////////////////////"
 
     return lista

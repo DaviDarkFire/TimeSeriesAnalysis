@@ -40,7 +40,7 @@ def main():
         y_saida.append(i)
         if (count % 5 == 0 and count != 0):
             cel.append(i)
-            ndtw.sliding_window_normalizations([],cel,1) #faço as normalizações de janela deslizante
+            cel = ndtw.sliding_window_normalizations([],cel,1) #faço as normalizações de janela deslizante
             y.append(cel[-1:]) #o ultimo valor normalizado é meu y
             x.append(cel[:4])  #os primeiro 4 valores são o meu x
             cel = []
@@ -63,7 +63,12 @@ def main():
         passar = ndtw.sliding_window_normalizations([],passar,1) #normalizo com a média e desvio padrão
         pred = obj.predict(passar)[0] #pego a predição normalizada
         passar = np.append(passar,pred) #adiciono ela nos valores da qual a predição foi feita
+        # print "normalizada: ",passar
+        # print "\n"
         passar = ndtw.sliding_window_normalizations(volta,passar,0) #tiro a normlização pra jogar na lista de saida
+        # print "volta ", volta
+        # print "desnormalizada: ", passar
+        # print "/////////////////////////////////////////////////////////////////"
         y_saida.append(passar[-1:]) #janela deslizante fazendo predições, essa posição [0] é pq o retorno do predict é uma np.array com uma posição que tem o valor que eu quero
 
 

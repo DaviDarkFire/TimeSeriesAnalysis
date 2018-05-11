@@ -1,3569 +1,2913 @@
-10pt_vs_original_comp.pdf
-95pt_vs_original_comp.pdf
-25pt_vs_original_comp.pdf
-50_volca
-90pt_vs_original_comp.pdf
-55_pips
-75_pips
-85_pips
-30_volca
-5_pips
-100_volca
-15pt_vs_original_comp.pdf
-55_zigzag
-85pt_vs_original_comp.pdf
-65_volca
-25_volca
-50pt_vs_original_comp.pdf
-30_pips
-100_zigzag
-40_pips
-50_zigzag
-95_pips
-20_volca
-10_zigzag
-45_volca
-75_volca
-60pt_vs_original_comp.pdf
-Pontos vs Tempo
-45pt_vs_original_comp.pdf
-35_pips
-55_volca
-25_pips
-5_volca
-45_pips
-65pt_vs_original_comp.pdf
-70_volca
-90_zigzag
-50_pips
-55pt_vs_original_comp.pdf
-90_volca
-30pt_vs_original_comp.pdf
-25_zigzag
-80_zigzag
-80pt_vs_original_comp.pdf
-100pt_vs_original_comp.pdf
-35_volca
-75pt_vs_original_comp.pdf
-60_volca
-20pt_vs_original_comp.pdf
-30_zigzag
-90_pips
-40_zigzag
-Pontos vs Erro
-60_pips
-75_zigzag
-95_volca
-10_volca
-15_volca
-85_zigzag
-erro_tempo_vs_pontos.csv
-60_zigzag
-5_zigzag
-70_pips
-95_zigzag
-70_zigzag
-65_zigzag
-20_zigzag
-35_zigzag
-5pt_vs_original_comp.pdf
-65_pips
-35pt_vs_original_comp.pdf
-20_pips
-40pt_vs_original_comp.pdf
-10_pips
-15_pips
-80_pips
-85_volca
-70pt_vs_original_comp.pdf
-80_volca
-15_zigzag
-45_zigzag
-100_pips
-40_volca
-10pt_vs_original_comp.pdf
-95pt_vs_original_comp.pdf
-25pt_vs_original_comp.pdf
-50_volca
-90pt_vs_original_comp.pdf
-55_pips
-75_pips
-85_pips
-30_volca
-5_pips
-100_volca
-15pt_vs_original_comp.pdf
-55_zigzag
-85pt_vs_original_comp.pdf
-65_volca
-25_volca
-50pt_vs_original_comp.pdf
-30_pips
-100_zigzag
-40_pips
-50_zigzag
-95_pips
-20_volca
-10_zigzag
-45_volca
-75_volca
-60pt_vs_original_comp.pdf
-Pontos vs Tempo
-45pt_vs_original_comp.pdf
-35_pips
-55_volca
-25_pips
-5_volca
-45_pips
-65pt_vs_original_comp.pdf
-70_volca
-90_zigzag
-50_pips
-55pt_vs_original_comp.pdf
-90_volca
-30pt_vs_original_comp.pdf
-25_zigzag
-80_zigzag
-80pt_vs_original_comp.pdf
-100pt_vs_original_comp.pdf
-35_volca
-75pt_vs_original_comp.pdf
-60_volca
-20pt_vs_original_comp.pdf
-30_zigzag
-90_pips
-40_zigzag
-Pontos vs Erro
-60_pips
-75_zigzag
-95_volca
-10_volca
-15_volca
-85_zigzag
-erro_tempo_vs_pontos.csv
-60_zigzag
-5_zigzag
-70_pips
-95_zigzag
-70_zigzag
-65_zigzag
-20_zigzag
-35_zigzag
-5pt_vs_original_comp.pdf
-65_pips
-35pt_vs_original_comp.pdf
-20_pips
-40pt_vs_original_comp.pdf
-10_pips
-15_pips
-80_pips
-85_volca
-70pt_vs_original_comp.pdf
-80_volca
-15_zigzag
-45_zigzag
-100_pips
-40_volca
-10pt_vs_original_comp.pdf
-95pt_vs_original_comp.pdf
-25pt_vs_original_comp.pdf
-50_volca
-90pt_vs_original_comp.pdf
-55_pips
-75_pips
-85_pips
-30_volca
-5_pips
-100_volca
-15pt_vs_original_comp.pdf
-55_zigzag
-85pt_vs_original_comp.pdf
-65_volca
-25_volca
-50pt_vs_original_comp.pdf
-30_pips
-100_zigzag
-40_pips
-50_zigzag
-95_pips
-20_volca
-10_zigzag
-45_volca
-75_volca
-60pt_vs_original_comp.pdf
-Pontos vs Tempo
-45pt_vs_original_comp.pdf
-35_pips
-55_volca
-25_pips
-5_volca
-45_pips
-65pt_vs_original_comp.pdf
-70_volca
-90_zigzag
-50_pips
-55pt_vs_original_comp.pdf
-90_volca
-30pt_vs_original_comp.pdf
-25_zigzag
-80_zigzag
-80pt_vs_original_comp.pdf
-100pt_vs_original_comp.pdf
-35_volca
-75pt_vs_original_comp.pdf
-60_volca
-20pt_vs_original_comp.pdf
-30_zigzag
-90_pips
-40_zigzag
-Pontos vs Erro
-60_pips
-75_zigzag
-95_volca
-10_volca
-15_volca
-85_zigzag
-erro_tempo_vs_pontos.csv
-60_zigzag
-5_zigzag
-70_pips
-95_zigzag
-70_zigzag
-65_zigzag
-20_zigzag
-35_zigzag
-5pt_vs_original_comp.pdf
-65_pips
-35pt_vs_original_comp.pdf
-20_pips
-40pt_vs_original_comp.pdf
-10_pips
-15_pips
-80_pips
-85_volca
-70pt_vs_original_comp.pdf
-80_volca
-15_zigzag
-45_zigzag
-100_pips
-40_volca
-10pt_vs_original_comp.pdf
-95pt_vs_original_comp.pdf
-25pt_vs_original_comp.pdf
-50_volca
-90pt_vs_original_comp.pdf
-55_pips
-75_pips
-85_pips
-30_volca
-5_pips
-100_volca
-15pt_vs_original_comp.pdf
-55_zigzag
-85pt_vs_original_comp.pdf
-65_volca
-25_volca
-50pt_vs_original_comp.pdf
-30_pips
-100_zigzag
-40_pips
-50_zigzag
-95_pips
-20_volca
-10_zigzag
-45_volca
-75_volca
-60pt_vs_original_comp.pdf
-Pontos vs Tempo
-45pt_vs_original_comp.pdf
-35_pips
-55_volca
-25_pips
-5_volca
-45_pips
-65pt_vs_original_comp.pdf
-70_volca
-90_zigzag
-50_pips
-55pt_vs_original_comp.pdf
-90_volca
-30pt_vs_original_comp.pdf
-25_zigzag
-80_zigzag
-80pt_vs_original_comp.pdf
-100pt_vs_original_comp.pdf
-35_volca
-75pt_vs_original_comp.pdf
-60_volca
-20pt_vs_original_comp.pdf
-30_zigzag
-90_pips
-40_zigzag
-Pontos vs Erro
-60_pips
-75_zigzag
-95_volca
-10_volca
-15_volca
-85_zigzag
-erro_tempo_vs_pontos.csv
-60_zigzag
-5_zigzag
-70_pips
-95_zigzag
-70_zigzag
-65_zigzag
-20_zigzag
-35_zigzag
-5pt_vs_original_comp.pdf
-65_pips
-35pt_vs_original_comp.pdf
-20_pips
-40pt_vs_original_comp.pdf
-10_pips
-15_pips
-80_pips
-85_volca
-70pt_vs_original_comp.pdf
-80_volca
-15_zigzag
-45_zigzag
-100_pips
-40_volca
-10pt_vs_original_comp.pdf
-95pt_vs_original_comp.pdf
-25pt_vs_original_comp.pdf
-50_volca
-90pt_vs_original_comp.pdf
-55_pips
-75_pips
-85_pips
-30_volca
-5_pips
-100_volca
-15pt_vs_original_comp.pdf
-55_zigzag
-85pt_vs_original_comp.pdf
-65_volca
-25_volca
-50pt_vs_original_comp.pdf
-30_pips
-100_zigzag
-40_pips
-50_zigzag
-95_pips
-20_volca
-10_zigzag
-45_volca
-75_volca
-60pt_vs_original_comp.pdf
-Pontos vs Tempo
-45pt_vs_original_comp.pdf
-35_pips
-55_volca
-25_pips
-5_volca
-45_pips
-65pt_vs_original_comp.pdf
-70_volca
-90_zigzag
-50_pips
-55pt_vs_original_comp.pdf
-90_volca
-30pt_vs_original_comp.pdf
-25_zigzag
-80_zigzag
-80pt_vs_original_comp.pdf
-100pt_vs_original_comp.pdf
-35_volca
-75pt_vs_original_comp.pdf
-60_volca
-20pt_vs_original_comp.pdf
-30_zigzag
-90_pips
-40_zigzag
-Pontos vs Erro
-60_pips
-75_zigzag
-95_volca
-10_volca
-15_volca
-85_zigzag
-erro_tempo_vs_pontos.csv
-60_zigzag
-5_zigzag
-70_pips
-95_zigzag
-70_zigzag
-65_zigzag
-20_zigzag
-35_zigzag
-5pt_vs_original_comp.pdf
-65_pips
-35pt_vs_original_comp.pdf
-20_pips
-40pt_vs_original_comp.pdf
-10_pips
-15_pips
-80_pips
-85_volca
-70pt_vs_original_comp.pdf
-80_volca
-15_zigzag
-45_zigzag
-100_pips
-40_volca
-10pt_vs_original_comp.pdf
-95pt_vs_original_comp.pdf
-25pt_vs_original_comp.pdf
-50_volca
-90pt_vs_original_comp.pdf
-55_pips
-75_pips
-85_pips
-30_volca
-5_pips
-100_volca
-15pt_vs_original_comp.pdf
-55_zigzag
-85pt_vs_original_comp.pdf
-65_volca
-25_volca
-50pt_vs_original_comp.pdf
-30_pips
-100_zigzag
-40_pips
-50_zigzag
-95_pips
-20_volca
-10_zigzag
-45_volca
-75_volca
-60pt_vs_original_comp.pdf
-Pontos vs Tempo
-45pt_vs_original_comp.pdf
-35_pips
-55_volca
-25_pips
-5_volca
-45_pips
-65pt_vs_original_comp.pdf
-70_volca
-90_zigzag
-50_pips
-55pt_vs_original_comp.pdf
-90_volca
-30pt_vs_original_comp.pdf
-25_zigzag
-80_zigzag
-80pt_vs_original_comp.pdf
-100pt_vs_original_comp.pdf
-35_volca
-75pt_vs_original_comp.pdf
-60_volca
-20pt_vs_original_comp.pdf
-30_zigzag
-90_pips
-40_zigzag
-Pontos vs Erro
-60_pips
-75_zigzag
-95_volca
-10_volca
-15_volca
-85_zigzag
-erro_tempo_vs_pontos.csv
-60_zigzag
-5_zigzag
-70_pips
-95_zigzag
-70_zigzag
-65_zigzag
-20_zigzag
-35_zigzag
-5pt_vs_original_comp.pdf
-65_pips
-35pt_vs_original_comp.pdf
-20_pips
-40pt_vs_original_comp.pdf
-10_pips
-15_pips
-80_pips
-85_volca
-70pt_vs_original_comp.pdf
-80_volca
-15_zigzag
-45_zigzag
-100_pips
-40_volca
-10pt_vs_original_comp.pdf
-95pt_vs_original_comp.pdf
-25pt_vs_original_comp.pdf
-50_volca
-90pt_vs_original_comp.pdf
-55_pips
-75_pips
-85_pips
-30_volca
-5_pips
-100_volca
-15pt_vs_original_comp.pdf
-55_zigzag
-85pt_vs_original_comp.pdf
-65_volca
-25_volca
-50pt_vs_original_comp.pdf
-30_pips
-100_zigzag
-40_pips
-50_zigzag
-95_pips
-20_volca
-10_zigzag
-45_volca
-75_volca
-60pt_vs_original_comp.pdf
-Pontos vs Tempo
-45pt_vs_original_comp.pdf
-35_pips
-55_volca
-25_pips
-5_volca
-45_pips
-65pt_vs_original_comp.pdf
-70_volca
-90_zigzag
-50_pips
-55pt_vs_original_comp.pdf
-90_volca
-30pt_vs_original_comp.pdf
-25_zigzag
-80_zigzag
-80pt_vs_original_comp.pdf
-100pt_vs_original_comp.pdf
-35_volca
-75pt_vs_original_comp.pdf
-60_volca
-20pt_vs_original_comp.pdf
-30_zigzag
-90_pips
-40_zigzag
-Pontos vs Erro
-60_pips
-75_zigzag
-95_volca
-10_volca
-15_volca
-85_zigzag
-erro_tempo_vs_pontos.csv
-60_zigzag
-5_zigzag
-70_pips
-95_zigzag
-70_zigzag
-65_zigzag
-20_zigzag
-35_zigzag
-5pt_vs_original_comp.pdf
-65_pips
-35pt_vs_original_comp.pdf
-20_pips
-40pt_vs_original_comp.pdf
-10_pips
-15_pips
-80_pips
-85_volca
-70pt_vs_original_comp.pdf
-80_volca
-15_zigzag
-45_zigzag
-100_pips
-40_volca
-10pt_vs_original_comp.pdf
-95pt_vs_original_comp.pdf
-25pt_vs_original_comp.pdf
-50_volca
-90pt_vs_original_comp.pdf
-55_pips
-75_pips
-85_pips
-30_volca
-5_pips
-100_volca
-15pt_vs_original_comp.pdf
-55_zigzag
-85pt_vs_original_comp.pdf
-65_volca
-25_volca
-50pt_vs_original_comp.pdf
-30_pips
-100_zigzag
-40_pips
-50_zigzag
-95_pips
-20_volca
-10_zigzag
-45_volca
-75_volca
-60pt_vs_original_comp.pdf
-Pontos vs Tempo
-45pt_vs_original_comp.pdf
-35_pips
-55_volca
-25_pips
-5_volca
-45_pips
-65pt_vs_original_comp.pdf
-70_volca
-90_zigzag
-50_pips
-55pt_vs_original_comp.pdf
-90_volca
-30pt_vs_original_comp.pdf
-25_zigzag
-80_zigzag
-80pt_vs_original_comp.pdf
-100pt_vs_original_comp.pdf
-35_volca
-75pt_vs_original_comp.pdf
-60_volca
-20pt_vs_original_comp.pdf
-30_zigzag
-90_pips
-40_zigzag
-Pontos vs Erro
-60_pips
-75_zigzag
-95_volca
-10_volca
-15_volca
-85_zigzag
-erro_tempo_vs_pontos.csv
-60_zigzag
-5_zigzag
-70_pips
-95_zigzag
-70_zigzag
-65_zigzag
-20_zigzag
-35_zigzag
-5pt_vs_original_comp.pdf
-65_pips
-35pt_vs_original_comp.pdf
-20_pips
-40pt_vs_original_comp.pdf
-10_pips
-15_pips
-80_pips
-85_volca
-70pt_vs_original_comp.pdf
-80_volca
-15_zigzag
-45_zigzag
-100_pips
-40_volca
-10pt_vs_original_comp.pdf
-95pt_vs_original_comp.pdf
-25pt_vs_original_comp.pdf
-50_volca
-90pt_vs_original_comp.pdf
-55_pips
-75_pips
-85_pips
-30_volca
-5_pips
-100_volca
-15pt_vs_original_comp.pdf
-55_zigzag
-85pt_vs_original_comp.pdf
-65_volca
-25_volca
-50pt_vs_original_comp.pdf
-30_pips
-100_zigzag
-40_pips
-50_zigzag
-95_pips
-20_volca
-10_zigzag
-45_volca
-75_volca
-60pt_vs_original_comp.pdf
-Pontos vs Tempo
-45pt_vs_original_comp.pdf
-35_pips
-55_volca
-25_pips
-5_volca
-45_pips
-65pt_vs_original_comp.pdf
-70_volca
-90_zigzag
-50_pips
-55pt_vs_original_comp.pdf
-90_volca
-30pt_vs_original_comp.pdf
-25_zigzag
-80_zigzag
-80pt_vs_original_comp.pdf
-100pt_vs_original_comp.pdf
-35_volca
-75pt_vs_original_comp.pdf
-60_volca
-20pt_vs_original_comp.pdf
-30_zigzag
-90_pips
-40_zigzag
-Pontos vs Erro
-60_pips
-75_zigzag
-95_volca
-10_volca
-15_volca
-85_zigzag
-erro_tempo_vs_pontos.csv
-60_zigzag
-5_zigzag
-70_pips
-95_zigzag
-70_zigzag
-65_zigzag
-20_zigzag
-35_zigzag
-5pt_vs_original_comp.pdf
-65_pips
-35pt_vs_original_comp.pdf
-20_pips
-40pt_vs_original_comp.pdf
-10_pips
-15_pips
-80_pips
-85_volca
-70pt_vs_original_comp.pdf
-80_volca
-15_zigzag
-45_zigzag
-100_pips
-40_volca
-10pt_vs_original_comp.pdf
-95pt_vs_original_comp.pdf
-25pt_vs_original_comp.pdf
-50_volca
-90pt_vs_original_comp.pdf
-55_pips
-75_pips
-85_pips
-30_volca
-5_pips
-100_volca
-15pt_vs_original_comp.pdf
-55_zigzag
-85pt_vs_original_comp.pdf
-65_volca
-25_volca
-50pt_vs_original_comp.pdf
-30_pips
-100_zigzag
-40_pips
-50_zigzag
-95_pips
-20_volca
-10_zigzag
-45_volca
-75_volca
-60pt_vs_original_comp.pdf
-Pontos vs Tempo
-45pt_vs_original_comp.pdf
-35_pips
-55_volca
-25_pips
-5_volca
-45_pips
-65pt_vs_original_comp.pdf
-70_volca
-90_zigzag
-50_pips
-55pt_vs_original_comp.pdf
-90_volca
-30pt_vs_original_comp.pdf
-25_zigzag
-80_zigzag
-80pt_vs_original_comp.pdf
-100pt_vs_original_comp.pdf
-35_volca
-75pt_vs_original_comp.pdf
-60_volca
-20pt_vs_original_comp.pdf
-30_zigzag
-90_pips
-40_zigzag
-Pontos vs Erro
-60_pips
-75_zigzag
-95_volca
-10_volca
-15_volca
-85_zigzag
-erro_tempo_vs_pontos.csv
-60_zigzag
-5_zigzag
-70_pips
-95_zigzag
-70_zigzag
-65_zigzag
-20_zigzag
-35_zigzag
-5pt_vs_original_comp.pdf
-65_pips
-35pt_vs_original_comp.pdf
-20_pips
-40pt_vs_original_comp.pdf
-10_pips
-15_pips
-80_pips
-85_volca
-70pt_vs_original_comp.pdf
-80_volca
-15_zigzag
-45_zigzag
-100_pips
-40_volca
-10pt_vs_original_comp.pdf
-95pt_vs_original_comp.pdf
-25pt_vs_original_comp.pdf
-50_volca
-90pt_vs_original_comp.pdf
-55_pips
-75_pips
-85_pips
-30_volca
-5_pips
-100_volca
-15pt_vs_original_comp.pdf
-55_zigzag
-85pt_vs_original_comp.pdf
-65_volca
-25_volca
-50pt_vs_original_comp.pdf
-30_pips
-100_zigzag
-40_pips
-50_zigzag
-95_pips
-20_volca
-10_zigzag
-45_volca
-75_volca
-60pt_vs_original_comp.pdf
-Pontos vs Tempo
-45pt_vs_original_comp.pdf
-35_pips
-55_volca
-25_pips
-5_volca
-45_pips
-65pt_vs_original_comp.pdf
-70_volca
-90_zigzag
-50_pips
-55pt_vs_original_comp.pdf
-90_volca
-30pt_vs_original_comp.pdf
-25_zigzag
-80_zigzag
-80pt_vs_original_comp.pdf
-100pt_vs_original_comp.pdf
-35_volca
-75pt_vs_original_comp.pdf
-60_volca
-20pt_vs_original_comp.pdf
-30_zigzag
-90_pips
-40_zigzag
-Pontos vs Erro
-60_pips
-75_zigzag
-95_volca
-10_volca
-15_volca
-85_zigzag
-erro_tempo_vs_pontos.csv
-60_zigzag
-5_zigzag
-70_pips
-95_zigzag
-70_zigzag
-65_zigzag
-20_zigzag
-35_zigzag
-5pt_vs_original_comp.pdf
-65_pips
-35pt_vs_original_comp.pdf
-20_pips
-40pt_vs_original_comp.pdf
-10_pips
-15_pips
-80_pips
-85_volca
-70pt_vs_original_comp.pdf
-80_volca
-15_zigzag
-45_zigzag
-100_pips
-40_volca
-10pt_vs_original_comp.pdf
-95pt_vs_original_comp.pdf
-25pt_vs_original_comp.pdf
-50_volca
-90pt_vs_original_comp.pdf
-55_pips
-75_pips
-85_pips
-30_volca
-5_pips
-100_volca
-15pt_vs_original_comp.pdf
-55_zigzag
-85pt_vs_original_comp.pdf
-65_volca
-25_volca
-50pt_vs_original_comp.pdf
-30_pips
-100_zigzag
-40_pips
-50_zigzag
-95_pips
-20_volca
-10_zigzag
-45_volca
-75_volca
-60pt_vs_original_comp.pdf
-Pontos vs Tempo
-45pt_vs_original_comp.pdf
-35_pips
-55_volca
-25_pips
-5_volca
-45_pips
-65pt_vs_original_comp.pdf
-70_volca
-90_zigzag
-50_pips
-55pt_vs_original_comp.pdf
-90_volca
-30pt_vs_original_comp.pdf
-25_zigzag
-80_zigzag
-80pt_vs_original_comp.pdf
-100pt_vs_original_comp.pdf
-35_volca
-75pt_vs_original_comp.pdf
-60_volca
-20pt_vs_original_comp.pdf
-30_zigzag
-90_pips
-40_zigzag
-Pontos vs Erro
-60_pips
-75_zigzag
-95_volca
-10_volca
-15_volca
-85_zigzag
-erro_tempo_vs_pontos.csv
-60_zigzag
-5_zigzag
-70_pips
-95_zigzag
-70_zigzag
-65_zigzag
-20_zigzag
-35_zigzag
-5pt_vs_original_comp.pdf
-65_pips
-35pt_vs_original_comp.pdf
-20_pips
-40pt_vs_original_comp.pdf
-10_pips
-15_pips
-80_pips
-85_volca
-70pt_vs_original_comp.pdf
-80_volca
-15_zigzag
-45_zigzag
-100_pips
-40_volca
-10pt_vs_original_comp.pdf
-95pt_vs_original_comp.pdf
-25pt_vs_original_comp.pdf
-50_volca
-90pt_vs_original_comp.pdf
-55_pips
-75_pips
-85_pips
-30_volca
-5_pips
-100_volca
-15pt_vs_original_comp.pdf
-55_zigzag
-85pt_vs_original_comp.pdf
-65_volca
-25_volca
-50pt_vs_original_comp.pdf
-30_pips
-100_zigzag
-40_pips
-50_zigzag
-95_pips
-20_volca
-10_zigzag
-45_volca
-75_volca
-60pt_vs_original_comp.pdf
-Pontos vs Tempo
-45pt_vs_original_comp.pdf
-35_pips
-55_volca
-25_pips
-5_volca
-45_pips
-65pt_vs_original_comp.pdf
-70_volca
-90_zigzag
-50_pips
-55pt_vs_original_comp.pdf
-90_volca
-30pt_vs_original_comp.pdf
-25_zigzag
-80_zigzag
-80pt_vs_original_comp.pdf
-100pt_vs_original_comp.pdf
-35_volca
-75pt_vs_original_comp.pdf
-60_volca
-20pt_vs_original_comp.pdf
-30_zigzag
-90_pips
-40_zigzag
-Pontos vs Erro
-60_pips
-75_zigzag
-95_volca
-10_volca
-15_volca
-85_zigzag
-erro_tempo_vs_pontos.csv
-60_zigzag
-5_zigzag
-70_pips
-95_zigzag
-70_zigzag
-65_zigzag
-20_zigzag
-35_zigzag
-5pt_vs_original_comp.pdf
-65_pips
-35pt_vs_original_comp.pdf
-20_pips
-40pt_vs_original_comp.pdf
-10_pips
-15_pips
-80_pips
-85_volca
-70pt_vs_original_comp.pdf
-80_volca
-15_zigzag
-45_zigzag
-100_pips
-40_volca
-10pt_vs_original_comp.pdf
-95pt_vs_original_comp.pdf
-25pt_vs_original_comp.pdf
-50_volca
-90pt_vs_original_comp.pdf
-55_pips
-75_pips
-85_pips
-30_volca
-5_pips
-100_volca
-15pt_vs_original_comp.pdf
-55_zigzag
-85pt_vs_original_comp.pdf
-65_volca
-25_volca
-50pt_vs_original_comp.pdf
-30_pips
-100_zigzag
-40_pips
-50_zigzag
-95_pips
-20_volca
-10_zigzag
-45_volca
-75_volca
-60pt_vs_original_comp.pdf
-Pontos vs Tempo
-45pt_vs_original_comp.pdf
-35_pips
-55_volca
-25_pips
-5_volca
-45_pips
-65pt_vs_original_comp.pdf
-70_volca
-90_zigzag
-50_pips
-55pt_vs_original_comp.pdf
-90_volca
-30pt_vs_original_comp.pdf
-25_zigzag
-80_zigzag
-80pt_vs_original_comp.pdf
-100pt_vs_original_comp.pdf
-35_volca
-75pt_vs_original_comp.pdf
-60_volca
-20pt_vs_original_comp.pdf
-30_zigzag
-90_pips
-40_zigzag
-Pontos vs Erro
-60_pips
-75_zigzag
-95_volca
-10_volca
-15_volca
-85_zigzag
-erro_tempo_vs_pontos.csv
-60_zigzag
-5_zigzag
-70_pips
-95_zigzag
-70_zigzag
-65_zigzag
-20_zigzag
-35_zigzag
-5pt_vs_original_comp.pdf
-65_pips
-35pt_vs_original_comp.pdf
-20_pips
-40pt_vs_original_comp.pdf
-10_pips
-15_pips
-80_pips
-85_volca
-70pt_vs_original_comp.pdf
-80_volca
-15_zigzag
-45_zigzag
-100_pips
-40_volca
-10pt_vs_original_comp.pdf
-95pt_vs_original_comp.pdf
-25pt_vs_original_comp.pdf
-50_volca
-90pt_vs_original_comp.pdf
-55_pips
-75_pips
-85_pips
-30_volca
-5_pips
-100_volca
-15pt_vs_original_comp.pdf
-55_zigzag
-85pt_vs_original_comp.pdf
-65_volca
-25_volca
-50pt_vs_original_comp.pdf
-30_pips
-100_zigzag
-40_pips
-50_zigzag
-95_pips
-20_volca
-10_zigzag
-45_volca
-75_volca
-60pt_vs_original_comp.pdf
-Pontos vs Tempo
-45pt_vs_original_comp.pdf
-35_pips
-55_volca
-25_pips
-5_volca
-45_pips
-65pt_vs_original_comp.pdf
-70_volca
-90_zigzag
-50_pips
-55pt_vs_original_comp.pdf
-90_volca
-30pt_vs_original_comp.pdf
-25_zigzag
-80_zigzag
-80pt_vs_original_comp.pdf
-100pt_vs_original_comp.pdf
-35_volca
-75pt_vs_original_comp.pdf
-60_volca
-20pt_vs_original_comp.pdf
-30_zigzag
-90_pips
-40_zigzag
-Pontos vs Erro
-60_pips
-75_zigzag
-95_volca
-10_volca
-15_volca
-85_zigzag
-erro_tempo_vs_pontos.csv
-60_zigzag
-5_zigzag
-70_pips
-95_zigzag
-70_zigzag
-65_zigzag
-20_zigzag
-35_zigzag
-5pt_vs_original_comp.pdf
-65_pips
-35pt_vs_original_comp.pdf
-20_pips
-40pt_vs_original_comp.pdf
-10_pips
-15_pips
-80_pips
-85_volca
-70pt_vs_original_comp.pdf
-80_volca
-15_zigzag
-45_zigzag
-100_pips
-40_volca
-10pt_vs_original_comp.pdf
-95pt_vs_original_comp.pdf
-25pt_vs_original_comp.pdf
-50_volca
-90pt_vs_original_comp.pdf
-55_pips
-75_pips
-85_pips
-30_volca
-5_pips
-100_volca
-15pt_vs_original_comp.pdf
-55_zigzag
-85pt_vs_original_comp.pdf
-65_volca
-25_volca
-50pt_vs_original_comp.pdf
-30_pips
-100_zigzag
-40_pips
-50_zigzag
-95_pips
-20_volca
-10_zigzag
-45_volca
-75_volca
-60pt_vs_original_comp.pdf
-Pontos vs Tempo
-45pt_vs_original_comp.pdf
-35_pips
-55_volca
-25_pips
-5_volca
-45_pips
-65pt_vs_original_comp.pdf
-70_volca
-90_zigzag
-50_pips
-55pt_vs_original_comp.pdf
-90_volca
-30pt_vs_original_comp.pdf
-25_zigzag
-80_zigzag
-80pt_vs_original_comp.pdf
-100pt_vs_original_comp.pdf
-35_volca
-75pt_vs_original_comp.pdf
-60_volca
-20pt_vs_original_comp.pdf
-30_zigzag
-90_pips
-40_zigzag
-Pontos vs Erro
-60_pips
-75_zigzag
-95_volca
-10_volca
-15_volca
-85_zigzag
-erro_tempo_vs_pontos.csv
-60_zigzag
-5_zigzag
-70_pips
-95_zigzag
-70_zigzag
-65_zigzag
-20_zigzag
-35_zigzag
-5pt_vs_original_comp.pdf
-65_pips
-35pt_vs_original_comp.pdf
-20_pips
-40pt_vs_original_comp.pdf
-10_pips
-15_pips
-80_pips
-85_volca
-70pt_vs_original_comp.pdf
-80_volca
-15_zigzag
-45_zigzag
-100_pips
-40_volca
-10pt_vs_original_comp.pdf
-95pt_vs_original_comp.pdf
-25pt_vs_original_comp.pdf
-50_volca
-90pt_vs_original_comp.pdf
-55_pips
-75_pips
-85_pips
-30_volca
-5_pips
-100_volca
-15pt_vs_original_comp.pdf
-55_zigzag
-85pt_vs_original_comp.pdf
-65_volca
-25_volca
-50pt_vs_original_comp.pdf
-30_pips
-100_zigzag
-40_pips
-50_zigzag
-95_pips
-20_volca
-10_zigzag
-45_volca
-75_volca
-60pt_vs_original_comp.pdf
-Pontos vs Tempo
-45pt_vs_original_comp.pdf
-35_pips
-55_volca
-25_pips
-5_volca
-45_pips
-65pt_vs_original_comp.pdf
-70_volca
-90_zigzag
-50_pips
-55pt_vs_original_comp.pdf
-90_volca
-30pt_vs_original_comp.pdf
-25_zigzag
-80_zigzag
-80pt_vs_original_comp.pdf
-100pt_vs_original_comp.pdf
-35_volca
-75pt_vs_original_comp.pdf
-60_volca
-20pt_vs_original_comp.pdf
-30_zigzag
-90_pips
-40_zigzag
-Pontos vs Erro
-60_pips
-75_zigzag
-95_volca
-10_volca
-15_volca
-85_zigzag
-erro_tempo_vs_pontos.csv
-60_zigzag
-5_zigzag
-70_pips
-95_zigzag
-70_zigzag
-65_zigzag
-20_zigzag
-35_zigzag
-5pt_vs_original_comp.pdf
-65_pips
-35pt_vs_original_comp.pdf
-20_pips
-40pt_vs_original_comp.pdf
-10_pips
-15_pips
-80_pips
-85_volca
-70pt_vs_original_comp.pdf
-80_volca
-15_zigzag
-45_zigzag
-100_pips
-40_volca
-10pt_vs_original_comp.pdf
-95pt_vs_original_comp.pdf
-25pt_vs_original_comp.pdf
-50_volca
-90pt_vs_original_comp.pdf
-55_pips
-75_pips
-85_pips
-30_volca
-5_pips
-100_volca
-15pt_vs_original_comp.pdf
-55_zigzag
-85pt_vs_original_comp.pdf
-65_volca
-25_volca
-50pt_vs_original_comp.pdf
-30_pips
-100_zigzag
-40_pips
-50_zigzag
-95_pips
-20_volca
-10_zigzag
-45_volca
-75_volca
-60pt_vs_original_comp.pdf
-Pontos vs Tempo
-45pt_vs_original_comp.pdf
-35_pips
-55_volca
-25_pips
-5_volca
-45_pips
-65pt_vs_original_comp.pdf
-70_volca
-90_zigzag
-50_pips
-55pt_vs_original_comp.pdf
-90_volca
-30pt_vs_original_comp.pdf
-25_zigzag
-80_zigzag
-80pt_vs_original_comp.pdf
-100pt_vs_original_comp.pdf
-35_volca
-75pt_vs_original_comp.pdf
-60_volca
-20pt_vs_original_comp.pdf
-30_zigzag
-90_pips
-40_zigzag
-Pontos vs Erro
-60_pips
-75_zigzag
-95_volca
-10_volca
-15_volca
-85_zigzag
-erro_tempo_vs_pontos.csv
-60_zigzag
-5_zigzag
-70_pips
-95_zigzag
-70_zigzag
-65_zigzag
-20_zigzag
-35_zigzag
-5pt_vs_original_comp.pdf
-65_pips
-35pt_vs_original_comp.pdf
-20_pips
-40pt_vs_original_comp.pdf
-10_pips
-15_pips
-80_pips
-85_volca
-70pt_vs_original_comp.pdf
-80_volca
-15_zigzag
-45_zigzag
-100_pips
-40_volca
-10pt_vs_original_comp.pdf
-95pt_vs_original_comp.pdf
-25pt_vs_original_comp.pdf
-50_volca
-90pt_vs_original_comp.pdf
-55_pips
-75_pips
-85_pips
-30_volca
-5_pips
-100_volca
-15pt_vs_original_comp.pdf
-55_zigzag
-85pt_vs_original_comp.pdf
-65_volca
-25_volca
-50pt_vs_original_comp.pdf
-30_pips
-100_zigzag
-40_pips
-50_zigzag
-95_pips
-20_volca
-10_zigzag
-45_volca
-75_volca
-60pt_vs_original_comp.pdf
-Pontos vs Tempo
-45pt_vs_original_comp.pdf
-35_pips
-55_volca
-25_pips
-5_volca
-45_pips
-65pt_vs_original_comp.pdf
-70_volca
-90_zigzag
-50_pips
-55pt_vs_original_comp.pdf
-90_volca
-30pt_vs_original_comp.pdf
-25_zigzag
-80_zigzag
-80pt_vs_original_comp.pdf
-100pt_vs_original_comp.pdf
-35_volca
-75pt_vs_original_comp.pdf
-60_volca
-20pt_vs_original_comp.pdf
-30_zigzag
-90_pips
-40_zigzag
-Pontos vs Erro
-60_pips
-75_zigzag
-95_volca
-10_volca
-15_volca
-85_zigzag
-erro_tempo_vs_pontos.csv
-60_zigzag
-5_zigzag
-70_pips
-95_zigzag
-70_zigzag
-65_zigzag
-20_zigzag
-35_zigzag
-5pt_vs_original_comp.pdf
-65_pips
-35pt_vs_original_comp.pdf
-20_pips
-40pt_vs_original_comp.pdf
-10_pips
-15_pips
-80_pips
-85_volca
-70pt_vs_original_comp.pdf
-80_volca
-15_zigzag
-45_zigzag
-100_pips
-40_volca
-10pt_vs_original_comp.pdf
-95pt_vs_original_comp.pdf
-25pt_vs_original_comp.pdf
-50_volca
-90pt_vs_original_comp.pdf
-55_pips
-75_pips
-85_pips
-30_volca
-5_pips
-100_volca
-15pt_vs_original_comp.pdf
-55_zigzag
-85pt_vs_original_comp.pdf
-65_volca
-25_volca
-50pt_vs_original_comp.pdf
-30_pips
-100_zigzag
-40_pips
-50_zigzag
-95_pips
-20_volca
-10_zigzag
-45_volca
-75_volca
-60pt_vs_original_comp.pdf
-Pontos vs Tempo
-45pt_vs_original_comp.pdf
-35_pips
-55_volca
-25_pips
-5_volca
-45_pips
-65pt_vs_original_comp.pdf
-70_volca
-90_zigzag
-50_pips
-55pt_vs_original_comp.pdf
-90_volca
-30pt_vs_original_comp.pdf
-25_zigzag
-80_zigzag
-80pt_vs_original_comp.pdf
-100pt_vs_original_comp.pdf
-35_volca
-75pt_vs_original_comp.pdf
-60_volca
-20pt_vs_original_comp.pdf
-30_zigzag
-90_pips
-40_zigzag
-Pontos vs Erro
-60_pips
-75_zigzag
-95_volca
-10_volca
-15_volca
-85_zigzag
-erro_tempo_vs_pontos.csv
-60_zigzag
-5_zigzag
-70_pips
-95_zigzag
-70_zigzag
-65_zigzag
-20_zigzag
-35_zigzag
-5pt_vs_original_comp.pdf
-65_pips
-35pt_vs_original_comp.pdf
-20_pips
-40pt_vs_original_comp.pdf
-10_pips
-15_pips
-80_pips
-85_volca
-70pt_vs_original_comp.pdf
-80_volca
-15_zigzag
-45_zigzag
-100_pips
-40_volca
-10pt_vs_original_comp.pdf
-95pt_vs_original_comp.pdf
-25pt_vs_original_comp.pdf
-50_volca
-90pt_vs_original_comp.pdf
-55_pips
-75_pips
-85_pips
-30_volca
-5_pips
-100_volca
-15pt_vs_original_comp.pdf
-55_zigzag
-85pt_vs_original_comp.pdf
-65_volca
-25_volca
-50pt_vs_original_comp.pdf
-30_pips
-100_zigzag
-40_pips
-50_zigzag
-95_pips
-20_volca
-10_zigzag
-45_volca
-75_volca
-60pt_vs_original_comp.pdf
-Pontos vs Tempo
-45pt_vs_original_comp.pdf
-35_pips
-55_volca
-25_pips
-5_volca
-45_pips
-65pt_vs_original_comp.pdf
-70_volca
-90_zigzag
-50_pips
-55pt_vs_original_comp.pdf
-90_volca
-30pt_vs_original_comp.pdf
-25_zigzag
-80_zigzag
-80pt_vs_original_comp.pdf
-100pt_vs_original_comp.pdf
-35_volca
-75pt_vs_original_comp.pdf
-60_volca
-20pt_vs_original_comp.pdf
-30_zigzag
-90_pips
-40_zigzag
-Pontos vs Erro
-60_pips
-75_zigzag
-95_volca
-10_volca
-15_volca
-85_zigzag
-erro_tempo_vs_pontos.csv
-60_zigzag
-5_zigzag
-70_pips
-95_zigzag
-70_zigzag
-65_zigzag
-20_zigzag
-35_zigzag
-5pt_vs_original_comp.pdf
-65_pips
-35pt_vs_original_comp.pdf
-20_pips
-40pt_vs_original_comp.pdf
-10_pips
-15_pips
-80_pips
-85_volca
-70pt_vs_original_comp.pdf
-80_volca
-15_zigzag
-45_zigzag
-100_pips
-40_volca
-10pt_vs_original_comp.pdf
-95pt_vs_original_comp.pdf
-25pt_vs_original_comp.pdf
-50_volca
-90pt_vs_original_comp.pdf
-55_pips
-75_pips
-85_pips
-30_volca
-5_pips
-100_volca
-15pt_vs_original_comp.pdf
-55_zigzag
-85pt_vs_original_comp.pdf
-65_volca
-25_volca
-50pt_vs_original_comp.pdf
-30_pips
-100_zigzag
-40_pips
-50_zigzag
-95_pips
-20_volca
-10_zigzag
-45_volca
-75_volca
-60pt_vs_original_comp.pdf
-Pontos vs Tempo
-45pt_vs_original_comp.pdf
-35_pips
-55_volca
-25_pips
-5_volca
-45_pips
-65pt_vs_original_comp.pdf
-70_volca
-90_zigzag
-50_pips
-55pt_vs_original_comp.pdf
-90_volca
-30pt_vs_original_comp.pdf
-25_zigzag
-80_zigzag
-80pt_vs_original_comp.pdf
-100pt_vs_original_comp.pdf
-35_volca
-75pt_vs_original_comp.pdf
-60_volca
-20pt_vs_original_comp.pdf
-30_zigzag
-90_pips
-40_zigzag
-Pontos vs Erro
-60_pips
-75_zigzag
-95_volca
-10_volca
-15_volca
-85_zigzag
-erro_tempo_vs_pontos.csv
-60_zigzag
-5_zigzag
-70_pips
-95_zigzag
-70_zigzag
-65_zigzag
-20_zigzag
-35_zigzag
-5pt_vs_original_comp.pdf
-65_pips
-35pt_vs_original_comp.pdf
-20_pips
-40pt_vs_original_comp.pdf
-10_pips
-15_pips
-80_pips
-85_volca
-70pt_vs_original_comp.pdf
-80_volca
-15_zigzag
-45_zigzag
-100_pips
-40_volca
-10pt_vs_original_comp.pdf
-95pt_vs_original_comp.pdf
-25pt_vs_original_comp.pdf
-50_volca
-90pt_vs_original_comp.pdf
-55_pips
-75_pips
-85_pips
-30_volca
-5_pips
-100_volca
-15pt_vs_original_comp.pdf
-55_zigzag
-85pt_vs_original_comp.pdf
-65_volca
-25_volca
-50pt_vs_original_comp.pdf
-30_pips
-100_zigzag
-40_pips
-50_zigzag
-95_pips
-20_volca
-10_zigzag
-45_volca
-75_volca
-60pt_vs_original_comp.pdf
-Pontos vs Tempo
-45pt_vs_original_comp.pdf
-35_pips
-55_volca
-25_pips
-5_volca
-45_pips
-65pt_vs_original_comp.pdf
-70_volca
-90_zigzag
-50_pips
-55pt_vs_original_comp.pdf
-90_volca
-30pt_vs_original_comp.pdf
-25_zigzag
-80_zigzag
-80pt_vs_original_comp.pdf
-100pt_vs_original_comp.pdf
-35_volca
-75pt_vs_original_comp.pdf
-60_volca
-20pt_vs_original_comp.pdf
-30_zigzag
-90_pips
-40_zigzag
-Pontos vs Erro
-60_pips
-75_zigzag
-95_volca
-10_volca
-15_volca
-85_zigzag
-erro_tempo_vs_pontos.csv
-60_zigzag
-5_zigzag
-70_pips
-95_zigzag
-70_zigzag
-65_zigzag
-20_zigzag
-35_zigzag
-5pt_vs_original_comp.pdf
-65_pips
-35pt_vs_original_comp.pdf
-20_pips
-40pt_vs_original_comp.pdf
-10_pips
-15_pips
-80_pips
-85_volca
-70pt_vs_original_comp.pdf
-80_volca
-15_zigzag
-45_zigzag
-100_pips
-40_volca
-10pt_vs_original_comp.pdf
-95pt_vs_original_comp.pdf
-25pt_vs_original_comp.pdf
-50_volca
-90pt_vs_original_comp.pdf
-55_pips
-75_pips
-85_pips
-30_volca
-5_pips
-100_volca
-15pt_vs_original_comp.pdf
-55_zigzag
-85pt_vs_original_comp.pdf
-65_volca
-25_volca
-50pt_vs_original_comp.pdf
-30_pips
-100_zigzag
-40_pips
-50_zigzag
-95_pips
-20_volca
-10_zigzag
-45_volca
-75_volca
-60pt_vs_original_comp.pdf
-Pontos vs Tempo
-45pt_vs_original_comp.pdf
-35_pips
-55_volca
-25_pips
-5_volca
-45_pips
-65pt_vs_original_comp.pdf
-70_volca
-90_zigzag
-50_pips
-55pt_vs_original_comp.pdf
-90_volca
-30pt_vs_original_comp.pdf
-25_zigzag
-80_zigzag
-80pt_vs_original_comp.pdf
-100pt_vs_original_comp.pdf
-35_volca
-75pt_vs_original_comp.pdf
-60_volca
-20pt_vs_original_comp.pdf
-30_zigzag
-90_pips
-40_zigzag
-Pontos vs Erro
-60_pips
-75_zigzag
-95_volca
-10_volca
-15_volca
-85_zigzag
-erro_tempo_vs_pontos.csv
-60_zigzag
-5_zigzag
-70_pips
-95_zigzag
-70_zigzag
-65_zigzag
-20_zigzag
-35_zigzag
-5pt_vs_original_comp.pdf
-65_pips
-35pt_vs_original_comp.pdf
-20_pips
-40pt_vs_original_comp.pdf
-10_pips
-15_pips
-80_pips
-85_volca
-70pt_vs_original_comp.pdf
-80_volca
-15_zigzag
-45_zigzag
-100_pips
-40_volca
-10pt_vs_original_comp.pdf
-95pt_vs_original_comp.pdf
-25pt_vs_original_comp.pdf
-50_volca
-90pt_vs_original_comp.pdf
-55_pips
-75_pips
-85_pips
-30_volca
-5_pips
-100_volca
-15pt_vs_original_comp.pdf
-55_zigzag
-85pt_vs_original_comp.pdf
-65_volca
-25_volca
-50pt_vs_original_comp.pdf
-30_pips
-100_zigzag
-40_pips
-50_zigzag
-95_pips
-20_volca
-10_zigzag
-45_volca
-75_volca
-60pt_vs_original_comp.pdf
-Pontos vs Tempo
-45pt_vs_original_comp.pdf
-35_pips
-55_volca
-25_pips
-5_volca
-45_pips
-65pt_vs_original_comp.pdf
-70_volca
-90_zigzag
-50_pips
-55pt_vs_original_comp.pdf
-90_volca
-30pt_vs_original_comp.pdf
-25_zigzag
-80_zigzag
-80pt_vs_original_comp.pdf
-100pt_vs_original_comp.pdf
-35_volca
-75pt_vs_original_comp.pdf
-60_volca
-20pt_vs_original_comp.pdf
-30_zigzag
-90_pips
-40_zigzag
-Pontos vs Erro
-60_pips
-75_zigzag
-95_volca
-10_volca
-15_volca
-85_zigzag
-erro_tempo_vs_pontos.csv
-60_zigzag
-5_zigzag
-70_pips
-95_zigzag
-70_zigzag
-65_zigzag
-20_zigzag
-35_zigzag
-5pt_vs_original_comp.pdf
-65_pips
-35pt_vs_original_comp.pdf
-20_pips
-40pt_vs_original_comp.pdf
-10_pips
-15_pips
-80_pips
-85_volca
-70pt_vs_original_comp.pdf
-80_volca
-15_zigzag
-45_zigzag
-100_pips
-40_volca
-10pt_vs_original_comp.pdf
-95pt_vs_original_comp.pdf
-25pt_vs_original_comp.pdf
-50_volca
-90pt_vs_original_comp.pdf
-55_pips
-75_pips
-85_pips
-30_volca
-5_pips
-100_volca
-15pt_vs_original_comp.pdf
-55_zigzag
-85pt_vs_original_comp.pdf
-65_volca
-25_volca
-50pt_vs_original_comp.pdf
-30_pips
-100_zigzag
-40_pips
-50_zigzag
-95_pips
-20_volca
-10_zigzag
-45_volca
-75_volca
-60pt_vs_original_comp.pdf
-Pontos vs Tempo
-45pt_vs_original_comp.pdf
-35_pips
-55_volca
-25_pips
-5_volca
-45_pips
-65pt_vs_original_comp.pdf
-70_volca
-90_zigzag
-50_pips
-55pt_vs_original_comp.pdf
-90_volca
-30pt_vs_original_comp.pdf
-25_zigzag
-80_zigzag
-80pt_vs_original_comp.pdf
-100pt_vs_original_comp.pdf
-35_volca
-75pt_vs_original_comp.pdf
-60_volca
-20pt_vs_original_comp.pdf
-30_zigzag
-90_pips
-40_zigzag
-Pontos vs Erro
-60_pips
-75_zigzag
-95_volca
-10_volca
-15_volca
-85_zigzag
-erro_tempo_vs_pontos.csv
-60_zigzag
-5_zigzag
-70_pips
-95_zigzag
-70_zigzag
-65_zigzag
-20_zigzag
-35_zigzag
-5pt_vs_original_comp.pdf
-65_pips
-35pt_vs_original_comp.pdf
-20_pips
-40pt_vs_original_comp.pdf
-10_pips
-15_pips
-80_pips
-85_volca
-70pt_vs_original_comp.pdf
-80_volca
-15_zigzag
-45_zigzag
-100_pips
-40_volca
-10pt_vs_original_comp.pdf
-95pt_vs_original_comp.pdf
-25pt_vs_original_comp.pdf
-50_volca
-90pt_vs_original_comp.pdf
-55_pips
-75_pips
-85_pips
-30_volca
-5_pips
-100_volca
-15pt_vs_original_comp.pdf
-55_zigzag
-85pt_vs_original_comp.pdf
-65_volca
-25_volca
-50pt_vs_original_comp.pdf
-30_pips
-100_zigzag
-40_pips
-50_zigzag
-95_pips
-20_volca
-10_zigzag
-45_volca
-75_volca
-60pt_vs_original_comp.pdf
-Pontos vs Tempo
-45pt_vs_original_comp.pdf
-35_pips
-55_volca
-25_pips
-5_volca
-45_pips
-65pt_vs_original_comp.pdf
-70_volca
-90_zigzag
-50_pips
-55pt_vs_original_comp.pdf
-90_volca
-30pt_vs_original_comp.pdf
-25_zigzag
-80_zigzag
-80pt_vs_original_comp.pdf
-100pt_vs_original_comp.pdf
-35_volca
-75pt_vs_original_comp.pdf
-60_volca
-20pt_vs_original_comp.pdf
-30_zigzag
-90_pips
-40_zigzag
-Pontos vs Erro
-60_pips
-75_zigzag
-95_volca
-10_volca
-15_volca
-85_zigzag
-erro_tempo_vs_pontos.csv
-60_zigzag
-5_zigzag
-70_pips
-95_zigzag
-70_zigzag
-65_zigzag
-20_zigzag
-35_zigzag
-5pt_vs_original_comp.pdf
-65_pips
-35pt_vs_original_comp.pdf
-20_pips
-40pt_vs_original_comp.pdf
-10_pips
-15_pips
-80_pips
-85_volca
-70pt_vs_original_comp.pdf
-80_volca
-15_zigzag
-45_zigzag
-100_pips
-40_volca
-10pt_vs_original_comp.pdf
-95pt_vs_original_comp.pdf
-25pt_vs_original_comp.pdf
-50_volca
-90pt_vs_original_comp.pdf
-55_pips
-75_pips
-85_pips
-30_volca
-5_pips
-100_volca
-15pt_vs_original_comp.pdf
-55_zigzag
-85pt_vs_original_comp.pdf
-65_volca
-25_volca
-50pt_vs_original_comp.pdf
-30_pips
-100_zigzag
-40_pips
-50_zigzag
-95_pips
-20_volca
-10_zigzag
-45_volca
-75_volca
-60pt_vs_original_comp.pdf
-Pontos vs Tempo
-45pt_vs_original_comp.pdf
-35_pips
-55_volca
-25_pips
-5_volca
-45_pips
-65pt_vs_original_comp.pdf
-70_volca
-90_zigzag
-50_pips
-55pt_vs_original_comp.pdf
-90_volca
-30pt_vs_original_comp.pdf
-25_zigzag
-80_zigzag
-80pt_vs_original_comp.pdf
-100pt_vs_original_comp.pdf
-35_volca
-75pt_vs_original_comp.pdf
-60_volca
-20pt_vs_original_comp.pdf
-30_zigzag
-90_pips
-40_zigzag
-Pontos vs Erro
-60_pips
-75_zigzag
-95_volca
-10_volca
-15_volca
-85_zigzag
-erro_tempo_vs_pontos.csv
-60_zigzag
-5_zigzag
-70_pips
-95_zigzag
-70_zigzag
-65_zigzag
-20_zigzag
-35_zigzag
-5pt_vs_original_comp.pdf
-65_pips
-35pt_vs_original_comp.pdf
-20_pips
-40pt_vs_original_comp.pdf
-10_pips
-15_pips
-80_pips
-85_volca
-70pt_vs_original_comp.pdf
-80_volca
-15_zigzag
-45_zigzag
-100_pips
-40_volca
-10pt_vs_original_comp.pdf
-95pt_vs_original_comp.pdf
-25pt_vs_original_comp.pdf
-50_volca
-90pt_vs_original_comp.pdf
-55_pips
-75_pips
-85_pips
-30_volca
-5_pips
-100_volca
-15pt_vs_original_comp.pdf
-55_zigzag
-85pt_vs_original_comp.pdf
-65_volca
-25_volca
-50pt_vs_original_comp.pdf
-30_pips
-100_zigzag
-40_pips
-50_zigzag
-95_pips
-20_volca
-10_zigzag
-45_volca
-75_volca
-60pt_vs_original_comp.pdf
-Pontos vs Tempo
-45pt_vs_original_comp.pdf
-35_pips
-55_volca
-25_pips
-5_volca
-45_pips
-65pt_vs_original_comp.pdf
-70_volca
-90_zigzag
-50_pips
-55pt_vs_original_comp.pdf
-90_volca
-30pt_vs_original_comp.pdf
-25_zigzag
-80_zigzag
-80pt_vs_original_comp.pdf
-100pt_vs_original_comp.pdf
-35_volca
-75pt_vs_original_comp.pdf
-60_volca
-20pt_vs_original_comp.pdf
-30_zigzag
-90_pips
-40_zigzag
-Pontos vs Erro
-60_pips
-75_zigzag
-95_volca
-10_volca
-15_volca
-85_zigzag
-erro_tempo_vs_pontos.csv
-60_zigzag
-5_zigzag
-70_pips
-95_zigzag
-70_zigzag
-65_zigzag
-20_zigzag
-35_zigzag
-5pt_vs_original_comp.pdf
-65_pips
-35pt_vs_original_comp.pdf
-20_pips
-40pt_vs_original_comp.pdf
-10_pips
-15_pips
-80_pips
-85_volca
-70pt_vs_original_comp.pdf
-80_volca
-15_zigzag
-45_zigzag
-100_pips
-40_volca
-10pt_vs_original_comp.pdf
-95pt_vs_original_comp.pdf
-25pt_vs_original_comp.pdf
-50_volca
-90pt_vs_original_comp.pdf
-55_pips
-75_pips
-85_pips
-30_volca
-5_pips
-100_volca
-15pt_vs_original_comp.pdf
-55_zigzag
-85pt_vs_original_comp.pdf
-65_volca
-25_volca
-50pt_vs_original_comp.pdf
-30_pips
-100_zigzag
-40_pips
-50_zigzag
-95_pips
-20_volca
-10_zigzag
-45_volca
-75_volca
-60pt_vs_original_comp.pdf
-Pontos vs Tempo
-45pt_vs_original_comp.pdf
-35_pips
-55_volca
-25_pips
-5_volca
-45_pips
-65pt_vs_original_comp.pdf
-70_volca
-90_zigzag
-50_pips
-55pt_vs_original_comp.pdf
-90_volca
-30pt_vs_original_comp.pdf
-25_zigzag
-80_zigzag
-80pt_vs_original_comp.pdf
-100pt_vs_original_comp.pdf
-35_volca
-75pt_vs_original_comp.pdf
-60_volca
-20pt_vs_original_comp.pdf
-30_zigzag
-90_pips
-40_zigzag
-Pontos vs Erro
-60_pips
-75_zigzag
-95_volca
-10_volca
-15_volca
-85_zigzag
-erro_tempo_vs_pontos.csv
-60_zigzag
-5_zigzag
-70_pips
-95_zigzag
-70_zigzag
-65_zigzag
-20_zigzag
-35_zigzag
-5pt_vs_original_comp.pdf
-65_pips
-35pt_vs_original_comp.pdf
-20_pips
-40pt_vs_original_comp.pdf
-10_pips
-15_pips
-80_pips
-85_volca
-70pt_vs_original_comp.pdf
-80_volca
-15_zigzag
-45_zigzag
-100_pips
-40_volca
-10pt_vs_original_comp.pdf
-95pt_vs_original_comp.pdf
-25pt_vs_original_comp.pdf
-50_volca
-90pt_vs_original_comp.pdf
-55_pips
-75_pips
-85_pips
-30_volca
-5_pips
-100_volca
-15pt_vs_original_comp.pdf
-55_zigzag
-85pt_vs_original_comp.pdf
-65_volca
-25_volca
-50pt_vs_original_comp.pdf
-30_pips
-100_zigzag
-40_pips
-50_zigzag
-95_pips
-20_volca
-10_zigzag
-45_volca
-75_volca
-60pt_vs_original_comp.pdf
-Pontos vs Tempo
-45pt_vs_original_comp.pdf
-35_pips
-55_volca
-25_pips
-5_volca
-45_pips
-65pt_vs_original_comp.pdf
-70_volca
-90_zigzag
-50_pips
-55pt_vs_original_comp.pdf
-90_volca
-30pt_vs_original_comp.pdf
-25_zigzag
-80_zigzag
-80pt_vs_original_comp.pdf
-100pt_vs_original_comp.pdf
-35_volca
-75pt_vs_original_comp.pdf
-60_volca
-20pt_vs_original_comp.pdf
-30_zigzag
-90_pips
-40_zigzag
-Pontos vs Erro
-60_pips
-75_zigzag
-95_volca
-10_volca
-15_volca
-85_zigzag
-erro_tempo_vs_pontos.csv
-60_zigzag
-5_zigzag
-70_pips
-95_zigzag
-70_zigzag
-65_zigzag
-20_zigzag
-35_zigzag
-5pt_vs_original_comp.pdf
-65_pips
-35pt_vs_original_comp.pdf
-20_pips
-40pt_vs_original_comp.pdf
-10_pips
-15_pips
-80_pips
-85_volca
-70pt_vs_original_comp.pdf
-80_volca
-15_zigzag
-45_zigzag
-100_pips
-40_volca
-10pt_vs_original_comp.pdf
-95pt_vs_original_comp.pdf
-25pt_vs_original_comp.pdf
-50_volca
-90pt_vs_original_comp.pdf
-55_pips
-75_pips
-85_pips
-30_volca
-5_pips
-100_volca
-15pt_vs_original_comp.pdf
-55_zigzag
-85pt_vs_original_comp.pdf
-65_volca
-25_volca
-50pt_vs_original_comp.pdf
-30_pips
-100_zigzag
-40_pips
-50_zigzag
-95_pips
-20_volca
-10_zigzag
-45_volca
-75_volca
-60pt_vs_original_comp.pdf
-Pontos vs Tempo
-45pt_vs_original_comp.pdf
-35_pips
-55_volca
-25_pips
-5_volca
-45_pips
-65pt_vs_original_comp.pdf
-70_volca
-90_zigzag
-50_pips
-55pt_vs_original_comp.pdf
-90_volca
-30pt_vs_original_comp.pdf
-25_zigzag
-80_zigzag
-80pt_vs_original_comp.pdf
-100pt_vs_original_comp.pdf
-35_volca
-75pt_vs_original_comp.pdf
-60_volca
-20pt_vs_original_comp.pdf
-30_zigzag
-90_pips
-40_zigzag
-Pontos vs Erro
-60_pips
-75_zigzag
-95_volca
-10_volca
-15_volca
-85_zigzag
-erro_tempo_vs_pontos.csv
-60_zigzag
-5_zigzag
-70_pips
-95_zigzag
-70_zigzag
-65_zigzag
-20_zigzag
-35_zigzag
-5pt_vs_original_comp.pdf
-65_pips
-35pt_vs_original_comp.pdf
-20_pips
-40pt_vs_original_comp.pdf
-10_pips
-15_pips
-80_pips
-85_volca
-70pt_vs_original_comp.pdf
-80_volca
-15_zigzag
-45_zigzag
-100_pips
-40_volca
-10pt_vs_original_comp.pdf
-95pt_vs_original_comp.pdf
-25pt_vs_original_comp.pdf
-50_volca
-90pt_vs_original_comp.pdf
-55_pips
-75_pips
-85_pips
-30_volca
-5_pips
-100_volca
-15pt_vs_original_comp.pdf
-55_zigzag
-85pt_vs_original_comp.pdf
-65_volca
-25_volca
-50pt_vs_original_comp.pdf
-30_pips
-100_zigzag
-40_pips
-50_zigzag
-95_pips
-20_volca
-10_zigzag
-45_volca
-75_volca
-60pt_vs_original_comp.pdf
-Pontos vs Tempo
-45pt_vs_original_comp.pdf
-35_pips
-55_volca
-25_pips
-5_volca
-45_pips
-65pt_vs_original_comp.pdf
-70_volca
-90_zigzag
-50_pips
-55pt_vs_original_comp.pdf
-90_volca
-30pt_vs_original_comp.pdf
-25_zigzag
-80_zigzag
-80pt_vs_original_comp.pdf
-100pt_vs_original_comp.pdf
-35_volca
-75pt_vs_original_comp.pdf
-60_volca
-20pt_vs_original_comp.pdf
-30_zigzag
-90_pips
-40_zigzag
-Pontos vs Erro
-60_pips
-75_zigzag
-95_volca
-10_volca
-15_volca
-85_zigzag
-erro_tempo_vs_pontos.csv
-60_zigzag
-5_zigzag
-70_pips
-95_zigzag
-70_zigzag
-65_zigzag
-20_zigzag
-35_zigzag
-5pt_vs_original_comp.pdf
-65_pips
-35pt_vs_original_comp.pdf
-20_pips
-40pt_vs_original_comp.pdf
-10_pips
-15_pips
-80_pips
-85_volca
-70pt_vs_original_comp.pdf
-80_volca
-15_zigzag
-45_zigzag
-100_pips
-40_volca
-10pt_vs_original_comp.pdf
-95pt_vs_original_comp.pdf
-25pt_vs_original_comp.pdf
-50_volca
-90pt_vs_original_comp.pdf
-55_pips
-75_pips
-85_pips
-30_volca
-5_pips
-100_volca
-15pt_vs_original_comp.pdf
-55_zigzag
-85pt_vs_original_comp.pdf
-65_volca
-25_volca
-50pt_vs_original_comp.pdf
-30_pips
-100_zigzag
-40_pips
-50_zigzag
-95_pips
-20_volca
-10_zigzag
-45_volca
-75_volca
-60pt_vs_original_comp.pdf
-Pontos vs Tempo
-45pt_vs_original_comp.pdf
-35_pips
-55_volca
-25_pips
-5_volca
-45_pips
-65pt_vs_original_comp.pdf
-70_volca
-90_zigzag
-50_pips
-55pt_vs_original_comp.pdf
-90_volca
-30pt_vs_original_comp.pdf
-25_zigzag
-80_zigzag
-80pt_vs_original_comp.pdf
-100pt_vs_original_comp.pdf
-35_volca
-75pt_vs_original_comp.pdf
-60_volca
-20pt_vs_original_comp.pdf
-30_zigzag
-90_pips
-40_zigzag
-Pontos vs Erro
-60_pips
-75_zigzag
-95_volca
-10_volca
-15_volca
-85_zigzag
-erro_tempo_vs_pontos.csv
-60_zigzag
-5_zigzag
-70_pips
-95_zigzag
-70_zigzag
-65_zigzag
-20_zigzag
-35_zigzag
-5pt_vs_original_comp.pdf
-65_pips
-35pt_vs_original_comp.pdf
-20_pips
-40pt_vs_original_comp.pdf
-10_pips
-15_pips
-80_pips
-85_volca
-70pt_vs_original_comp.pdf
-80_volca
-15_zigzag
-45_zigzag
-100_pips
-40_volca
-10pt_vs_original_comp.pdf
-95pt_vs_original_comp.pdf
-25pt_vs_original_comp.pdf
-50_volca
-90pt_vs_original_comp.pdf
-55_pips
-75_pips
-85_pips
-30_volca
-5_pips
-100_volca
-15pt_vs_original_comp.pdf
-55_zigzag
-85pt_vs_original_comp.pdf
-65_volca
-25_volca
-50pt_vs_original_comp.pdf
-30_pips
-100_zigzag
-40_pips
-50_zigzag
-95_pips
-20_volca
-10_zigzag
-45_volca
-75_volca
-60pt_vs_original_comp.pdf
-Pontos vs Tempo
-45pt_vs_original_comp.pdf
-35_pips
-55_volca
-25_pips
-5_volca
-45_pips
-65pt_vs_original_comp.pdf
-70_volca
-90_zigzag
-50_pips
-55pt_vs_original_comp.pdf
-90_volca
-30pt_vs_original_comp.pdf
-25_zigzag
-80_zigzag
-80pt_vs_original_comp.pdf
-100pt_vs_original_comp.pdf
-35_volca
-75pt_vs_original_comp.pdf
-60_volca
-20pt_vs_original_comp.pdf
-30_zigzag
-90_pips
-40_zigzag
-Pontos vs Erro
-60_pips
-75_zigzag
-95_volca
-10_volca
-15_volca
-85_zigzag
-erro_tempo_vs_pontos.csv
-60_zigzag
-5_zigzag
-70_pips
-95_zigzag
-70_zigzag
-65_zigzag
-20_zigzag
-35_zigzag
-5pt_vs_original_comp.pdf
-65_pips
-35pt_vs_original_comp.pdf
-20_pips
-40pt_vs_original_comp.pdf
-10_pips
-15_pips
-80_pips
-85_volca
-70pt_vs_original_comp.pdf
-80_volca
-15_zigzag
-45_zigzag
-100_pips
-40_volca
-10pt_vs_original_comp.pdf
-95pt_vs_original_comp.pdf
-25pt_vs_original_comp.pdf
-50_volca
-90pt_vs_original_comp.pdf
-55_pips
-75_pips
-85_pips
-30_volca
-5_pips
-100_volca
-15pt_vs_original_comp.pdf
-55_zigzag
-85pt_vs_original_comp.pdf
-65_volca
-25_volca
-50pt_vs_original_comp.pdf
-30_pips
-100_zigzag
-40_pips
-50_zigzag
-95_pips
-20_volca
-10_zigzag
-45_volca
-75_volca
-60pt_vs_original_comp.pdf
-Pontos vs Tempo
-45pt_vs_original_comp.pdf
-35_pips
-55_volca
-25_pips
-5_volca
-45_pips
-65pt_vs_original_comp.pdf
-70_volca
-90_zigzag
-50_pips
-55pt_vs_original_comp.pdf
-90_volca
-30pt_vs_original_comp.pdf
-25_zigzag
-80_zigzag
-80pt_vs_original_comp.pdf
-100pt_vs_original_comp.pdf
-35_volca
-75pt_vs_original_comp.pdf
-60_volca
-20pt_vs_original_comp.pdf
-30_zigzag
-90_pips
-40_zigzag
-Pontos vs Erro
-60_pips
-75_zigzag
-95_volca
-10_volca
-15_volca
-85_zigzag
-erro_tempo_vs_pontos.csv
-60_zigzag
-5_zigzag
-70_pips
-95_zigzag
-70_zigzag
-65_zigzag
-20_zigzag
-35_zigzag
-5pt_vs_original_comp.pdf
-65_pips
-35pt_vs_original_comp.pdf
-20_pips
-40pt_vs_original_comp.pdf
-10_pips
-15_pips
-80_pips
-85_volca
-70pt_vs_original_comp.pdf
-80_volca
-15_zigzag
-45_zigzag
-100_pips
-40_volca
-10pt_vs_original_comp.pdf
-95pt_vs_original_comp.pdf
-25pt_vs_original_comp.pdf
-50_volca
-90pt_vs_original_comp.pdf
-55_pips
-75_pips
-85_pips
-30_volca
-5_pips
-100_volca
-15pt_vs_original_comp.pdf
-55_zigzag
-85pt_vs_original_comp.pdf
-65_volca
-25_volca
-50pt_vs_original_comp.pdf
-30_pips
-100_zigzag
-40_pips
-50_zigzag
-95_pips
-20_volca
-10_zigzag
-45_volca
-75_volca
-60pt_vs_original_comp.pdf
-Pontos vs Tempo
-45pt_vs_original_comp.pdf
-35_pips
-55_volca
-25_pips
-5_volca
-45_pips
-65pt_vs_original_comp.pdf
-70_volca
-90_zigzag
-50_pips
-55pt_vs_original_comp.pdf
-90_volca
-30pt_vs_original_comp.pdf
-25_zigzag
-80_zigzag
-80pt_vs_original_comp.pdf
-100pt_vs_original_comp.pdf
-35_volca
-75pt_vs_original_comp.pdf
-60_volca
-20pt_vs_original_comp.pdf
-30_zigzag
-90_pips
-40_zigzag
-Pontos vs Erro
-60_pips
-75_zigzag
-95_volca
-10_volca
-15_volca
-85_zigzag
-erro_tempo_vs_pontos.csv
-60_zigzag
-5_zigzag
-70_pips
-95_zigzag
-70_zigzag
-65_zigzag
-20_zigzag
-35_zigzag
-5pt_vs_original_comp.pdf
-65_pips
-35pt_vs_original_comp.pdf
-20_pips
-40pt_vs_original_comp.pdf
-10_pips
-15_pips
-80_pips
-85_volca
-70pt_vs_original_comp.pdf
-80_volca
-15_zigzag
-45_zigzag
-100_pips
-40_volca
-10pt_vs_original_comp.pdf
-95pt_vs_original_comp.pdf
-25pt_vs_original_comp.pdf
-50_volca
-90pt_vs_original_comp.pdf
-55_pips
-75_pips
-85_pips
-30_volca
-5_pips
-100_volca
-15pt_vs_original_comp.pdf
-55_zigzag
-85pt_vs_original_comp.pdf
-65_volca
-25_volca
-50pt_vs_original_comp.pdf
-30_pips
-100_zigzag
-40_pips
-50_zigzag
-95_pips
-20_volca
-10_zigzag
-45_volca
-75_volca
-60pt_vs_original_comp.pdf
-Pontos vs Tempo
-45pt_vs_original_comp.pdf
-35_pips
-55_volca
-25_pips
-5_volca
-45_pips
-65pt_vs_original_comp.pdf
-70_volca
-90_zigzag
-50_pips
-55pt_vs_original_comp.pdf
-90_volca
-30pt_vs_original_comp.pdf
-25_zigzag
-80_zigzag
-80pt_vs_original_comp.pdf
-100pt_vs_original_comp.pdf
-35_volca
-75pt_vs_original_comp.pdf
-60_volca
-20pt_vs_original_comp.pdf
-30_zigzag
-90_pips
-40_zigzag
-Pontos vs Erro
-60_pips
-75_zigzag
-95_volca
-10_volca
-15_volca
-85_zigzag
-erro_tempo_vs_pontos.csv
-60_zigzag
-5_zigzag
-70_pips
-95_zigzag
-70_zigzag
-65_zigzag
-20_zigzag
-35_zigzag
-5pt_vs_original_comp.pdf
-65_pips
-35pt_vs_original_comp.pdf
-20_pips
-40pt_vs_original_comp.pdf
-10_pips
-15_pips
-80_pips
-85_volca
-70pt_vs_original_comp.pdf
-80_volca
-15_zigzag
-45_zigzag
-100_pips
-40_volca
-10pt_vs_original_comp.pdf
-95pt_vs_original_comp.pdf
-25pt_vs_original_comp.pdf
-50_volca
-90pt_vs_original_comp.pdf
-55_pips
-75_pips
-85_pips
-30_volca
-5_pips
-100_volca
-15pt_vs_original_comp.pdf
-55_zigzag
-85pt_vs_original_comp.pdf
-65_volca
-25_volca
-50pt_vs_original_comp.pdf
-30_pips
-100_zigzag
-40_pips
-50_zigzag
-95_pips
-20_volca
-10_zigzag
-45_volca
-75_volca
-60pt_vs_original_comp.pdf
-Pontos vs Tempo
-45pt_vs_original_comp.pdf
-35_pips
-55_volca
-25_pips
-5_volca
-45_pips
-65pt_vs_original_comp.pdf
-70_volca
-90_zigzag
-50_pips
-55pt_vs_original_comp.pdf
-90_volca
-30pt_vs_original_comp.pdf
-25_zigzag
-80_zigzag
-80pt_vs_original_comp.pdf
-100pt_vs_original_comp.pdf
-35_volca
-75pt_vs_original_comp.pdf
-60_volca
-20pt_vs_original_comp.pdf
-30_zigzag
-90_pips
-40_zigzag
-Pontos vs Erro
-60_pips
-75_zigzag
-95_volca
-10_volca
-15_volca
-85_zigzag
-erro_tempo_vs_pontos.csv
-60_zigzag
-5_zigzag
-70_pips
-95_zigzag
-70_zigzag
-65_zigzag
-20_zigzag
-35_zigzag
-5pt_vs_original_comp.pdf
-65_pips
-35pt_vs_original_comp.pdf
-20_pips
-40pt_vs_original_comp.pdf
-10_pips
-15_pips
-80_pips
-85_volca
-70pt_vs_original_comp.pdf
-80_volca
-15_zigzag
-45_zigzag
-100_pips
-40_volca
-10pt_vs_original_comp.pdf
-95pt_vs_original_comp.pdf
-25pt_vs_original_comp.pdf
-50_volca
-90pt_vs_original_comp.pdf
-55_pips
-75_pips
-85_pips
-30_volca
-5_pips
-100_volca
-15pt_vs_original_comp.pdf
-55_zigzag
-85pt_vs_original_comp.pdf
-65_volca
-25_volca
-50pt_vs_original_comp.pdf
-30_pips
-100_zigzag
-40_pips
-50_zigzag
-95_pips
-20_volca
-10_zigzag
-45_volca
-75_volca
-60pt_vs_original_comp.pdf
-Pontos vs Tempo
-45pt_vs_original_comp.pdf
-35_pips
-55_volca
-25_pips
-5_volca
-45_pips
-65pt_vs_original_comp.pdf
-70_volca
-90_zigzag
-50_pips
-55pt_vs_original_comp.pdf
-90_volca
-30pt_vs_original_comp.pdf
-25_zigzag
-80_zigzag
-80pt_vs_original_comp.pdf
-100pt_vs_original_comp.pdf
-35_volca
-75pt_vs_original_comp.pdf
-60_volca
-20pt_vs_original_comp.pdf
-30_zigzag
-90_pips
-40_zigzag
-Pontos vs Erro
-60_pips
-75_zigzag
-95_volca
-10_volca
-15_volca
-85_zigzag
-erro_tempo_vs_pontos.csv
-60_zigzag
-5_zigzag
-70_pips
-95_zigzag
-70_zigzag
-65_zigzag
-20_zigzag
-35_zigzag
-5pt_vs_original_comp.pdf
-65_pips
-35pt_vs_original_comp.pdf
-20_pips
-40pt_vs_original_comp.pdf
-10_pips
-15_pips
-80_pips
-85_volca
-70pt_vs_original_comp.pdf
-80_volca
-15_zigzag
-45_zigzag
-100_pips
-40_volca
-10pt_vs_original_comp.pdf
-95pt_vs_original_comp.pdf
-25pt_vs_original_comp.pdf
-50_volca
-90pt_vs_original_comp.pdf
-55_pips
-75_pips
-85_pips
-30_volca
-5_pips
-100_volca
-15pt_vs_original_comp.pdf
-55_zigzag
-85pt_vs_original_comp.pdf
-65_volca
-25_volca
-50pt_vs_original_comp.pdf
-30_pips
-100_zigzag
-40_pips
-50_zigzag
-95_pips
-20_volca
-10_zigzag
-45_volca
-75_volca
-60pt_vs_original_comp.pdf
-Pontos vs Tempo
-45pt_vs_original_comp.pdf
-35_pips
-55_volca
-25_pips
-5_volca
-45_pips
-65pt_vs_original_comp.pdf
-70_volca
-90_zigzag
-50_pips
-55pt_vs_original_comp.pdf
-90_volca
-30pt_vs_original_comp.pdf
-25_zigzag
-80_zigzag
-80pt_vs_original_comp.pdf
-100pt_vs_original_comp.pdf
-35_volca
-75pt_vs_original_comp.pdf
-60_volca
-20pt_vs_original_comp.pdf
-30_zigzag
-90_pips
-40_zigzag
-Pontos vs Erro
-60_pips
-75_zigzag
-95_volca
-10_volca
-15_volca
-85_zigzag
-erro_tempo_vs_pontos.csv
-60_zigzag
-5_zigzag
-70_pips
-95_zigzag
-70_zigzag
-65_zigzag
-20_zigzag
-35_zigzag
-5pt_vs_original_comp.pdf
-65_pips
-35pt_vs_original_comp.pdf
-20_pips
-40pt_vs_original_comp.pdf
-10_pips
-15_pips
-80_pips
-85_volca
-70pt_vs_original_comp.pdf
-80_volca
-15_zigzag
-45_zigzag
-100_pips
-40_volca
-10pt_vs_original_comp.pdf
-95pt_vs_original_comp.pdf
-25pt_vs_original_comp.pdf
-50_volca
-90pt_vs_original_comp.pdf
-55_pips
-75_pips
-85_pips
-30_volca
-5_pips
-100_volca
-15pt_vs_original_comp.pdf
-55_zigzag
-85pt_vs_original_comp.pdf
-65_volca
-25_volca
-50pt_vs_original_comp.pdf
-30_pips
-100_zigzag
-40_pips
-50_zigzag
-95_pips
-20_volca
-10_zigzag
-45_volca
-75_volca
-60pt_vs_original_comp.pdf
-Pontos vs Tempo
-45pt_vs_original_comp.pdf
-35_pips
-55_volca
-25_pips
-5_volca
-45_pips
-65pt_vs_original_comp.pdf
-70_volca
-90_zigzag
-50_pips
-55pt_vs_original_comp.pdf
-90_volca
-30pt_vs_original_comp.pdf
-25_zigzag
-80_zigzag
-80pt_vs_original_comp.pdf
-100pt_vs_original_comp.pdf
-35_volca
-75pt_vs_original_comp.pdf
-60_volca
-20pt_vs_original_comp.pdf
-30_zigzag
-90_pips
-40_zigzag
-Pontos vs Erro
-60_pips
-75_zigzag
-95_volca
-10_volca
-15_volca
-85_zigzag
-erro_tempo_vs_pontos.csv
-60_zigzag
-5_zigzag
-70_pips
-95_zigzag
-70_zigzag
-65_zigzag
-20_zigzag
-35_zigzag
-5pt_vs_original_comp.pdf
-65_pips
-35pt_vs_original_comp.pdf
-20_pips
-40pt_vs_original_comp.pdf
-10_pips
-15_pips
-80_pips
-85_volca
-70pt_vs_original_comp.pdf
-80_volca
-15_zigzag
-45_zigzag
-100_pips
-40_volca
-10pt_vs_original_comp.pdf
-95pt_vs_original_comp.pdf
-25pt_vs_original_comp.pdf
-50_volca
-90pt_vs_original_comp.pdf
-55_pips
-75_pips
-85_pips
-30_volca
-5_pips
-100_volca
-15pt_vs_original_comp.pdf
-55_zigzag
-85pt_vs_original_comp.pdf
-65_volca
-25_volca
-50pt_vs_original_comp.pdf
-30_pips
-100_zigzag
-40_pips
-50_zigzag
-95_pips
-20_volca
-10_zigzag
-45_volca
-75_volca
-60pt_vs_original_comp.pdf
-Pontos vs Tempo
-45pt_vs_original_comp.pdf
-35_pips
-55_volca
-25_pips
-5_volca
-45_pips
-65pt_vs_original_comp.pdf
-70_volca
-90_zigzag
-50_pips
-55pt_vs_original_comp.pdf
-90_volca
-30pt_vs_original_comp.pdf
-25_zigzag
-80_zigzag
-80pt_vs_original_comp.pdf
-100pt_vs_original_comp.pdf
-35_volca
-75pt_vs_original_comp.pdf
-60_volca
-20pt_vs_original_comp.pdf
-30_zigzag
-90_pips
-40_zigzag
-Pontos vs Erro
-60_pips
-75_zigzag
-95_volca
-10_volca
-15_volca
-85_zigzag
-erro_tempo_vs_pontos.csv
-60_zigzag
-5_zigzag
-70_pips
-95_zigzag
-70_zigzag
-65_zigzag
-20_zigzag
-35_zigzag
-5pt_vs_original_comp.pdf
-65_pips
-35pt_vs_original_comp.pdf
-20_pips
-40pt_vs_original_comp.pdf
-10_pips
-15_pips
-80_pips
-85_volca
-70pt_vs_original_comp.pdf
-80_volca
-15_zigzag
-45_zigzag
-100_pips
-40_volca
+normalização 
+
+original:  [ 24.25333333  26.34666667  24.58666667  24.66333333  23.88333333]
+desvio padrão:  0.846317513309
+média:  24.7466666667
+[-0.58291755  1.89054341 -0.18905434 -0.0984658  -1.02010572]
+///////////////////////////////////
+normalização 
+
+original:  [ 22.07666667  21.70666667  21.55        22.88333333  22.26666667]
+desvio padrão:  0.468847286201
+média:  22.0966666667
+[-0.04265781 -0.83182736 -1.16598023  1.67787399  0.36259141]
+///////////////////////////////////
+normalização 
+
+original:  [ 22.56        23.53        22.82666667  23.19        24.11666667]
+desvio padrão:  0.545578591955
+média:  23.2446666667
+[-1.25493683  0.52299217 -0.76615909 -0.10019944  1.59830318]
+///////////////////////////////////
+normalização 
+
+original:  [ 24.81333333  26.21666667  25.82333333  26.86333333  26.45666667]
+desvio padrão:  0.697741117225
+média:  26.0346666667
+[-1.75041044  0.26084173 -0.30288216  1.18764202  0.60480885]
+///////////////////////////////////
+normalização 
+
+original:  [ 28.76        28.69666667  27.07333333  28.78666667  29.73666667]
+desvio padrão:  0.859295318528
+média:  28.6106666667
+[ 0.17378581  0.10008201 -1.78906285  0.20481899  1.31037604]
+///////////////////////////////////
+normalização 
+
+original:  [ 29.16666667  29.12333333  28.44        28.46        29.02666667]
+desvio padrão:  0.324400301411
+média:  28.8433333333
+[ 0.99671095  0.86313113 -1.24331985 -1.18166762  0.56514539]
+///////////////////////////////////
+normalização 
+
+original:  [ 27.51        26.21333333  25.76        25.88        25.52333333]
+desvio padrão:  0.702507888449
+média:  26.1773333333
+[ 1.8970131   0.05124498 -0.59406213 -0.42324554 -0.9309504 ]
+///////////////////////////////////
+normalização 
+
+original:  [ 23.91666667  24.5         25.85666667  26.91666667  27.62      ]
+desvio padrão:  1.39944846279
+média:  25.762
+[-1.31861471 -0.90178383  0.0676457   0.82508695  1.3276659 ]
+///////////////////////////////////
+normalização 
+
+original:  [ 27.78333333  29.13333333  29.12333333  28.81666667  28.41333333]
+desvio padrão:  0.508424144894
+média:  28.654
+[-1.71248096  0.9427824   0.92311378  0.31994284 -0.47335806]
+///////////////////////////////////
+normalização 
+
+original:  [ 28.32333333  29.88        29.66333333  28.69        30.31333333]
+desvio padrão:  0.747509643193
+média:  29.374
+[-1.405556    0.67691434  0.38706301 -0.91503836  1.25661701]
+///////////////////////////////////
+normalização 
+
+original:  [ 31.09666667  31.78666667  32.60333333  32.13333333  32.21333333]
+desvio padrão:  0.506609645914
+média:  31.9666666667
+[-1.71729853 -0.35530314  1.25672038  0.32898439  0.4868969 ]
+///////////////////////////////////
+normalização 
+
+original:  [ 31.95666667  33.79666667  36.75666667  37.92333333  37.35      ]
+desvio padrão:  2.29411227082
+média:  35.5566666667
+[-1.56923445 -0.76718129  0.52307815  1.03162635  0.78171123]
+///////////////////////////////////
+normalização 
+
+original:  [ 36.93        35.86666667  37.33333333  38.04666667  36.98      ]
+desvio padrão:  0.705897694822
+média:  37.0313333333
+[-0.14355244 -1.64990858  0.42782403  1.43835763 -0.07272064]
+///////////////////////////////////
+normalização 
+
+original:  [ 38.8         38.38333333  38.66666667  39.27666667  39.25666667]
+desvio padrão:  0.345761639155
+média:  38.8766666667
+[-0.22173271 -1.42680181 -0.60735483  1.15686633  1.09902302]
+///////////////////////////////////
+normalização 
+
+original:  [ 38.21666667  38.59        37.66333333  37.73666667  38.49666667]
+desvio padrão:  0.380913521828
+média:  38.1406666667
+[ 0.19952035  1.17962033 -1.25312783 -1.06060819  0.93459533]
+///////////////////////////////////
+normalização 
+
+original:  [ 39.91333333  41.46        41.96333333  41.97        40.57      ]
+desvio padrão:  0.811485879935
+média:  41.1753333333
+[-1.55517185  0.35079682  0.97105818  0.97927356 -0.74595671]
+///////////////////////////////////
+normalização 
+
+original:  [ 38.51        39.57333333  38.17666667  37.91        38.66666667]
+desvio padrão:  0.567432423779
+média:  38.5673333333
+[-0.10103993  1.77289834 -0.68848139 -1.15843457  0.17505756]
+///////////////////////////////////
+normalização 
+
+original:  [ 40.45666667  39.61666667  39.64333333  40.88        42.41666667]
+desvio padrão:  1.02774921282
+média:  40.6026666667
+[-0.142058   -0.95937802 -0.93343135  0.26984534  1.76502203]
+///////////////////////////////////
+normalização 
+
+original:  [ 41.05        42.58333333  42.48333333  42.67666667  44.05666667]
+desvio padrão:  0.952853025859
+média:  42.57
+[-1.59520929  0.01399306 -0.09095492  0.11194451  1.56022663]
+///////////////////////////////////
+normalização 
+
+original:  [ 44.62666667  44.88333333  44.95666667  44.21        42.46      ]
+desvio padrão:  0.921465981768
+média:  44.2273333333
+[ 0.43336742  0.71190908  0.79149241 -0.01881061 -1.91795831]
+///////////////////////////////////
+normalização 
+
+original:  [ 40.67666667  39.89333333  37.          37.22333333  36.38333333]
+desvio padrão:  1.71401102032
+média:  38.2353333333
+[ 1.42433934  0.96732167 -0.7207266  -0.59042794 -1.08050647]
+///////////////////////////////////
+normalização 
+
+original:  [ 33.67666667  32.81666667  34.6         36.41        35.30666667]
+desvio padrão:  1.24908606589
+média:  34.562
+[-0.70878489 -1.39728829  0.03042224  1.47948172  0.59616922]
+///////////////////////////////////
+normalização 
+
+original:  [ 34.89        35.63333333  35.54666667  36.50333333  35.89      ]
+desvio padrão:  0.52253824953
+média:  35.6926666667
+[-1.5360917  -0.11354831 -0.27940538  1.55140158  0.37764381]
+///////////////////////////////////
+normalização 
+
+original:  [ 32.88666667  32.18333333  32.93333333  32.74        32.92      ]
+desvio padrão:  0.283159946948
+média:  32.7326666667
+[ 0.54386223 -1.94001072  0.70866897  0.0258982   0.66158133]
+///////////////////////////////////
+normalização 
+
+original:  [ 35.68333333  36.34        37.47666667  39.09333333  39.08      ]
+desvio padrão:  1.39108047535
+média:  37.5346666667
+[-1.33085998 -0.85880486 -0.04169421  1.12047196  1.11088708]
+///////////////////////////////////
+normalização 
+
+original:  [ 37.55333333  39.16        38.15333333  35.94333333  36.35333333]
+desvio padrão:  1.17479151815
+média:  37.4326666667
+[ 0.10271326  1.4703318   0.61344218 -1.26774267 -0.91874457]
+///////////////////////////////////
+normalização 
+
+original:  [ 38.23666667  37.13666667  37.62333333  37.09666667  38.16666667]
+desvio padrão:  0.486107441256
+média:  37.652
+[ 1.20275194 -1.06012229 -0.05897187 -1.14240862  1.05875085]
+///////////////////////////////////
+normalização 
+
+original:  [ 40.00333333  40.55666667  41.84333333  41.82333333  41.74333333]
+desvio padrão:  0.767247316349
+média:  41.194
+[-1.55186814 -0.83067522  0.84631555  0.82024833  0.71597948]
+///////////////////////////////////
+normalização 
+
+original:  [ 42.43        42.85333333  43.99666667  43.61333333  45.71      ]
+desvio padrão:  1.13694600673
+média:  43.7206666667
+[-1.13520489 -0.76286238  0.24275559 -0.09440495  1.74971663]
+///////////////////////////////////
+normalização 
+
+original:  [ 45.68333333  44.54        44.71666667  43.94        43.27666667]
+desvio padrão:  0.804411724319
+média:  44.4313333333
+[ 1.5564169   0.13508837  0.35471056 -0.61079832 -1.4354175 ]
+///////////////////////////////////
+normalização 
+
+original:  [ 43.62666667  45.16333333  44.21        45.07        44.41      ]
+desvio padrão:  0.569164690089
+média:  44.496
+[-1.52738451  1.17247845 -0.50249076  1.00849545 -0.15109862]
+///////////////////////////////////
+normalização 
+
+original:  [ 44.66666667  43.09666667  44.51        46.67666667  47.38      ]
+desvio padrão:  1.55535976546
+média:  45.266
+[-0.38533421 -1.39474698 -0.48606118  0.9069713   1.35917107]
+///////////////////////////////////
+normalização 
+
+original:  [ 47.92666667  48.00333333  48.25666667  46.23666667  45.88333333]
+desvio padrão:  0.993251898228
+média:  47.2613333333
+[ 0.66985357  0.74704111  1.00209558 -1.0316282  -1.38736206]
+///////////////////////////////////
+normalização 
+
+original:  [ 44.86666667  43.3         44.39        44.09        42.58333333]
+desvio padrão:  0.811131993643
+média:  43.846
+[ 1.25832377 -0.67313335  0.67066766  0.30081417 -1.55667225]
+///////////////////////////////////
+normalização 
+
+original:  [ 42.93666667  43.29666667  41.05        40.48        41.11      ]
+desvio padrão:  1.12337111707
+média:  41.7746666667
+[ 1.03438657  1.35485057 -0.64508216 -1.15248349 -0.59167149]
+///////////////////////////////////
+normalização 
+
+original:  [ 41.92        42.12        42.59666667  44.01666667  43.12666667]
+desvio padrão:  0.755705409976
+média:  42.756
+[-1.10625118 -0.84159779 -0.21084054  1.66819855  0.49049095]
+///////////////////////////////////
+normalização 
+
+original:  [ 41.54666667  41.06        41.92666667  40.98333333  39.19666667]
+desvio padrão:  0.937764244241
+média:  40.9426666667
+[ 0.64408512  0.12512029  1.04930424  0.04336555 -1.86187521]
+///////////////////////////////////
+normalização 
+
+original:  [ 38.93        38.21333333  37.08666667  38.23666667  38.79333333]
+desvio padrão:  0.649993504241
+média:  38.252
+[ 1.04308735 -0.05948777 -1.79283843 -0.02358998  0.83282884]
+///////////////////////////////////
+normalização 
+
+original:  [ 40.08333333  40.04        39.51333333  39.3         38.53333333]
+desvio padrão:  0.566801552574
+média:  39.494
+[ 1.0397525   0.96330011  0.03410953 -0.34227147 -1.69489068]
+///////////////////////////////////
+normalização 
+
+original:  [ 38.29        38.90333333  38.75        40.7         40.91666667]
+desvio padrão:  1.07970695613
+média:  39.512
+[-1.13178858 -0.56373321 -0.70574705  1.10029855  1.30097029]
+///////////////////////////////////
+normalização 
+
+original:  [ 40.10333333  39.97        39.81        40.28666667  40.60333333]
+desvio padrão:  0.273590123279
+média:  40.1546666667
+[-0.18762861 -0.67497563 -1.25979207  0.48247356  1.63992275]
+///////////////////////////////////
+normalização 
+
+original:  [ 39.34333333  35.37333333  32.03333333  34.5         34.34666667]
+desvio padrão:  2.38372295184
+média:  35.1193333333
+[ 1.77201801  0.10655601 -1.29461354 -0.25981767 -0.32414281]
+///////////////////////////////////
+normalização 
+
+original:  [ 32.78333333  33.58        34.73        34.88333333  35.78666667]
+desvio padrão:  1.0526314117
+média:  34.3526666667
+[-1.4908669  -0.73403345  0.35846672  0.50413341  1.36230022]
+///////////////////////////////////
+normalização 
+
+original:  [ 35.82333333  36.78666667  36.53666667  34.52666667  33.71333333]
+desvio padrão:  1.1808234415
+média:  35.4773333333
+[ 0.29301586  1.10883074  0.89711408 -0.8050879  -1.49387278]
+///////////////////////////////////
+normalização 
+
+original:  [ 31.73333333  32.07333333  33.60333333  32.28333333  32.24666667]
+desvio padrão:  0.638054682435
+média:  32.388
+[-1.02603536 -0.49316567  1.90474793 -0.16404028 -0.22150662]
+///////////////////////////////////
+normalização 
+
+original:  [ 34.49        34.69666667  35.05333333  35.07666667  35.2       ]
+desvio padrão:  0.266124448749
+média:  34.9033333333
+[-1.55315806 -0.77657903  0.56364607  0.65132435  1.11476667]
+///////////////////////////////////
+normalização 
+
+original:  [ 34.5         33.54        32.92        33.11333333  33.76333333]
+desvio padrão:  0.553928996653
+média:  33.5673333333
+[ 1.68372963 -0.04934447 -1.1686215  -0.81959963  0.35383596]
+///////////////////////////////////
+normalização 
+
+original:  [ 32.38        31.61666667  30.91666667  31.96666667  32.14      ]
+desvio padrão:  0.508642638139
+média:  31.804
+[ 1.13242571 -0.36830049 -1.74451229  0.31980541  0.66058166]
+///////////////////////////////////
+normalização 
+
+original:  [ 32.75666667  33.04666667  32.68333333  31.99333333  33.26666667]
+desvio padrão:  0.431737574614
+média:  32.7493333333
+[ 0.01698563  0.68868996 -0.15287064 -1.75106371  1.19825877]
+///////////////////////////////////
+normalização 
+
+original:  [ 33.72333333  33.67666667  35.54333333  36.09666667  36.12      ]
+desvio padrão:  1.10709148473
+média:  35.032
+[-1.18207635 -1.22422885  0.46187089  0.96167903  0.98275528]
+///////////////////////////////////
+normalização 
+
+original:  [ 36.06        35.47333333  35.85        36.17        35.54666667]
+desvio padrão:  0.274185662969
+média:  35.82
+[ 0.87531929 -1.26435009  0.10941491  1.2765073  -0.99689141]
+///////////////////////////////////
+normalização 
+
+original:  [ 33.68333333  34.27        35.32333333  34.80666667  34.46333333]
+desvio padrão:  0.546383666585
+média:  34.5093333333
+[-1.51175822 -0.43803164  1.48979563  0.54418415 -0.08418993]
+///////////////////////////////////
+normalização 
+
+original:  [ 34.55666667  35.08333333  34.20333333  35.07666667  36.00333333]
+desvio padrão:  0.608201720923
+média:  34.9846666667
+[-0.70371389  0.16222688 -1.2846615   0.1512656   1.67488291]
+///////////////////////////////////
+normalização 
+
+original:  [ 36.14        35.98333333  35.49333333  34.96        33.78666667]
+desvio padrão:  0.849936991129
+média:  35.2726666667
+[ 1.0204678   0.83614041  0.25962709 -0.36787041 -1.7483649 ]
+///////////////////////////////////
+normalização 
+
+original:  [ 32.36333333  30.74333333  31.25666667  30.88333333  31.34333333]
+desvio padrão:  0.56855997436
+média:  31.318
+[ 1.838563   -1.01074063 -0.10787487 -0.76450451  0.04455701]
+///////////////////////////////////
+normalização 
+
+original:  [ 30.88        31.3         32.12333333  32.73        32.96666667]
+desvio padrão:  0.803362378451
+média:  32.0
+[-1.39414047 -0.87133779  0.15352142  0.90868084  1.203276  ]
+///////////////////////////////////
+normalização 
+
+original:  [ 32.52333333  32.69        33.60333333  32.61666667  32.19      ]
+desvio padrão:  0.471449773453
+média:  32.7246666667
+[-0.4270515  -0.07353205  1.86375456 -0.22908061 -1.13409041]
+///////////////////////////////////
+normalização 
+
+original:  [ 32.23        30.28666667  29.56666667  30.33666667  29.99      ]
+desvio padrão:  0.915934495474
+média:  30.482
+[ 1.90843342 -0.21326125 -0.99934366 -0.15867219 -0.53715632]
+///////////////////////////////////
+normalização 
+
+original:  [ 30.70333333  30.65333333  29.04333333  28.78333333  27.42666667]
+desvio padrão:  1.2361743854
+média:  29.322
+[ 1.11742595  1.07697858 -0.22542666 -0.43575298 -1.53322489]
+///////////////////////////////////
+normalização 
+
+original:  [ 25.93        26.38333333  27.27        29.33        30.5       ]
+desvio padrão:  1.75393703168
+média:  27.8826666667
+[-1.11330489 -0.85483875 -0.34930939  0.82519116  1.49226186]
+///////////////////////////////////
+normalização 
+
+original:  [ 30.17333333  29.12666667  28.47666667  28.08        28.61666667]
+desvio padrão:  0.721734330931
+média:  28.8946666667
+[ 1.77165837  0.32144792 -0.57916048 -1.12876253 -0.38518328]
+///////////////////////////////////
+normalização 
+
+original:  [ 28.97666667  29.77        28.92666667  29.06666667  29.83      ]
+desvio padrão:  0.39979661496
+média:  29.314
+[-0.84376235  1.14057994 -0.96882595 -0.61864789  1.29065625]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.06666667  29.83        30.00666667  29.17333333]]
+desvio padrão:  0.405780284007
+média:  29.5191666667
+[[-1.1151355   0.76601389  1.20138907 -0.85226746]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  0.405780284007
+média:  29.5191666667
+[ 29.06666667  29.83        30.00666667  29.17333333  30.0359833 ]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.83        30.00666667  29.17333333  30.0359833 ]]
+desvio padrão:  0.348597208223
+média:  29.7614958251
+[[ 0.19651384  0.70330696 -1.68722663  0.78740583]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  0.348597208223
+média:  29.7614958251
+[ 29.83        30.00666667  29.17333333  30.0359833   30.10520524]
+///////////////////////////////////
+normalização 
+
+original:  [[ 30.00666667  29.17333333  30.0359833   30.10520524]]
+desvio padrão:  0.38098192686
+média:  29.8302971356
+[[ 0.46293411 -1.72439624  0.53988431  0.72157782]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  0.38098192686
+média:  29.8302971356
+[ 30.00666667  29.17333333  30.0359833   30.10520524  29.94246977]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.17333333  30.0359833   30.10520524  29.94246977]]
+desvio padrão:  0.374511379549
+média:  29.8142479127
+[[-1.71133539  0.59206582  0.7768985   0.34237107]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  0.374511379549
+média:  29.8142479127
+[ 29.17333333  30.0359833   30.10520524  29.94246977  29.58592429]
+///////////////////////////////////
+normalização 
+
+original:  [[ 30.0359833   30.10520524  29.94246977  29.58592429]]
+desvio padrão:  0.199898381088
+média:  29.9173956506
+[[ 0.59323967  0.93952533  0.12543435 -1.65819935]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  0.199898381088
+média:  29.9173956506
+[ 30.0359833   30.10520524  29.94246977  29.58592429  29.89849493]
+///////////////////////////////////
+normalização 
+
+original:  [[ 30.10520524  29.94246977  29.58592429  29.89849493]]
+desvio padrão:  0.188019875687
+média:  29.8830235579
+[[ 1.18169254  0.31616986 -1.58014822  0.08228583]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  0.188019875687
+média:  29.8830235579
+[ 30.10520524  29.94246977  29.58592429  29.89849493  30.02341899]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.94246977  29.58592429  29.89849493  30.02341899]]
+desvio padrão:  0.165891396823
+média:  29.8625769939
+[[ 0.48159689 -1.66767363  0.21651476  0.96956199]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  0.165891396823
+média:  29.8625769939
+[ 29.94246977  29.58592429  29.89849493  30.02341899  29.77385727]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.58592429  29.89849493  30.02341899  29.77385727]]
+desvio padrão:  0.161601833593
+média:  29.8204238689
+[[-1.45109482  0.48310752  1.25614365 -0.28815635]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  0.161601833593
+média:  29.8204238689
+[ 29.58592429  29.89849493  30.02341899  29.77385727  29.91132047]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.89849493  30.02341899  29.77385727  29.91132047]]
+desvio padrão:  0.0884054276088
+média:  29.9017729142
+[[-0.037079    1.3760023  -1.44692066  0.10799735]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  0.0884054276088
+média:  29.9017729142
+[ 29.89849493  30.02341899  29.77385727  29.91132047  30.00100674]
+///////////////////////////////////
+normalização 
+
+original:  [[ 30.02341899  29.77385727  29.91132047  30.00100674]]
+desvio padrão:  0.0980707881033
+média:  29.9274008672
+[[ 0.97906951 -1.56564044 -0.16396729  0.75053822]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  0.0980707881033
+média:  29.9274008672
+[ 30.02341899  29.77385727  29.91132047  30.00100674  29.94516539]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.77385727  29.91132047  30.00100674  29.94516539]]
+desvio padrão:  0.0837208321145
+média:  29.9078374689
+[[-1.60032086  0.04160252  1.1128565   0.44586184]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  0.0837208321145
+média:  29.9078374689
+[ 29.77385727  29.91132047  30.00100674  29.94516539  29.89699312]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.91132047  30.00100674  29.94516539  29.89699312]]
+desvio padrão:  0.0400406341869
+média:  29.9386214296
+[[-0.68183144  1.55805004  0.16343306 -1.03965166]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  0.0400406341869
+média:  29.9386214296
+[ 29.91132047  30.00100674  29.94516539  29.89699312  29.89980503]
+///////////////////////////////////
+normalização 
+
+original:  [[ 30.00100674  29.94516539  29.89699312  29.89980503]]
+desvio padrão:  0.0422528944632
+média:  29.935742571
+[[ 1.54460828  0.22301009 -0.917084   -0.85053437]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  0.0422528944632
+média:  29.935742571
+[ 30.00100674  29.94516539  29.89699312  29.89980503  29.9128926 ]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.94516539  29.89699312  29.89980503  29.9128926 ]]
+desvio padrão:  0.0191240171007
+média:  29.9137140346
+[[ 1.64459999 -0.87434124 -0.72730549 -0.04295326]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  0.0191240171007
+média:  29.9137140346
+[ 29.94516539  29.89699312  29.89980503  29.9128926   29.9090038 ]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.89699312  29.89980503  29.9128926   29.9090038 ]]
+desvio padrão:  0.00649990865183
+média:  29.9046736353
+[[-1.1816347  -0.74902643  1.26447322  0.6661879 ]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  0.00649990865183
+média:  29.9046736353
+[ 29.89699312  29.89980503  29.9128926   29.9090038   29.90862812]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.89980503  29.9128926   29.9090038   29.90862812]]
+desvio padrão:  0.00479060330756
+média:  29.9075823849
+[[-1.62346001  1.10846391  0.29670813  0.21828796]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  0.00479060330756
+média:  29.9075823849
+[ 29.89980503  29.9128926   29.9090038   29.90862812  29.91018576]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.9128926   29.9090038   29.90862812  29.91018576]]
+desvio padrão:  0.00166957971735
+média:  29.9101775676
+[[ 1.62617461 -0.70303428 -0.92804895  0.00490863]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  0.00166957971735
+média:  29.9101775676
+[ 29.9128926   29.9090038   29.90862812  29.91018576  29.90976635]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.9090038   29.90862812  29.91018576  29.90976635]]
+desvio padrão:  0.000613260803924
+média:  29.9093960064
+[[-0.6395493  -1.25214335  1.28779892  0.60389373]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  0.000613260803924
+média:  29.9093960064
+[ 29.9090038   29.90862812  29.91018576  29.90976635  29.9102002 ]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.90862812  29.91018576  29.90976635  29.9102002 ]]
+desvio padrão:  0.000640196652006
+média:  29.9096951072
+[[-1.66666175  0.76641414  0.11128381  0.7889638 ]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  0.000640196652006
+média:  29.9096951072
+[ 29.90862812  29.91018576  29.90976635  29.9102002   29.90930481]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.91018576  29.90976635  29.9102002   29.90930481]]
+desvio padrão:  0.00036701282074
+média:  29.9098642799
+[[ 0.87594516 -0.26682758  0.91527952 -1.5243971 ]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  0.00036701282074
+média:  29.9098642799
+[ 29.91018576  29.90976635  29.9102002   29.90930481  29.9097134 ]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.90976635  29.9102002   29.90930481  29.9097134 ]]
+desvio padrão:  0.00031718505563
+média:  29.9097461886
+[[ 0.06356586  1.4313745  -1.39155987 -0.10338049]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  0.00031718505563
+média:  29.9097461886
+[ 29.90976635  29.9102002   29.90930481  29.9097134   29.9100991 ]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.9102002   29.90930481  29.9097134   29.9100991 ]]
+desvio padrão:  0.000353158313867
+média:  29.9098293751
+[[ 1.0500222  -1.48536367 -0.32840025  0.76374173]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  0.000353158313867
+média:  29.9098293751
+[ 29.9102002   29.90930481  29.9097134   29.9100991   29.90989335]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.90930481  29.9097134   29.9100991   29.90989335]]
+desvio padrão:  0.000292371889209
+média:  29.9097526618
+[[-1.53180004 -0.13429479  1.18491213  0.4811827 ]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  0.000292371889209
+média:  29.9097526618
+[ 29.90930481  29.9097134   29.9100991   29.90989335  29.90981153]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.9097134   29.9100991   29.90989335  29.90981153]]
+desvio padrão:  0.000141971811197
+média:  29.9098793432
+[[-1.16886136  1.54786823  0.09863192 -0.47763878]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  0.000141971811197
+média:  29.9098793432
+[ 29.9097134   29.9100991   29.90989335  29.90981153  29.90979121]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.9100991   29.90989335  29.90981153  29.90979121]]
+desvio padrão:  0.000121799740131
+média:  29.9098987953
+[[ 1.64451548 -0.04473856 -0.71644931 -0.88332761]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  0.000121799740131
+média:  29.9098987953
+[ 29.9100991   29.90989335  29.90981153  29.90979121  29.90989689]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.90989335  29.90981153  29.90979121  29.90989689]]
+desvio padrão:  4.74377341853e-05
+média:  29.9098482426
+[[ 0.95079386 -0.77387104 -1.20234287  1.02542005]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  4.74377341853e-05
+média:  29.9098482426
+[ 29.90989335  29.90981153  29.90979121  29.90989689  29.9098332 ]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.90981153  29.90979121  29.90989689  29.9098332 ]]
+desvio padrão:  3.96513541527e-05
+média:  29.9098332055
+[[ -5.46604100e-01  -1.05921541e+00   1.60601576e+00  -1.96248158e-04]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  3.96513541527e-05
+média:  29.9098332055
+[ 29.90981153  29.90979121  29.90989689  29.9098332   29.90980859]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.90979121  29.90989689  29.9098332   29.90980859]]
+desvio padrão:  4.00716503038e-05
+média:  29.90983247
+[[-1.02974976  1.60752683  0.01816176 -0.59593882]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  4.00716503038e-05
+média:  29.90983247
+[ 29.90979121  29.90989689  29.9098332   29.90980859  29.90980759]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.90989689  29.9098332   29.90980859  29.90980759]]
+desvio padrão:  3.63041577738e-05
+média:  29.9098365667
+[[ 1.66150368 -0.092799   -0.77062835 -0.79807632]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  3.63041577738e-05
+média:  29.9098365667
+[ 29.90989689  29.9098332   29.90980859  29.90980759  29.90982609]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.9098332   29.90980859  29.90980759  29.90982609]]
+desvio padrão:  1.1071078121e-05
+média:  29.9098188679
+[[ 1.2943491  -0.92838146 -1.01838855  0.65242091]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  1.1071078121e-05
+média:  29.9098188679
+[ 29.9098332   29.90980859  29.90980759  29.90982609  29.90981391]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.90980859  29.90980759  29.90982609  29.90981391]]
+desvio padrão:  7.35710509283e-06
+média:  29.9098140454
+[[-0.74154677 -0.87699074  1.63726748 -0.01872997]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  7.35710509283e-06
+média:  29.9098140454
+[ 29.90980859  29.90980759  29.90982609  29.90981391  29.90980948]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.90980759  29.90982609  29.90981391  29.90980948]]
+desvio padrão:  7.20082097397e-06
+média:  29.9098142674
+[[-0.92686493  1.64196189 -0.04997676 -0.66512021]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  7.20082097397e-06
+média:  29.9098142674
+[ 29.90980759  29.90982609  29.90981391  29.90980948  29.9098098 ]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.90982609  29.90981391  29.90980948  29.9098098 ]]
+desvio padrão:  6.73854476658e-06
+média:  29.9098148184
+[[ 1.67283967 -0.13516898 -0.79251238 -0.74515831]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  6.73854476658e-06
+média:  29.9098148184
+[ 29.90982609  29.90981391  29.90980948  29.9098098   29.90981287]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.90981391  29.90980948  29.9098098   29.90981287]]
+desvio padrão:  1.91516762053e-06
+média:  29.9098115142
+[[ 1.24970677 -1.06316539 -0.89654944  0.71000806]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  1.91516762053e-06
+média:  29.9098115142
+[ 29.90981391  29.90980948  29.9098098   29.90981287  29.90981171]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.90980948  29.9098098   29.90981287  29.90981171]]
+desvio padrão:  1.39459995202e-06
+média:  29.9098109657
+[[-1.06673497 -0.83792565  1.36831773  0.53634289]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  1.39459995202e-06
+média:  29.9098109657
+[ 29.90980948  29.9098098   29.90981287  29.90981171  29.90981141]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.9098098   29.90981287  29.90981171  29.90981141]]
+desvio padrão:  1.09898319995e-06
+média:  29.9098114478
+[[-1.50195646  1.29774686  0.24197815 -0.03776856]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  1.09898319995e-06
+média:  29.9098114478
+[ 29.9098098   29.90981287  29.90981171  29.90981141  29.90981188]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.90981287  29.90981171  29.90981141  29.90981188]]
+desvio padrão:  5.49789213727e-07
+média:  29.909811968
+[[ 1.64780827 -0.46258613 -1.02177666 -0.16344549]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  5.49789213727e-07
+média:  29.909811968
+[ 29.90981287  29.90981171  29.90981141  29.90981188  29.90981173]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.90981171  29.90981141  29.90981188  29.90981173]]
+desvio padrão:  1.71713482369e-07
+média:  29.9098116823
+[[ 0.18259231 -1.60781412  1.14037556  0.28484624]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  1.71713482369e-07
+média:  29.9098116823
+[ 29.90981171  29.90981141  29.90981188  29.90981173  29.90981185]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.90981141  29.90981188  29.90981173  29.90981185]]
+desvio padrão:  1.87660459937e-07
+média:  29.9098117168
+[[-1.65496466  0.85968984  0.07686154  0.71841329]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  1.87660459937e-07
+média:  29.9098117168
+[ 29.90981141  29.90981188  29.90981173  29.90981185  29.90981166]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.90981188  29.90981173  29.90981185  29.90981166]]
+desvio padrão:  8.94022038073e-08
+média:  29.9098117798
+[[ 1.09991879 -0.54328364  0.80337104 -1.36000607]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  8.94022038073e-08
+média:  29.9098117798
+[ 29.90981188  29.90981173  29.90981185  29.90981166  29.90981185]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.90981173  29.90981185  29.90981166  29.90981185]]
+desvio padrão:  8.27719894606e-08
+média:  29.9098117734
+[[-0.50904245  0.94548217 -1.3911861   0.9547463 ]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  8.27719894606e-08
+média:  29.9098117734
+[ 29.90981173  29.90981185  29.90981166  29.90981185  29.90981184]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.90981185  29.90981166  29.90981185  29.90981184]]
+desvio padrão:  8.19143408004e-08
+média:  29.9098117997
+[[ 0.63432113 -1.72681221  0.64368226  0.44880891]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  8.19143408004e-08
+média:  29.9098117997
+[ 29.90981185  29.90981166  29.90981185  29.90981184  29.90981188]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.90981166  29.90981185  29.90981184  29.90981188]]
+desvio padrão:  8.72577582655e-08
+média:  29.9098118069
+[[-1.70359795  0.52173417  0.33879432  0.84306934]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  8.72577582655e-08
+média:  29.9098118069
+[ 29.90981166  29.90981185  29.90981184  29.90981188  29.9098118 ]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.90981185  29.90981184  29.90981188  29.9098118 ]]
+desvio padrão:  2.88096966692e-08
+média:  29.9098118425
+[[ 0.34369864 -0.21038292  1.31694687 -1.45026247]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  2.88096966692e-08
+média:  29.9098118425
+[ 29.90981185  29.90981184  29.90981188  29.9098118   29.90981184]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.90981184  29.90981188  29.9098118   29.90981184]]
+desvio padrão:  2.82781084437e-08
+média:  29.9098118401
+[[-0.1288166   1.42722482 -1.39200412  0.09359564]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  2.82781084437e-08
+média:  29.9098118401
+[ 29.90981184  29.90981188  29.9098118   29.90981184  29.90981188]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.90981188  29.9098118   29.90981184  29.90981188]]
+desvio padrão:  3.21550197872e-08
+média:  29.9098118502
+[[ 0.93996703 -1.53934918 -0.23286728  0.83224932]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  3.21550197872e-08
+média:  29.9098118502
+[ 29.90981188  29.9098118   29.90981184  29.90981188  29.90981186]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.9098118   29.90981184  29.90981188  29.90981186]]
+desvio padrão:  2.78717388892e-08
+média:  29.9098118441
+[[-1.55705305 -0.04979327  1.17900863  0.42783769]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  2.78717388892e-08
+média:  29.9098118441
+[ 29.9098118   29.90981184  29.90981188  29.90981186  29.90981185]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.90981184  29.90981188  29.90981186  29.90981185]]
+desvio padrão:  1.27962142137e-08
+média:  29.9098118564
+[[-1.06596284  1.61051982 -0.02562348 -0.51893406]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  1.27962142137e-08
+média:  29.9098118564
+[ 29.90981184  29.90981188  29.90981186  29.90981185  29.90981185]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.90981188  29.90981186  29.90981185  29.90981185]]
+desvio padrão:  1.14445350237e-08
+média:  29.9098118578
+[[ 1.67630019 -0.15308301 -0.704657   -0.81856079]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  1.14445350237e-08
+média:  29.9098118578
+[ 29.90981188  29.90981186  29.90981185  29.90981185  29.90981185]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.90981186  29.90981185  29.90981185  29.90981185]]
+desvio padrão:  3.17632836606e-09
+média:  29.9098118522
+[[ 1.21831165 -0.76904832 -1.17945171  0.73018838]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  3.17632836606e-09
+média:  29.9098118522
+[ 29.90981186  29.90981185  29.90981185  29.90981185  29.90981185]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.90981185  29.90981185  29.90981185  29.90981185]]
+desvio padrão:  2.25847609571e-09
+média:  29.9098118509
+[[-0.49570043 -1.07289313  1.6128311  -0.04424068]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  2.25847609571e-09
+média:  29.9098118509
+[ 29.90981185  29.90981185  29.90981185  29.90981185  29.90981185]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.90981185  29.90981185  29.90981185  29.90981185]]
+desvio padrão:  2.48173391858e-09
+média:  29.9098118505
+[[-0.84410046  1.6000149   0.09201398 -0.84792698]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  2.48173391858e-09
+média:  29.9098118505
+[ 29.90981185  29.90981185  29.90981185  29.90981185  29.90981185]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.90981185  29.90981185  29.90981185  29.90981185]]
+desvio padrão:  2.17275730062e-09
+média:  29.9098118511
+[[ 1.5478808  -0.17456515 -1.24817028 -0.1251519 ]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  2.17275730062e-09
+média:  29.9098118511
+[ 29.90981185  29.90981185  29.90981185  29.90981185  29.90981185]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.90981185  29.90981185  29.90981185  29.90981185]]
+desvio padrão:  9.78266984698e-10
+média:  29.9098118501
+[[ 0.71088267 -1.67362321  0.82063083  0.14211334]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  9.78266984698e-10
+média:  29.9098118501
+[ 29.90981185  29.90981185  29.90981185  29.90981185  29.90981185]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.90981185  29.90981185  29.90981185  29.90981185]]
+desvio padrão:  8.96523897182e-10
+média:  29.9098118498
+[[-1.51020981  1.21146487  0.47108164 -0.17234066]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  8.96523897182e-10
+média:  29.9098118498
+[ 29.90981185  29.90981185  29.90981185  29.90981185  29.90981185]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.90981185  29.90981185  29.90981185  29.90981185]]
+desvio padrão:  4.41121598892e-10
+média:  29.9098118502
+[[ 1.49584393 -0.00889142 -1.31656591 -0.1703705 ]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  4.41121598892e-10
+média:  29.9098118502
+[ 29.90981185  29.90981185  29.90981185  29.90981185  29.90981185]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.90981185  29.90981185  29.90981185  29.90981185]]
+desvio padrão:  2.22764399072e-10
+média:  29.90981185
+[[ 0.93610147 -1.65337631  0.61633804  0.1009368 ]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  2.22764399072e-10
+média:  29.90981185
+[ 29.90981185  29.90981185  29.90981185  29.90981185  29.90981185]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.90981185  29.90981185  29.90981185  29.90981185]]
+desvio padrão:  1.87882668988e-10
+média:  29.9098118499
+[[-1.55019631  1.14090636  0.52981728 -0.12048951]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  1.87882668988e-10
+média:  29.9098118499
+[ 29.90981185  29.90981185  29.90981185  29.90981185  29.90981185]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.90981185  29.90981185  29.90981185  29.90981185]]
+desvio padrão:  8.44195857623e-11
+média:  29.90981185
+[[ 1.45875762  0.09872906 -1.34858172 -0.2088208 ]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  8.44195857623e-11
+média:  29.90981185
+[ 29.90981185  29.90981185  29.90981185  29.90981185  29.90981185]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.90981185  29.90981185  29.90981185  29.90981185]]
+desvio padrão:  4.55611693644e-11
+média:  29.90981185
+[[ 1.05814502 -1.62355472  0.48829065  0.077275  ]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  4.55611693644e-11
+média:  29.90981185
+[ 29.90981185  29.90981185  29.90981185  29.90981185  29.90981185]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.90981185  29.90981185  29.90981185  29.90981185]]
+desvio padrão:  3.61197091637e-11
+média:  29.9098118499
+[[-1.57316058  1.09070762  0.57225511 -0.08970379]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  3.61197091637e-11
+média:  29.9098118499
+[ 29.90981185  29.90981185  29.90981185  29.90981185  29.90981185]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.90981185  29.90981185  29.90981185  29.90981185]]
+desvio padrão:  1.52532050581e-11
+média:  29.90981185
+[[ 1.41962229  0.19192269 -1.37560119 -0.23571087]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  1.52532050581e-11
+média:  29.90981185
+[ 29.90981185  29.90981185  29.90981185  29.90981185  29.90981185]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.90981185  29.90981185  29.90981185  29.90981185]]
+desvio padrão:  9.97316718301e-12
+média:  29.90981185
+[[ 0.73917149 -1.65823774  0.08513831  0.83464039]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  9.97316718301e-12
+média:  29.90981185
+[ 29.90981185  29.90981185  29.90981185  29.90981185  29.90981185]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.90981185  29.90981185  29.90981185  29.90981185]]
+desvio padrão:  9.10552753379e-12
+média:  29.90981185
+[[-1.4674335   0.44206385  1.26298385 -0.23683386]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  9.10552753379e-12
+média:  29.90981185
+[ 29.90981185  29.90981185  29.90981185  29.90981185  29.90981185]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.90981185  29.90981185  29.90981185  29.90981185]]
+desvio padrão:  5.1967154634e-12
+média:  29.90981185
+[[ 0.12852545  1.56691661 -1.06101857 -0.63442348]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  5.1967154634e-12
+média:  29.90981185
+[ 29.90981185  29.90981185  29.90981185  29.90981185  29.90981185]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.90981185  29.90981185  29.90981185  29.90981185]]
+desvio padrão:  5.35422122471e-12
+média:  29.90981185
+[[ 1.41731096 -1.13331794 -0.71927204  0.43527902]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  5.35422122471e-12
+média:  29.90981185
+[ 29.90981185  29.90981185  29.90981185  29.90981185  29.90981185]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.90981185  29.90981185  29.90981185  29.90981185]]
+desvio padrão:  3.64955657688e-12
+média:  29.90981185
+[[-0.65903545 -0.05159362  1.64223457 -0.93063204]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  3.64955657688e-12
+média:  29.90981185
+[ 29.90981185  29.90981185  29.90981185  29.90981185  29.90981185]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.90981185  29.90981185  29.90981185  29.90981185]]
+desvio padrão:  3.55147312104e-12
+média:  29.90981185
+[[-0.09903458  1.64157321 -1.00235001 -0.53918828]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  3.55147312104e-12
+média:  29.90981185
+[ 29.90981185  29.90981185  29.90981185  29.90981185  29.90981185]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.90981185  29.90981185  29.90981185  29.90981185]]
+desvio padrão:  3.70540670621e-12
+média:  29.90981185
+[[ 1.37394869 -1.16013811 -0.7162175   0.50336571]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  3.70540670621e-12
+média:  29.90981185
+[ 29.90981185  29.90981185  29.90981185  29.90981185  29.90981185]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.90981185  29.90981185  29.90981185  29.90981185]]
+desvio padrão:  2.64584579649e-12
+média:  29.90981185
+[[-0.68211781 -0.06042382  1.64755621 -0.90367183]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  2.64584579649e-12
+média:  29.90981185
+[ 29.90981185  29.90981185  29.90981185  29.90981185  29.90981185]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.90981185  29.90981185  29.90981185  29.90981185]]
+desvio padrão:  2.56322567635e-12
+média:  29.90981185
+[[-0.11504068  1.64799245 -0.98546899 -0.54748277]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  2.56322567635e-12
+média:  29.90981185
+[ 29.90981185  29.90981185  29.90981185  29.90981185  29.90981185]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.90981185  29.90981185  29.90981185  29.90981185]]
+desvio padrão:  2.67131941112e-12
+média:  29.90981185
+[[ 1.37782526 -1.14907435 -0.72881105  0.50006013]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  2.67131941112e-12
+média:  29.90981185
+[ 29.90981185  29.90981185  29.90981185  29.90981185  29.90981185]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.90981185  29.90981185  29.90981185  29.90981185]]
+desvio padrão:  1.89918633023e-12
+média:  29.90981185
+[[-0.66782219 -0.07669667  1.65178431 -0.9053948 ]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  1.89918633023e-12
+média:  29.90981185
+[ 29.90981185  29.90981185  29.90981185  29.90981185  29.90981185]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.90981185  29.90981185  29.90981185  29.90981185]]
+desvio padrão:  1.84481478274e-12
+média:  29.90981185
+[[-0.12902749  1.65039637 -0.98214953 -0.54307092]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  1.84481478274e-12
+média:  29.90981185
+[ 29.90981185  29.90981185  29.90981185  29.90981185  29.90981185]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.90981185  29.90981185  29.90981185  29.90981185]]
+desvio padrão:  1.92101802368e-12
+média:  29.90981185
+[[ 1.37779639 -1.15032128 -0.7286601   0.49748621]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  1.92101802368e-12
+média:  29.90981185
+[ 29.90981185  29.90981185  29.90981185  29.90981185  29.90981185]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.90981185  29.90981185  29.90981185  29.90981185]]
+desvio padrão:  1.36438776165e-12
+média:  29.90981185
+[[-0.66919936 -0.07551277  1.65086534 -0.90615322]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  1.36438776165e-12
+média:  29.90981185
+[ 29.90981185  29.90981185  29.90981185  29.90981185  29.90981185]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.90981185  29.90981185  29.90981185  29.90981185]]
+desvio padrão:  1.32505623565e-12
+média:  29.90981185
+[[-0.12869662  1.64892542 -0.98399289 -0.54427945]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  1.32505623565e-12
+média:  29.90981185
+[ 29.90981185  29.90981185  29.90981185  29.90981185  29.90981185]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.90981185  29.90981185  29.90981185  29.90981185]]
+desvio padrão:  1.37982112189e-12
+média:  29.90981185
+[[ 1.37749871 -1.15091948 -0.7286582   0.49692944]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  1.37982112189e-12
+média:  29.90981185
+[ 29.90981185  29.90981185  29.90981185  29.90981185  29.90981185]
+///////////////////////////////////
+normalização 
+
+original:  [[ 29.90981185  29.90981185  29.90981185  29.90981185]]
+desvio padrão:  9.7972320095e-13
+média:  29.90981185
+[[-0.67085482 -0.07615109  1.64994023 -0.90656057]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  9.7972320095e-13
+média:  29.90981185
+[ 29.90981185  29.90981185  29.90981185  29.90981185  29.90981185]
+///////////////////////////////////
+executing hole dataset tests...
+normalização 
+
+original:  [ 14.37333333  15.57333333  14.39666667  14.21333333  13.76      ]
+desvio padrão:  0.600303626879
+média:  14.4633333333
+[-0.14992413  1.84906429 -0.11105491 -0.41645592 -1.17162933]
+///////////////////////////////////
+normalização 
+
+original:  [ 13.05333333  12.61666667  12.10666667  12.30666667  11.9       ]
+desvio padrão:  0.404595820267
+média:  12.3966666667
+[ 1.62301891  0.54375253 -0.7167647  -0.22244422 -1.22756252]
+///////////////////////////////////
+normalização 
+
+original:  [ 12.37666667  13.69        14.64        15.22333333  15.68      ]
+desvio padrão:  1.17825596163
+média:  14.322
+[-1.65102779 -0.536386    0.26989042  0.76497244  1.15255093]
+///////////////////////////////////
+normalização 
+
+original:  [ 15.73333333  15.9         16.87666667  16.6         15.9       ]
+desvio padrão:  0.450696251494
+média:  16.202
+[-1.03987256 -0.67007435  1.49694315  0.88307812 -0.67007435]
+///////////////////////////////////
+normalização 
+
+original:  [ 17.15333333  17.47333333  16.71        16.82666667  17.50666667]
+desvio padrão:  0.325155689205
+média:  17.134
+[ 0.0594587   1.04360263 -1.30399072 -0.94518824  1.14611763]
+///////////////////////////////////
+normalização 
+
+original:  [ 17.82666667  19.57        20.04        20.43333333  20.49333333]
+desvio padrão:  0.980336450182
+média:  19.6726666667
+[-1.883027   -0.10472595  0.37470129  0.77592409  0.83712757]
+///////////////////////////////////
+normalização 
+
+original:  [ 19.41        19.11        20.19333333  21.2         20.50333333]
+desvio padrão:  0.753153370835
+média:  20.0833333333
+[-0.89401888 -1.29234412  0.14605259  1.48265507  0.55765534]
+///////////////////////////////////
+normalização 
+
+original:  [ 19.42        17.98666667  19.33666667  20.91333333  21.12      ]
+desvio padrão:  1.15058168864
+média:  19.7553333333
+[-0.29144678 -1.53719348 -0.36387392  1.00644744  1.18606673]
+///////////////////////////////////
+normalização 
+
+original:  [ 21.76666667  22.57666667  23.08666667  24.25666667  23.59666667]
+desvio padrão:  0.851704173995
+média:  23.0566666667
+[-1.5146104  -0.56357596  0.0352235   1.40893991  0.63402296]
+///////////////////////////////////
+normalização 
+
+original:  [ 23.47333333  23.34666667  22.65333333  21.65333333  22.51333333]
+desvio padrão:  0.654955808518
+média:  22.728
+[ 1.13799026  0.94459299 -0.1140026  -1.64082317 -0.32775748]
+///////////////////////////////////
+normalização 
+
+original:  [ 22.49        23.16666667  23.61333333  23.4         23.46666667]
+desvio padrão:  0.395836105253
+média:  23.2273333333
+[-1.8627238  -0.15326208  0.97515107  0.43620747  0.60462734]
+///////////////////////////////////
+normalização 
+
+original:  [ 23.19        23.86666667  25.45666667  26.63333333  26.06      ]
+desvio padrão:  1.30781684073
+média:  25.0413333333
+[-1.41559068 -0.89818897  0.3175776   1.21729584  0.77890622]
+///////////////////////////////////
+normalização 
+
+original:  [ 25.15666667  23.12666667  23.20333333  24.50333333  24.48333333]
+desvio padrão:  0.797171666999
+média:  24.0946666667
+[ 1.33220992 -1.21429303 -1.11811969  0.51264575  0.48755705]
+///////////////////////////////////
+normalização 
+
+original:  [ 25.06        24.83333333  25.40666667  25.73333333  25.75333333]
+desvio padrão:  0.364310002303
+média:  25.3573333333
+[-0.81615473 -1.43833547  0.13541581  1.03208805  1.08698635]
+///////////////////////////////////
+normalização 
+
+original:  [ 24.91        25.21333333  24.35333333  23.84333333  24.66      ]
+desvio padrão:  0.470996107556
+média:  24.596
+[ 0.66667218  1.31069731 -0.51522011 -1.59803161  0.13588223]
+///////////////////////////////////
+normalização 
+
+original:  [ 25.54333333  25.57        24.88        25.16666667  23.58      ]
+desvio padrão:  0.730091622865
+média:  24.948
+[ 0.81542277  0.85194787 -0.09313899  0.29950579 -1.87373743]
+///////////////////////////////////
+normalização 
+
+original:  [ 23.78        25.1         24.35666667  23.56        23.57333333]
+desvio padrão:  0.58887614242
+média:  24.074
+[-0.49925609  1.74230186  0.48001039 -0.87284908 -0.85020708]
+///////////////////////////////////
+normalização 
+
+original:  [ 24.66666667  24.23666667  25.88666667  26.37333333  28.04666667]
+desvio padrão:  1.34932345187
+média:  25.842
+[-0.87105381 -1.18973203  0.03310301  0.39377759  1.63390525]
+///////////////////////////////////
+normalização 
+
+original:  [ 27.97333333  28.26666667  27.69333333  28.3         30.22666667]
+desvio padrão:  0.894828599354
+média:  28.492
+[-0.57962683 -0.25181731 -0.89253592 -0.21456623  1.9385463 ]
+///////////////////////////////////
+normalização 
+
+original:  [ 31.13666667  30.4         30.65        29.78666667  29.23333333]
+desvio padrão:  0.665821464225
+média:  30.2413333333
+[ 1.34470482  0.23830212  0.61377815 -0.68286574 -1.51391935]
+///////////////////////////////////
+normalização 
+
+original:  [ 28.50666667  28.21666667  26.34333333  26.03666667  25.74666667]
+desvio padrão:  1.15549893024
+média:  26.97
+[ 1.32987286  1.07889902 -0.54233427 -0.80773189 -1.05870573]
+///////////////////////////////////
+normalização 
+
+original:  [ 23.18333333  22.29333333  22.24333333  22.73333333  21.93      ]
+desvio padrão:  0.436384132515
+média:  22.4766666667
+[ 1.61936838 -0.42011916 -0.53469711  0.58816682 -1.25271894]
+///////////////////////////////////
+normalização 
+
+original:  [ 21.83333333  23.29        23.41        23.98333333  25.48333333]
+desvio padrão:  1.17874509543
+média:  23.6
+[-1.49876905 -0.26299155 -0.16118837  0.32520461  1.59774436]
+///////////////////////////////////
+normalização 
+
+original:  [ 24.52333333  25.11666667  26.19        24.59        24.41333333]
+desvio padrão:  0.65782131988
+média:  24.9666666667
+[-0.67394187  0.22802545  1.85967419 -0.57259723 -0.84116053]
+///////////////////////////////////
+normalização 
+
+original:  [ 26.25666667  26.67333333  25.21333333  25.56        25.02      ]
+desvio padrão:  0.627076461756
+média:  25.7446666667
+[ 0.81648735  1.48094646 -0.84731826 -0.29448828 -1.15562728]
+///////////////////////////////////
+normalização 
+
+original:  [ 24.19        23.99333333  23.27666667  22.7         22.18      ]
+desvio padrão:  0.759293823965
+média:  23.268
+[ 1.21428618  0.95527359  0.01141411 -0.74806351 -1.43291038]
+///////////////////////////////////
+normalização 
+
+original:  [ 22.45        22.50333333  22.30333333  21.98333333  22.56      ]
+desvio padrão:  0.206752670277
+média:  22.36
+[ 0.43530272  0.69325989 -0.27407949 -1.8218225   0.96733938]
+///////////////////////////////////
+normalização 
+
+original:  [ 22.42        22.78333333  22.53        21.65        21.04666667]
+desvio padrão:  0.642693637055
+média:  22.086
+[ 0.51968773  1.08501671  0.69084238 -0.67839477 -1.61715205]
+///////////////////////////////////
+normalização 
+
+original:  [ 21.21666667  20.20333333  20.08        21.22666667  22.02333333]
+desvio padrão:  0.723064466159
+média:  20.95
+[ 0.36880068 -1.0326419  -1.20321222  0.38263071  1.48442274]
+///////////////////////////////////
+normalização 
+
+original:  [ 22.7         22.03666667  21.52        20.25333333  19.53333333]
+desvio padrão:  1.15982680699
+média:  21.2086666667
+[ 1.28582416  0.71389969  0.26843088 -0.8236862  -1.44446854]
+///////////////////////////////////
+normalização 
+
+original:  [ 18.85333333  19.21        18.97333333  19.53666667  19.04333333]
+desvio padrão:  0.236708916417
+média:  19.1233333333
+[-1.14064144  0.36613182 -0.63368969  1.74616715 -0.33796783]
+///////////////////////////////////
+normalização 
+
+original:  [ 19.18666667  18.61        19.42666667  20.41666667  20.63      ]
+desvio padrão:  0.760822362097
+média:  19.654
+[-0.61424763 -1.37219941 -0.29879949  1.00242409  1.28282244]
+///////////////////////////////////
+normalização 
+
+original:  [ 20.27666667  19.73        19.38666667  19.01        19.63666667]
+desvio padrão:  0.416992406006
+média:  19.608
+[ 1.60354639  0.29257128 -0.53078505 -1.43407887  0.06874626]
+///////////////////////////////////
+normalização 
+
+original:  [ 19.07666667  18.98333333  19.12666667  20.58333333  19.25666667]
+desvio padrão:  0.595574792392
+média:  19.4053333333
+[-0.55184785 -0.7085592  -0.46789533  1.97792119 -0.2496188 ]
+///////////////////////////////////
+normalização 
+
+original:  [ 18.63333333  19.93333333  20.62333333  21.27        20.84666667]
+desvio padrão:  0.921849831107
+média:  20.2613333333
+[-1.76601432 -0.35580632  0.39268869  1.09417677  0.63495519]
+///////////////////////////////////
+normalização 
+
+original:  [ 20.34666667  19.27        19.74666667  19.84333333  19.50666667]
+desvio padrão:  0.361683716956
+média:  19.7426666667
+[ 1.66996735 -1.30685083  0.01105939  0.27832789 -0.6525038 ]
+///////////////////////////////////
+normalização 
+
+original:  [ 17.94333333  17.34333333  17.41666667  16.35        15.20333333]
+desvio padrão:  0.971737504565
+média:  16.8513333333
+[ 1.12376027  0.50630957  0.58177577 -0.51591436 -1.69593125]
+///////////////////////////////////
+normalização 
+
+original:  [ 15.18333333  15.22        15.04666667  14.95        14.47      ]
+desvio padrão:  0.269892159534
+média:  14.974
+[ 0.77561843  0.91147516  0.26924334 -0.08892441 -1.86741253]
+///////////////////////////////////
+normalização 
+
+original:  [ 14.87333333  15.07666667  14.59333333  14.14333333  13.76333333]
+desvio padrão:  0.479587785963
+média:  14.49
+[ 0.79929753  1.22327274  0.21546281 -0.72284298 -1.5151901 ]
+///////////////////////////////////
+normalização 
+
+original:  [ 13.19666667  13.13333333  13.32333333  13.94333333  13.74333333]
+desvio padrão:  0.318842350456
+média:  13.468
+[-0.85099527 -1.04963053 -0.45372475  1.4908099   0.86354066]
+///////////////////////////////////
+normalização 
+
+original:  [ 12.89333333  12.22333333  11.64333333  11.71333333  11.10666667]
+desvio padrão:  0.603336648241
+média:  11.916
+[ 1.6198806   0.50938947 -0.45193122 -0.33590976 -1.34142909]
+///////////////////////////////////
+normalização 
+
+original:  [ 10.97        10.51        10.47333333  12.88        12.51      ]
+desvio padrão:  1.02319456171
+média:  11.4686666667
+[-0.48736251 -0.93693487 -0.97277035  1.37934014  1.01772759]
+///////////////////////////////////
+normalização 
+
+original:  [ 12.82        12.73333333  11.97333333  11.64333333  11.87333333]
+desvio padrão:  0.476746380281
+média:  12.2086666667
+[ 1.28230304  1.10051526 -0.49362374 -1.18581568 -0.70337888]
+///////////////////////////////////
+normalização 
+
+original:  [ 11.83666667  12.32        12.04666667  11.51333333  10.87333333]
+desvio padrão:  0.497967424191
+média:  11.718
+[ 0.23830207  1.20891442  0.6600164  -0.41100413 -1.69622876]
+///////////////////////////////////
+normalização 
+
+original:  [ 10.28333333  10.66        10.92333333  10.74        11.24333333]
+desvio padrão:  0.315404502187
+média:  10.77
+[-1.54299214 -0.3487585   0.48614821 -0.09511595  1.50071838]
+///////////////////////////////////
+normalização 
+
+original:  [ 11.99333333  11.88333333  11.77333333  11.95        12.14666667]
+desvio padrão:  0.123457595059
+média:  11.9493333333
+[ 0.35639768 -0.53459651 -1.42559071  0.00539996  1.59838958]
+///////////////////////////////////
+normalização 
+
+original:  [ 11.92333333  10.97        10.57        10.54333333  10.91      ]
+desvio padrão:  0.500719482345
+média:  10.9833333333
+[ 1.87729863 -0.02662835 -0.82547883 -0.87873553 -0.14645592]
+///////////////////////////////////
+normalização 
+
+original:  [ 10.39333333  10.16666667   9.95666667  10.37333333  10.47      ]
+desvio padrão:  0.186935520672
+média:  10.272
+[ 0.64906516 -0.56347415 -1.68685615  0.5420764   1.05918875]
+///////////////////////////////////
+normalização 
+
+original:  [ 10.5         10.46        10.86666667  11.14        11.08      ]
+desvio padrão:  0.284115782345
+média:  10.8093333333
+[-1.08875801 -1.22954568  0.20179567  1.16384477  0.95266326]
+///////////////////////////////////
+normalização 
+
+original:  [ 11.6         11.66        11.74        12.04333333  12.13666667]
+desvio padrão:  0.214138065535
+média:  11.836
+[-1.10209271 -0.82189964 -0.4483089   0.96822269  1.40407856]
+///////////////////////////////////
+normalização 
+
+original:  [ 12.04666667  11.95333333  11.80666667  11.77        12.28333333]
+desvio padrão:  0.184927613466
+média:  11.972
+[ 0.40376159 -0.1009404  -0.89404351 -1.09231929  1.68354162]
+///////////////////////////////////
+normalização 
+
+original:  [ 11.96666667  12.76        13.62        13.22333333  12.75      ]
+desvio padrão:  0.55311401276
+média:  12.864
+[-1.62232978 -0.18802633  1.36680681  0.64965509 -0.20610579]
+///////////////////////////////////
+normalização 
+
+original:  [ 12.01333333  12.16666667  11.85        11.35333333  11.64666667]
+desvio padrão:  0.284709598636
+média:  11.806
+[ 0.72822741  1.26678787  0.15454344 -1.58992415 -0.55963457]
+///////////////////////////////////
+normalização 
+
+original:  [ 11.57666667  11.22333333  10.97666667  10.41666667  10.24      ]
+desvio padrão:  0.497317247282
+média:  10.8866666667
+[ 1.38744434  0.6769656   0.180971   -0.94507078 -1.30031015]
+///////////////////////////////////
+normalização 
+
+original:  [ 10.11333333   9.65         9.55333333   9.23         8.83      ]
+desvio padrão:  0.429017482161
+média:  9.47533333333
+[ 1.48711889  0.40713182  0.18181077 -0.57184927 -1.50421221]
+///////////////////////////////////
+normalização 
+
+original:  [ 8.1         7.71333333  7.83        7.23        6.73333333]
+desvio padrão:  0.484316700793
+média:  7.52133333333
+[ 1.19481047  0.39643481  0.63732402 -0.60153477 -1.62703454]
+///////////////////////////////////
+normalização 
+
+original:  [ 6.26666667  6.20666667  6.87333333  6.28333333  6.22333333]
+desvio padrão:  0.252871508874
+média:  6.37066666667
+[-0.41127607 -0.64855072  1.98783433 -0.34536644 -0.5826411 ]
+///////////////////////////////////
+normalização 
+
+original:  [ 6.09        5.76        6.09333333  7.21666667  7.88666667]
+desvio padrão:  0.807188261119
+média:  6.60933333333
+[-0.64338564 -1.0522122  -0.63925608  0.75240605  1.58244786]
+///////////////////////////////////
+normalização 
+
+original:  [ 8.02333333  8.07333333  7.94666667  8.26666667  8.44      ]
+desvio padrão:  0.179431200062
+média:  8.15
+[-0.70593446 -0.42727612 -1.13321057  0.65020279  1.61621836]
+///////////////////////////////////
+normalização 
+
+original:  [  7.97666667   8.14         9.62333333  10.96666667  11.63333333]
+desvio padrão:  1.46604623241
+média:  9.668
+[-1.15366985 -1.04225908 -0.03046743  0.88582927  1.34056709]
+///////////////////////////////////
+normalização 
+
+original:  [ 11.52333333  10.61        10.19666667  10.22        10.23666667]
+desvio padrão:  0.506484177662
+média:  10.5573333333
+[ 1.9072659   0.10398482 -0.71209859 -0.66602936 -0.63312277]
+///////////////////////////////////
+normalização 
+
+original:  [  9.71666667  10.42333333  10.12666667   9.91666667   9.92      ]
+desvio padrão:  0.239475352478
+média:  10.0206666667
+[-1.26944171  1.68145349  0.44263428 -0.43428269 -0.42036337]
+///////////////////////////////////
+normalização 
+
+original:  [[  9.91666667   9.92        10.51        10.78666667]]
+desvio padrão:  0.377881521703
+média:  10.2833333333
+[[-0.97032177 -0.96150066  0.59983528  1.33198716]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  0.377881521703
+média:  10.2833333333
+[  9.91666667   9.92        10.51        10.78666667  10.61049739]
+///////////////////////////////////
+normalização 
+
+original:  [[  9.92        10.51        10.78666667  10.61049739]]
+desvio padrão:  0.325353417169
+média:  10.4567910134
+[[-1.64987053  0.16354212  1.01389946  0.47242895]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  0.325353417169
+média:  10.4567910134
+[  9.92        10.51        10.78666667  10.61049739  10.52162119]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.51        10.78666667  10.61049739  10.52162119]]
+desvio padrão:  0.110669248368
+média:  10.6071963106
+[[-0.87825943  1.62168225  0.02982831 -0.77325114]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  0.110669248368
+média:  10.6071963106
+[ 10.51        10.78666667  10.61049739  10.52162119  10.53688977]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.78666667  10.61049739  10.52162119  10.53688977]]
+desvio padrão:  0.105244776304
+média:  10.6139187536
+[[ 1.6413918  -0.03250866 -0.87698001 -0.73190313]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  0.105244776304
+média:  10.6139187536
+[ 10.78666667  10.61049739  10.52162119  10.53688977  10.57289546]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.61049739  10.52162119  10.53688977  10.57289546]]
+desvio padrão:  0.0343598192238
+média:  10.5604759521
+[[ 1.45581194 -1.13081979 -0.68644657  0.36145443]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  0.0343598192238
+média:  10.5604759521
+[ 10.61049739  10.52162119  10.53688977  10.57289546  10.55764218]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.52162119  10.53688977  10.57289546  10.55764218]]
+desvio padrão:  0.0195566921059
+média:  10.5472621508
+[[-1.31110937 -0.53037491  1.31071809  0.53076619]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  0.0195566921059
+média:  10.5472621508
+[ 10.52162119  10.53688977  10.57289546  10.55764218  10.53869456]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53688977  10.57289546  10.55764218  10.53869456]]
+desvio padrão:  0.0147726650436
+média:  10.5515304932
+[[-0.99106838  1.44625006  0.41371605 -0.86889773]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  0.0147726650436
+média:  10.5515304932
+[ 10.53688977  10.57289546  10.55764218  10.53869456  10.54214564]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.57289546  10.55764218  10.53869456  10.54214564]]
+desvio padrão:  0.0135991295765
+média:  10.5528444596
+[[ 1.4744327   0.35279628 -1.04050052 -0.78672846]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  0.0135991295765
+média:  10.5528444596
+[ 10.57289546  10.55764218  10.53869456  10.54214564  10.53418116]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.55764218  10.53869456  10.54214564  10.53418116]]
+desvio padrão:  0.00882216159172
+média:  10.5431658841
+[[ 1.64090145 -0.50682884 -0.11564589 -1.01842672]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  0.00882216159172
+média:  10.5431658841
+[ 10.55764218  10.53869456  10.54214564  10.53418116  10.53941719]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53869456  10.54214564  10.53418116  10.53941719]]
+desvio padrão:  0.00286243235544
+média:  10.5386096372
+[[ 0.02966742  1.2353131  -1.54710316  0.28212264]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  0.00286243235544
+média:  10.5386096372
+[ 10.53869456  10.54214564  10.53418116  10.53941719  10.54237451]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.54214564  10.53418116  10.53941719  10.54237451]]
+desvio padrão:  0.00329983390692
+média:  10.5395296249
+[[ 0.79277095 -1.62082882 -0.03407164  0.86212951]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  0.00329983390692
+média:  10.5395296249
+[ 10.54214564  10.53418116  10.53941719  10.54237451  10.54040996]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53418116  10.53941719  10.54237451  10.54040996]]
+desvio padrão:  0.00303042647452
+média:  10.5390957054
+[[-1.62173425  0.10608696  1.08196114  0.43368616]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  0.00303042647452
+média:  10.5390957054
+[ 10.53418116  10.53941719  10.54237451  10.54040996  10.53969955]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53941719  10.54237451  10.54040996  10.53969955]]
+desvio padrão:  0.00115462545588
+média:  10.5404753033
+[[-0.91640901  1.64486741 -0.05659313 -0.67186527]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  0.00115462545588
+média:  10.5404753033
+[ 10.53941719  10.54237451  10.54040996  10.53969955  10.53974179]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.54237451  10.54040996  10.53969955  10.53974179]]
+desvio padrão:  0.00108682463087
+média:  10.5405564515
+[[ 1.67281599 -0.13478903 -0.78844451 -0.74958244]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  0.00108682463087
+média:  10.5405564515
+[ 10.54237451  10.54040996  10.53969955  10.53974179  10.54013282]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.54040996  10.53969955  10.53974179  10.54013282]]
+desvio padrão:  0.000292655263951
+média:  10.5399960289
+[[ 1.41439633 -1.01306343 -0.86874259  0.46740969]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  0.000292655263951
+média:  10.5399960289
+[ 10.54040996  10.53969955  10.53974179  10.54013282  10.53988406]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53969955  10.53974179  10.54013282  10.53988406]]
+desvio padrão:  0.000169296034963
+média:  10.5398645552
+[[-0.97465148 -0.72516984  1.58458302  0.1152383 ]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  0.000169296034963
+média:  10.5398645552
+[ 10.53969955  10.53974179  10.54013282  10.53988406  10.53975852]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53974179  10.54013282  10.53988406  10.53975852]]
+desvio padrão:  0.000156359607186
+média:  10.5398792964
+[[-0.8794443   1.62140618  0.03049509 -0.77245696]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  0.000156359607186
+média:  10.5398792964
+[ 10.53974179  10.54013282  10.53988406  10.53975852  10.53977996]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.54013282  10.53988406  10.53975852  10.53977996]]
+desvio padrão:  0.000148649838114
+média:  10.5398888405
+[[ 1.64129529 -0.03212889 -0.87672629 -0.7324401 ]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  0.000148649838114
+média:  10.5398888405
+[ 10.54013282  10.53988406  10.53975852  10.53977996  10.5398309 ]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53988406  10.53975852  10.53977996  10.5398309 ]]
+desvio padrão:  4.8554103735e-05
+média:  10.5398133604
+[[ 1.456193   -1.12956716 -0.68783068  0.36120484]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  4.8554103735e-05
+média:  10.5398133604
+[ 10.53988406  10.53975852  10.53977996  10.5398309   10.53980936]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53975852  10.53977996  10.5398309   10.53980936]]
+desvio padrão:  2.76207377227e-05
+média:  10.5397946833
+[[-1.30945016 -0.53292785  1.31115683  0.53122118]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  2.76207377227e-05
+média:  10.5397946833
+[ 10.53975852  10.53977996  10.5398309   10.53980936  10.53978258]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53977996  10.5398309   10.53980936  10.53978258]]
+desvio padrão:  2.08872234317e-05
+média:  10.5398007002
+[[-0.99279651  1.44577459  0.41440734 -0.86738542]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  2.08872234317e-05
+média:  10.5398007002
+[ 10.53977996  10.5398309   10.53980936  10.53978258  10.53978743]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.5398309   10.53980936  10.53978258  10.53978743]]
+desvio padrão:  1.92173489779e-05
+média:  10.539802567
+[[ 1.47425966  0.35327267 -1.03990033 -0.787632  ]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  1.92173489779e-05
+média:  10.539802567
+[ 10.5398309   10.53980936  10.53978258  10.53978743  10.53977619]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53980936  10.53978258  10.53978743  10.53977619]]
+desvio padrão:  1.24696694082e-05
+média:  10.5397888908
+[[ 1.64120037 -0.5058567  -0.11707906 -1.01826462]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  1.24696694082e-05
+média:  10.5397888908
+[ 10.53980936  10.53978258  10.53978743  10.53977619  10.53978359]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53978258  10.53978743  10.53977619  10.53978359]]
+desvio padrão:  4.03969884708e-06
+média:  10.5397824498
+[[ 0.03294444  1.23301623 -1.54874707  0.2827864 ]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  4.03969884708e-06
+média:  10.5397824498
+[ 10.53978258  10.53978743  10.53977619  10.53978359  10.53978776]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53978743  10.53977619  10.53978359  10.53978776]]
+desvio padrão:  4.65782729103e-06
+média:  10.5397837449
+[[ 0.79134789 -1.62125466 -0.03277935  0.86268613]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  4.65782729103e-06
+média:  10.5397837449
+[ 10.53978743  10.53977619  10.53978359  10.53978776  10.53978499]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53977619  10.53978359  10.53978776  10.53978499]]
+desvio padrão:  4.27921541097e-06
+média:  10.539783134
+[[-1.6219537   0.10706505  1.08175857  0.43313009]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  4.27921541097e-06
+média:  10.539783134
+[ 10.53977619  10.53978359  10.53978776  10.53978499  10.53978399]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53978359  10.53978776  10.53978499  10.53978399]]
+desvio padrão:  1.62914725155e-06
+média:  10.5397850824
+[[-0.91470422  1.64548396 -0.05824232 -0.67253741]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  1.62914725155e-06
+média:  10.5397850824
+[ 10.53978359  10.53978776  10.53978499  10.53978399  10.53978405]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53978776  10.53978499  10.53978399  10.53978405]]
+desvio padrão:  1.53420888114e-06
+média:  10.5397851962
+[[ 1.67313071 -0.13602385 -0.78833212 -0.74877474]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  1.53420888114e-06
+média:  10.5397851962
+[ 10.53978776  10.53978499  10.53978399  10.53978405  10.5397846 ]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53978499  10.53978399  10.53978405  10.5397846 ]]
+desvio padrão:  4.12142577989e-07
+média:  10.539784405
+[[ 1.4134637  -1.01476674 -0.86751358  0.46881662]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  4.12142577989e-07
+média:  10.539784405
+[ 10.53978499  10.53978399  10.53978405  10.5397846   10.53978425]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53978399  10.53978405  10.5397846   10.53978425]]
+desvio padrão:  2.38726669256e-07
+média:  10.5397842199
+[[-0.97673194 -0.7225111   1.58455655  0.11468648]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  2.38726669256e-07
+média:  10.5397842199
+[ 10.53978399  10.53978405  10.5397846   10.53978425  10.53978407]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53978405  10.5397846   10.53978425  10.53978407]]
+desvio padrão:  2.20341877331e-07
+média:  10.5397842408
+[[-0.87769782  1.62186595  0.02935349 -0.77352164]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  2.20341877331e-07
+média:  10.5397842408
+[ 10.53978405  10.5397846   10.53978425  10.53978407  10.5397841 ]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.5397846   10.53978425  10.53978407  10.5397841 ]]
+desvio padrão:  2.09572315446e-07
+média:  10.5397842542
+[[ 1.64149343 -0.03285552 -0.87698903 -0.73164888]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  2.09572315446e-07
+média:  10.5397842542
+[ 10.5397846   10.53978425  10.53978407  10.5397841   10.53978417]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53978425  10.53978407  10.5397841   10.53978417]]
+desvio padrão:  6.83851225646e-08
+média:  10.5397841477
+[[ 1.4555732  -1.13134934 -0.68594146  0.36171761]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  6.83851225646e-08
+média:  10.5397841477
+[ 10.53978425  10.53978407  10.5397841   10.53978417  10.53978414]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53978407  10.5397841   10.53978417  10.53978414]]
+desvio padrão:  3.89361805878e-08
+média:  10.5397841214
+[[-1.3117     -0.52941288  1.31063134  0.53048149]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  3.89361805878e-08
+média:  10.5397841214
+[ 10.53978407  10.5397841   10.53978417  10.53978414  10.5397841 ]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.5397841   10.53978417  10.53978414  10.5397841 ]]
+desvio padrão:  2.93998295952e-08
+média:  10.5397841299
+[[-0.99038238  1.44651249  0.41330734 -0.8694374 ]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  2.93998295952e-08
+média:  10.5397841299
+[ 10.5397841   10.53978417  10.53978414  10.5397841   10.53978411]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53978417  10.53978414  10.5397841   10.53978411]]
+desvio padrão:  2.7070229421e-08
+média:  10.5397841326
+[[ 1.47458193  0.35246158 -1.04067315 -0.78637037]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  2.7070229421e-08
+média:  10.5397841326
+[ 10.53978417  10.53978414  10.5397841   10.53978411  10.5397841 ]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53978414  10.5397841   10.53978411  10.5397841 ]]
+desvio padrão:  1.75578624548e-08
+média:  10.5397841133
+[[ 1.64076107 -0.50713574 -0.1150587  -1.01856662]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  1.75578624548e-08
+média:  10.5397841133
+[ 10.53978414  10.5397841   10.53978411  10.5397841   10.53978411]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.5397841   10.53978411  10.5397841   10.53978411]]
+desvio padrão:  5.70090731251e-09
+média:  10.5397841042
+[[ 0.02859292  1.23612609 -1.54653057  0.28181186]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  5.70090731251e-09
+média:  10.5397841042
+[ 10.5397841   10.53978411  10.5397841   10.53978411  10.53978411]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53978411  10.5397841   10.53978411  10.53978411]]
+desvio padrão:  6.57166091926e-09
+média:  10.5397841061
+[[ 0.79328994 -1.6206611  -0.03457641  0.8619473 ]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  6.57166091926e-09
+média:  10.5397841061
+[ 10.53978411  10.5397841   10.53978411  10.53978411  10.53978411]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.5397841   10.53978411  10.53978411  10.53978411]]
+desvio padrão:  6.03427396953e-09
+média:  10.5397841052
+[[-1.62164096  0.10569373  1.08205806  0.43388917]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  6.03427396953e-09
+média:  10.5397841052
+[ 10.5397841   10.53978411  10.53978411  10.53978411  10.53978411]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53978411  10.53978411  10.53978411  10.53978411]]
+desvio padrão:  2.29989100808e-09
+média:  10.5397841079
+[[-0.91707377  1.6446345  -0.05598029 -0.67157967]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  2.29989100808e-09
+média:  10.5397841079
+[ 10.53978411  10.53978411  10.53978411  10.53978411  10.53978411]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53978411  10.53978411  10.53978411  10.53978411]]
+desvio padrão:  2.1644381668e-09
+média:  10.5397841081
+[[ 1.67270133 -0.13433975 -0.78846399 -0.74989842]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  2.1644381668e-09
+média:  10.5397841081
+[ 10.53978411  10.53978411  10.53978411  10.53978411  10.53978411]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53978411  10.53978411  10.53978411  10.53978411]]
+desvio padrão:  5.83333307518e-10
+média:  10.539784107
+[[ 1.41473734 -1.01236814 -0.86927193  0.46689968]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  5.83333307518e-10
+média:  10.539784107
+[ 10.53978411  10.53978411  10.53978411  10.53978411  10.53978411]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53978411  10.53978411  10.53978411  10.53978411]]
+desvio padrão:  3.37287655409e-10
+média:  10.5397841067
+[[-0.97376673 -0.72628426  1.584602    0.11543845]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  3.37287655409e-10
+média:  10.5397841067
+[ 10.53978411  10.53978411  10.53978411  10.53978411  10.53978411]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53978411  10.53978411  10.53978411  10.53978411]]
+desvio padrão:  3.11600145514e-10
+média:  10.5397841068
+[[-0.88016844  1.6212213   0.03094371 -0.77200227]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  3.11600145514e-10
+média:  10.5397841068
+[ 10.53978411  10.53978411  10.53978411  10.53978411  10.53978411]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53978411  10.53978411  10.53978411  10.53978411]]
+desvio padrão:  2.96180062591e-10
+média:  10.5397841068
+[[ 1.64121951 -0.03185303 -0.87660295 -0.73276953]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  2.96180062591e-10
+média:  10.5397841068
+[ 10.53978411  10.53978411  10.53978411  10.53978411  10.53978411]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53978411  10.53978411  10.53978411  10.53978411]]
+desvio padrão:  9.67787820662e-11
+média:  10.5397841066
+[[ 1.45643638 -1.12882125 -0.68863603  0.3610209 ]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  9.67787820662e-11
+média:  10.5397841066
+[ 10.53978411  10.53978411  10.53978411  10.53978411  10.53978411]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53978411  10.53978411  10.53978411  10.53978411]]
+desvio padrão:  5.50350832838e-11
+média:  10.5397841066
+[[-1.30846954 -0.53440712  1.31140673  0.53153448]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  5.50350832838e-11
+média:  10.5397841066
+[ 10.53978411  10.53978411  10.53978411  10.53978411  10.53978411]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53978411  10.53978411  10.53978411  10.53978411]]
+desvio padrão:  4.16453804816e-11
+média:  10.5397841066
+[[-0.99380382  1.44547078  0.41485626 -0.86652322]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  4.16453804816e-11
+média:  10.5397841066
+[ 10.53978411  10.53978411  10.53978411  10.53978411  10.53978411]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53978411  10.53978411  10.53978411  10.53978411]]
+desvio padrão:  3.8303677275e-11
+média:  10.5397841066
+[[ 1.47409551  0.35356774 -1.03960231 -0.78820006]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  3.8303677275e-11
+média:  10.5397841066
+[ 10.53978411  10.53978411  10.53978411  10.53978411  10.53978411]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53978411  10.53978411  10.53978411  10.53978411]]
+desvio padrão:  2.48581996614e-11
+média:  10.5397841066
+[[ 1.6413554  -0.50536224 -0.11797979 -1.01815629]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  2.48581996614e-11
+média:  10.5397841066
+[ 10.53978411  10.53978411  10.53978411  10.53978411  10.53978411]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53978411  10.53978411  10.53978411  10.53978411]]
+desvio padrão:  8.04530735869e-12
+média:  10.5397841066
+[[ 0.03466468  1.2315898  -1.54975417  0.2832789 ]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  8.04530735869e-12
+média:  10.5397841066
+[ 10.53978411  10.53978411  10.53978411  10.53978411  10.53978411]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53978411  10.53978411  10.53978411  10.53978411]]
+desvio padrão:  9.27733217643e-12
+média:  10.5397841066
+[[ 0.79039975 -1.62158321 -0.03197596  0.86296794]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  9.27733217643e-12
+média:  10.5397841066
+[ 10.53978411  10.53978411  10.53978411  10.53978411  10.53978411]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53978411  10.53978411  10.53978411  10.53978411]]
+desvio padrão:  8.52530648647e-12
+média:  10.5397841066
+[[-1.6221045   0.10772357  1.08161136  0.43276956]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  8.52530648647e-12
+média:  10.5397841066
+[ 10.53978411  10.53978411  10.53978411  10.53978411  10.53978411]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53978411  10.53978411  10.53978411  10.53978411]]
+desvio padrão:  3.24402435065e-12
+média:  10.5397841066
+[[-0.91390793  1.64547233 -0.05968602 -0.67352112]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  3.24402435065e-12
+média:  10.5397841066
+[ 10.53978411  10.53978411  10.53978411  10.53978411  10.53978411]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53978411  10.53978411  10.53978411  10.53978411]]
+desvio padrão:  3.05569495219e-12
+média:  10.5397841066
+[[ 1.67363936 -0.13661176 -0.78827891 -0.74758604]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  3.05569495219e-12
+média:  10.5397841066
+[ 10.53978411  10.53978411  10.53978411  10.53978411  10.53978411]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53978411  10.53978411  10.53978411  10.53978411]]
+desvio padrão:  8.19304033429e-13
+média:  10.5397841066
+[[ 1.41362011 -1.0168525  -0.86508347  0.46831587]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  8.19304033429e-13
+média:  10.5397841066
+[ 10.53978411  10.53978411  10.53978411  10.53978411  10.53978411]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53978411  10.53978411  10.53978411  10.53978411]]
+desvio padrão:  4.74488487351e-13
+média:  10.5397841066
+[[-0.98085729 -0.71879618  1.58359784  0.11605563]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  4.74488487351e-13
+média:  10.5397841066
+[ 10.53978411  10.53978411  10.53978411  10.53978411  10.53978411]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53978411  10.53978411  10.53978411  10.53978411]]
+desvio padrão:  4.37275231672e-13
+média:  10.5397841066
+[[-0.87746355  1.62087017  0.02843632 -0.77590527]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  4.37275231672e-13
+média:  10.5397841066
+[ 10.53978411  10.53978411  10.53978411  10.53978411  10.53978411]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53978411  10.53978411  10.53978411  10.53978411]]
+desvio padrão:  4.15831629198e-13
+média:  10.5397841066
+[[ 1.64037793 -0.03417454 -0.87999441 -0.7304808 ]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  4.15831629198e-13
+média:  10.5397841066
+[ 10.53978411  10.53978411  10.53978411  10.53978411  10.53978411]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53978411  10.53978411  10.53978411  10.53978411]]
+desvio padrão:  1.35801289546e-13
+média:  10.5397841066
+[[ 1.4519421  -1.13800867 -0.68018909  0.36625566]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  1.35801289546e-13
+média:  10.5397841066
+[ 10.53978411  10.53978411  10.53978411  10.53978411  10.53978411]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53978411  10.53978411  10.53978411  10.53978411]]
+desvio padrão:  7.78005766416e-14
+média:  10.5397841066
+[[-1.30143431 -0.50230798  1.32426649  0.54797234]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  7.78005766416e-14
+média:  10.5397841066
+[ 10.53978411  10.53978411  10.53978411  10.53978411  10.53978411]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53978411  10.53978411  10.53978411  10.53978411]]
+desvio padrão:  5.86803020722e-14
+média:  10.5397841066
+[[-0.96869677  1.45304515  0.42380484 -0.87788144]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  5.86803020722e-14
+média:  10.5397841066
+[ 10.53978411  10.53978411  10.53978411  10.53978411  10.53978411]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53978411  10.53978411  10.53978411  10.53978411]]
+desvio padrão:  5.43605826952e-14
+média:  10.5397841066
+[[ 1.47047831  0.35945025 -1.04567346 -0.7842551 ]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  5.43605826952e-14
+média:  10.5397841066
+[ 10.53978411  10.53978411  10.53978411  10.53978411  10.53978411]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53978411  10.53978411  10.53978411  10.53978411]]
+desvio padrão:  3.54493359884e-14
+média:  10.5397841066
+[[ 1.65362126 -0.50109735 -0.10021947 -1.0021947 ]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  3.54493359884e-14
+média:  10.5397841066
+[ 10.53978411  10.53978411  10.53978411  10.53978411  10.53978411]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53978411  10.53978411  10.53978411  10.53978411]]
+desvio padrão:  1.1512108064e-14
+média:  10.5397841066
+[[ 0.         1.2344268 -1.5430335  0.3086067]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  1.1512108064e-14
+média:  10.5397841066
+[ 10.53978411  10.53978411  10.53978411  10.53978411  10.53978411]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53978411  10.53978411  10.53978411  10.53978411]]
+desvio padrão:  1.3440578384e-14
+média:  10.5397841066
+[[ 0.79298232 -1.58596464  0.          0.92514604]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  1.3440578384e-14
+média:  10.5397841066
+[ 10.53978411  10.53978411  10.53978411  10.53978411  10.53978411]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53978411  10.53978411  10.53978411  10.53978411]]
+desvio padrão:  1.24027366544e-14
+média:  10.5397841066
+[[-1.57545272  0.14322297  1.1457838   0.42966892]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  1.24027366544e-14
+média:  10.5397841066
+[ 10.53978411  10.53978411  10.53978411  10.53978411  10.53978411]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53978411  10.53978411  10.53978411  10.53978411]]
+desvio padrão:  5.10219657327e-15
+média:  10.5397841066
+[[-0.69631062  1.74077656  0.         -0.69631062]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  5.10219657327e-15
+média:  10.5397841066
+[ 10.53978411  10.53978411  10.53978411  10.53978411  10.53978411]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53978411  10.53978411  10.53978411  10.53978411]]
+desvio padrão:  5.47509948753e-15
+média:  10.5397841066
+[[ 1.62221421  0.         -0.64888568 -0.97332853]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  5.47509948753e-15
+média:  10.5397841066
+[ 10.53978411  10.53978411  10.53978411  10.53978411  10.53978411]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53978411  10.53978411  10.53978411  10.53978411]]
+desvio padrão:  2.17558392882e-15
+média:  10.5397841066
+[[ 0.81649658 -0.81649658 -1.63299316  0.        ]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  2.17558392882e-15
+média:  10.5397841066
+[ 10.53978411  10.53978411  10.53978411  10.53978411  10.53978411]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53978411  10.53978411  10.53978411  10.53978411]]
+desvio padrão:  2.6645352591e-15
+média:  10.5397841066
+[[-0.66666667 -1.33333333  0.          1.33333333]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  2.6645352591e-15
+média:  10.5397841066
+[ 10.53978411  10.53978411  10.53978411  10.53978411  10.53978411]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53978411  10.53978411  10.53978411  10.53978411]]
+desvio padrão:  2.6645352591e-15
+média:  10.5397841066
+[[-1.33333333  0.          1.33333333  0.66666667]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  2.6645352591e-15
+média:  10.5397841066
+[ 10.53978411  10.53978411  10.53978411  10.53978411  10.53978411]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53978411  10.53978411  10.53978411  10.53978411]]
+desvio padrão:  1.25607396695e-15
+média:  10.5397841066
+[[-1.41421356  1.41421356  0.          0.        ]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  1.25607396695e-15
+média:  10.5397841066
+[ 10.53978411  10.53978411  10.53978411  10.53978411  10.53978411]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53978411  10.53978411  10.53978411  10.53978411]]
+desvio padrão:  2.17558392882e-15
+média:  10.5397841066
+[[ 0.         -0.81649658 -0.81649658 -1.63299316]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  2.17558392882e-15
+média:  10.5397841066
+[ 10.53978411  10.53978411  10.53978411  10.53978411  10.53978411]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53978411  10.53978411  10.53978411  10.53978411]]
+desvio padrão:  2.80866677486e-15
+média:  10.5397841066
+[[-0.63245553 -0.63245553 -1.26491106  1.26491106]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  2.80866677486e-15
+média:  10.5397841066
+[ 10.53978411  10.53978411  10.53978411  10.53978411  10.53978411]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53978411  10.53978411  10.53978411  10.53978411]]
+desvio padrão:  3.20237283399e-15
+média:  10.5397841066
+[[-0.5547002  -1.10940039  1.10940039  1.10940039]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  3.20237283399e-15
+média:  10.5397841066
+[ 10.53978411  10.53978411  10.53978411  10.53978411  10.53978411]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53978411  10.53978411  10.53978411  10.53978411]]
+desvio padrão:  3.07674029821e-15
+média:  10.5397841066
+[[-1.73205081  0.57735027  0.57735027  0.57735027]]
+///////////////////////////////////
+volta da normalização 
+
+desvio padrão:  3.07674029821e-15
+média:  10.5397841066
+[ 10.53978411  10.53978411  10.53978411  10.53978411  10.53978411]
+///////////////////////////////////
+normalização 
+
+original:  [[ 10.53978411  10.53978411  10.53978411  10.53978411]]
