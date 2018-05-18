@@ -21,6 +21,7 @@ def main():
     y_aux = []
     x_aux = []
     y_saida = []
+    # y_plot_unormalized = []
     with open('output.ou') as f: #inicializa os valores de W a partir do arquivo de entrada
         for linha in f:
             linha = linha.strip()
@@ -38,6 +39,7 @@ def main():
     for i in y_aux[0:int(len(y_aux)*0.8)]: #for que itera até 80% da lista
         count += 1
         y_saida.append(i)
+        # y_plot_unormalized.append(i)
         if (count % 5 == 0 and count != 0):
             cel.append(i)
             cel = ndtw.sliding_window_normalizations([],cel,1) #faço as normalizações de janela deslizante
@@ -57,23 +59,38 @@ def main():
     obj = rsearch.best_estimator_ #pega o melhor estimador (no nosso caso, o melhor k ) e executa o knn com este estimador
     obj.fit(x,y)
 
+    # for i in range(len(y_plot_unormalized)-4,4):
+    #     passar = []
+    #     passar.append(y_plot_unormalized[i])
+    #     passar.append(y_plot_unormalized[i+1])
+    #     passar.append(y_plot_unormalized[i+2])
+    #     passar.append(y_plot_unormalized[i+3])
+
+    #     passar = np.array(passar)
+
+    #     y_plot_unormalized[i] = passar[0]
+    #     y_plot_unormalized[i+1] = passar[1]
+    #     y_plot_unormalized[i+2] = passar[2]
+    #     y_plot_unormalized[i+3] = passar[3]
+
+
+
+
     for i in range(int(len(y_aux)*0.2)+1): #slicing lists like a BALLLSS
         passar = np.array(y_saida[-4:]).reshape(1,-1) #transformo a janela em numpy array e dou um reshape pq o knn reclama
         volta = np.copy(passar)
         passar = ndtw.sliding_window_normalizations([],passar,1) #normalizo com a média e desvio padrão
         pred = obj.predict(passar)[0] #pego a predição normalizada
         passar = np.append(passar,pred) #adiciono ela nos valores da qual a predição foi feita
-        # print "normalizada: ",passar
-        # print "\n"
-        passar = ndtw.sliding_window_normalizations(volta,passar,0) #tiro a normlização pra jogar na lista de saida
-        # print "volta ", volta
-        # print "desnormalizada: ", passar
-        # print "/////////////////////////////////////////////////////////////////"
-        y_saida.append(passar[-1:]) #janela deslizante fazendo predições, essa posição [0] é pq o retorno do predict é uma np.array com uma posição que tem o valor que eu quero
+        # y_plot_unormalized.append(passar[-1:])
+        # passar = ndtw.sliding_window_normalizations(volta,passar,0) #tiro a normlização pra jogar na lista de saida
+        y_saida.append(passar[-1:]) 
+
+        
 
 
     # print rsearch.score(x_test,y_test)
     # print len(x_aux),"\n", len(y_aux),"\n", len(y_saida) #tem que retornar só y_test e res e alterar x_test
     return x_aux,y_aux,y_saida
     
-# main()
+# main() 
