@@ -12,6 +12,8 @@ from dtw import dtw
 import normalization_dtw as ndtw
 import time
 
+WIN_SIZE = 50
+
 def trataValores(valores): #transforma os literais em valores inteiro e float, respectivamente, pra uso posterior
     return int(valores[0]), float(valores[1])
 
@@ -40,11 +42,11 @@ def main():
         count += 1
         y_saida.append(i)
         # y_plot_unormalized.append(i)
-        if (count % 5 == 0 and count != 0):
+        if (count % (WIN_SIZE+1) == 0 and count != 0):
             cel.append(i)
             cel = ndtw.sliding_window_normalizations([],cel,1) #faço as normalizações de janela deslizante
             y.append(cel[-1:]) #o ultimo valor normalizado é meu y
-            x.append(cel[:4])  #os primeiro 4 valores são o meu x
+            x.append(cel[:WIN_SIZE])  #os primeiro 4 valores são o meu x
             cel = []
         else:
             cel.append(i)
@@ -59,31 +61,14 @@ def main():
     obj = rsearch.best_estimator_ #pega o melhor estimador (no nosso caso, o melhor k ) e executa o knn com este estimador
     obj.fit(x,y)
 
-    # for i in range(len(y_plot_unormalized)-4,4):
-    #     passar = []
-    #     passar.append(y_plot_unormalized[i])
-    #     passar.append(y_plot_unormalized[i+1])
-    #     passar.append(y_plot_unormalized[i+2])
-    #     passar.append(y_plot_unormalized[i+3])
-
-    #     passar = np.array(passar)
-
-    #     y_plot_unormalized[i] = passar[0]
-    #     y_plot_unormalized[i+1] = passar[1]
-    #     y_plot_unormalized[i+2] = passar[2]
-    #     y_plot_unormalized[i+3] = passar[3]
-
-
-
 
     for i in range(int(len(y_aux)*0.2)+1): #slicing lists like a BALLLSS
-        passar = np.array(y_saida[-4:]).reshape(1,-1) #transformo a janela em numpy array e dou um reshape pq o knn reclama
+        passar = np.array(y_saida[-WIN_SIZE:]).reshape(1,-1) #transformo a janela em numpy array e dou um reshape pq o knn reclama
         volta = np.copy(passar)
         passar = ndtw.sliding_window_normalizations([],passar,1) #normalizo com a média e desvio padrão
         pred = obj.predict(passar)[0] #pego a predição normalizada
         passar = np.append(passar,pred) #adiciono ela nos valores da qual a predição foi feita
-        # y_plot_unormalized.append(passar[-1:])
-        # passar = ndtw.sliding_window_normalizations(volta,passar,0) #tiro a normlização pra jogar na lista de saida
+        passar = ndtw.sliding_window_normalizations(volta,passar,0) #tiro a normlização pra jogar na lista de saida
         y_saida.append(passar[-1:]) 
 
         
