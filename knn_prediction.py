@@ -12,19 +12,18 @@ from dtw import dtw
 import normalization_dtw as ndtw
 import time
 
-WIN_SIZE = 50
+WIN_SIZE = 30 #tamanho da janela deslizante
 
 def trataValores(valores): #transforma os literais em valores inteiro e float, respectivamente, pra uso posterior
     return int(valores[0]), float(valores[1])
 
 def main():
-    x = []
-    y = []
-    y_aux = []
-    x_aux = []
-    y_saida = []
-    # y_plot_unormalized = []
-    with open('output.ou') as f: #inicializa os valores de W a partir do arquivo de entrada
+    x = [] #x que será passado para o knn
+    y = [] #y que será passado para o knn
+    y_aux = [] #valores originais do dataset
+    x_aux = [] #datas originais do dataset
+    y_saida = [] #possui 80% de seus valores como sendo os valores das bolsas originais e os 20% restante vão ser da prdição
+    with open('output.ou') as f: #aqui eu só carrego os valores do meu dataset
         for linha in f:
             linha = linha.strip()
             if linha:
@@ -34,48 +33,39 @@ def main():
                 y_aux.append(b)
 
    
-    x_aux,y_aux = ndtw.suavizacao(x_aux,y_aux)
+    x_aux,y_aux = ndtw.suavizacao(x_aux,y_aux) #função que suaviza os gráficos
 
     count = 0;
     cel = []
-    for i in y_aux[0:int(len(y_aux)*0.8)]: #for que itera até 80% da lista
+    for i in y_aux[0:int(len(y_aux)*0.8)]: #for que itera até 80% da lista criando o meu x e y que serão passados pra o knn
+        #nesse caso x = [val1, val2, val3,...,valn] e y = val. y tem o tamnho de WIN_SIZE
+        #basicamente to criando o dataset de entrada do knn com a janela deslizante
         count += 1
         y_saida.append(i)
-        # y_plot_unormalized.append(i)
         if (count % (WIN_SIZE+1) == 0 and count != 0):
             cel.append(i)
-            cel = ndtw.sliding_window_normalizations([],cel,1) #faço as normalizações de janela deslizante
+            cel = ndtw.sliding_window_normalizations([],cel,1) #faço as normalizações com média e desvio padrão
             y.append(cel[-1:]) #o ultimo valor normalizado é meu y
-            x.append(cel[:WIN_SIZE])  #os primeiro 4 valores são o meu x
+            x.append(cel[:WIN_SIZE])  #os primeiro WIN_SIZE valores são o meu x
             cel = []
         else:
             cel.append(i)
 
     
-    obj = KNeighborsRegressor(metric=dtw)
-    params = {'n_neighbors':range(1,4)} #cria parametros de 1 a 4, o famoso k (nesse caso)
-    rsearch = GridSearchCV(obj,params)
+    obj = KNeighborsRegressor(metric=dtw, n_neighbors=1)
 
-    rsearch.fit(x,y) 
-
-    obj = rsearch.best_estimator_ #pega o melhor estimador (no nosso caso, o melhor k ) e executa o knn com este estimador
     obj.fit(x,y)
 
 
     for i in range(int(len(y_aux)*0.2)+1): #slicing lists like a BALLLSS
         passar = np.array(y_saida[-WIN_SIZE:]).reshape(1,-1) #transformo a janela em numpy array e dou um reshape pq o knn reclama
-        volta = np.copy(passar)
+        volta = np.copy(passar) #esse volta é uma cópia de passar que serve para armazenar os valores originais antes da normalização com a média e o desvio padrão pra que futuramente eu possa reverter a normalização pra apresentar os dados
         passar = ndtw.sliding_window_normalizations([],passar,1) #normalizo com a média e desvio padrão
         pred = obj.predict(passar)[0] #pego a predição normalizada
-        passar = np.append(passar,pred) #adiciono ela nos valores da qual a predição foi feita
+        passar = np.append(passar,pred) #adiciono ela nos valores da qual a predição foi feita (os valores e a predição estão normalizados)
         passar = ndtw.sliding_window_normalizations(volta,passar,0) #tiro a normlização pra jogar na lista de saida
-        y_saida.append(passar[-1:]) 
+        y_saida.append(passar[-1:]) #coloco o valor obtido na lista de saída 
 
-        
-
-
-    # print rsearch.score(x_test,y_test)
-    # print len(x_aux),"\n", len(y_aux),"\n", len(y_saida) #tem que retornar só y_test e res e alterar x_test
     return x_aux,y_aux,y_saida
     
 # main() 

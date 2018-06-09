@@ -10,17 +10,18 @@ from matplotlib.backends.backend_pdf import PdfPages
 from pylab import *
 import make_output_file as mkof
 
+ROOTDIR = 'datasets_grandes_variacoes/'
+
 def iterates_folder():
     if not os.path.exists("new_saida/"+"Y_vs_X_vs_Pred"):
         os.makedirs("new_saida/"+"Y_vs_X_vs_Pred")
-    rootdir = 'entrada/'
-    for subdir, dirs, files in os.walk(rootdir):
+    for subdir, dirs, files in os.walk(ROOTDIR):
         # if not os.path.exists("new_saida/"+"Y_vs_X_vs_Pred/"+subdir[6:11]):
         #     os.makedirs("new_saida/"+"Y_vs_X_vs_Pred/"+subdir[6:11])
         for file in files:
         # if (file.startswith('100') and (not file.endswith('pdf') and not file.endswith('csv'))):
             # copyfile(subdir+'/'+file,'output.ou')
-            mkof.trataArquivo(rootdir+file)
+            mkof.trataArquivo(ROOTDIR+file)
             x_test, y_test, pred = knn.main()
             print "executing hole dataset tests..."
             generate(x_test,y_test,pred,file,subdir)

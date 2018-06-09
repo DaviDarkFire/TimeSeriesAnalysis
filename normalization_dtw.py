@@ -25,7 +25,7 @@ def suavizacao(x,y):
     # x,y = get_data()
     x_exit = []
     y_exit = []
-    for i in range(0,len(y)-3,3):
+    for i in range(0,len(y)-3,3): #faço a média dos 3 valores em sequencia para normalizar
         y_exit.append((y[i]+y[i+1]+y[i+2])/3)
         x_exit.append(x[i+1])
 
@@ -34,14 +34,14 @@ def suavizacao(x,y):
 
 def sliding_window_normalizations(volta,lista,flag):#se flag == 1 fazemos a normalização se flag == 0 voltamos a normalização
     lista = np.array(lista)
-    desp = np.std(lista)
-    media = np.mean(lista)
+    desp = np.std(lista) #cálculo desvio padrão
+    media = np.mean(lista) #cálculo média
     if flag:
         print "normalização \n"
         print "original: ", lista
-        if desp <= 0.01:
+        if desp <= 0.01: #trashold para evitar o desvio padrão de ficar muito pequeno e estourar a memória
             desp = 0.01
-        lista = (lista - media)/desp
+        lista = (lista - media)/desp #cálculo da normalização em todos os valores de lista
         # print "norm"
         # print lista
 
@@ -53,17 +53,18 @@ def sliding_window_normalizations(volta,lista,flag):#se flag == 1 fazemos a norm
         print lista
         print "///////////////////////////////////"
     else:
-        volta = np.array(volta)
-        desp = np.std(volta)
-        media = np.mean(volta)
-        if desp <= 0.01:
+        #seção do código que volta da normalização, ou seja volta os valores originais
+        volta = np.array(volta) 
+        desp = np.std(volta) #cáculo do desvio padrão
+        media = np.mean(volta) #cálculo da média
+        if desp <= 0.01: #o mesmo trashold
             desp = 0.01
 
         print "volta da normalização \n"
         print "desvio padrão: ", desp
         print "média: ", media
 
-        lista = lista*desp + media
+        lista = lista*desp + media #aplicando a volta da normalização nos valores da lista normalizada
         # print "volta"
         # print volta
         print lista
