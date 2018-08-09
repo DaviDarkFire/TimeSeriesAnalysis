@@ -46,29 +46,27 @@ def main():
     classes_sax = []
     for i in temp[0]:
         classes_sax.append(i[0])
-    print classes_sax
-
-    
+        
     #substituir o código que segue de y_aux pra classes_sax
-    # count = 0;
-    # cel = []
-    # for i in y_aux[0:int(len(y_aux)*0.8)]: #for que itera até 80% da lista criando o meu x e y que serão passados pra o knn
-    #     #nesse caso x = [val1, val2, val3,...,valn] e y = val. y tem o tamnho de WIN_SIZE
-    #     #basicamente to criando o dataset de entrada do knn com a janela deslizante
-    #     count += 1
-    #     y_saida.append(i)
-    #     if (count % (WIN_SIZE+1) == 0 and count != 0):
-    #         cel.append(i)
-    #         cel = ndtw.sliding_window_normalizations([],cel,1) #faço as normalizações com média e desvio padrão
-    #         y.append(cel[-1:]) #o ultimo valor normalizado é meu y
-    #         x.append(cel[:WIN_SIZE])  #os primeiro WIN_SIZE valores são o meu x
-    #         cel = []
-    #     else:
-    #         cel.append(i)
+    count = 0;
+    cel = []
+    for i in classes_sax[0:int(len(classes_sax)*0.8)]: #for que itera até 80% da lista criando o meu x e y que serão passados pra o knn
+        #nesse caso x = [val1, val2, val3,...,valn] e y = val. y tem o tamnho de WIN_SIZE
+        #basicamente to criando o dataset de entrada do knn com a janela deslizante
+        count += 1
+        y_saida.append(i)
+        if (count % (WIN_SIZE+1) == 0 and count != 0):
+            cel.append(i)
+            # cel = ndtw.sliding_window_normalizations([],cel,1) #faço as normalizações com média e desvio padrão
+            y.append(cel[-1:]) #o ultimo valor normalizado é meu y
+            x.append(cel[:WIN_SIZE])  #os primeiro WIN_SIZE valores são o meu x
+            cel = []
+        else:
+            cel.append(i)
 
-    # obj = NearestNeighbors(metric=dtw, n_neighbors=1)
+    obj = NearestNeighbors(metric=dtw, n_neighbors=1)
 
-    # obj.fit(x,y)
+    obj.fit(x,y)
 
     # for i in range(int(len(y_aux)*0.2)+1): #slicing lists like a BALLLSS
     #     passar = np.array(y_saida[-WIN_SIZE:]).reshape(1,-1) #transformo a janela em numpy array e dou um reshape pq o knn reclama
