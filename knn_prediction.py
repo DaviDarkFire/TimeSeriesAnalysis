@@ -9,10 +9,14 @@ from sklearn.model_selection import GridSearchCV
 from sklearn.neighbors import DistanceMetric
 from sklearn import preprocessing
 from dtw import dtw
+from sklearn.neighbors import NearestNeighbors
+from tslearn.piecewise import SymbolicAggregateApproximation
 import normalization_dtw as ndtw
 import time
 
-WIN_SIZE = 30 #tamanho da janela deslizante
+WIN_SIZE = 15 #tamanho da janela deslizante
+N_PAA = 100
+N_SAX = 100
 
 def trataValores(valores): #transforma os literais em valores inteiro e float, respectivamente, pra uso posterior
     return int(valores[0]), float(valores[1])
@@ -34,38 +38,47 @@ def main():
 
    
     x_aux,y_aux = ndtw.suavizacao(x_aux,y_aux) #função que suaviza os gráficos
-
-    count = 0;
-    cel = []
-    for i in y_aux[0:int(len(y_aux)*0.8)]: #for que itera até 80% da lista criando o meu x e y que serão passados pra o knn
-        #nesse caso x = [val1, val2, val3,...,valn] e y = val. y tem o tamnho de WIN_SIZE
-        #basicamente to criando o dataset de entrada do knn com a janela deslizante
-        count += 1
-        y_saida.append(i)
-        if (count % (WIN_SIZE+1) == 0 and count != 0):
-            cel.append(i)
-            cel = ndtw.sliding_window_normalizations([],cel,1) #faço as normalizações com média e desvio padrão
-            y.append(cel[-1:]) #o ultimo valor normalizado é meu y
-            x.append(cel[:WIN_SIZE])  #os primeiro WIN_SIZE valores são o meu x
-            cel = []
-        else:
-            cel.append(i)
+    maior = max(y_aux) #essa e as proximas 2 linhas normalizam os dados pois
+    y_aux = np.array(y_aux)#é necessário que os valores estejam entre
+    y_aux = y_aux/maior#0 e 1 pra que o PAA e consequentemente o SAX funcionem
+    sax = SymbolicAggregateApproximation(n_segments=N_PAA, alphabet_size_avg=N_SAX)
+    temp = sax.fit_transform(y_aux)
+    classes_sax = []
+    for i in temp[0]:
+        classes_sax.append(i[0])
+    print classes_sax
 
     
-    obj = KNeighborsRegressor(metric=dtw, n_neighbors=1)
+    #substituir o código que segue de y_aux pra classes_sax
+    # count = 0;
+    # cel = []
+    # for i in y_aux[0:int(len(y_aux)*0.8)]: #for que itera até 80% da lista criando o meu x e y que serão passados pra o knn
+    #     #nesse caso x = [val1, val2, val3,...,valn] e y = val. y tem o tamnho de WIN_SIZE
+    #     #basicamente to criando o dataset de entrada do knn com a janela deslizante
+    #     count += 1
+    #     y_saida.append(i)
+    #     if (count % (WIN_SIZE+1) == 0 and count != 0):
+    #         cel.append(i)
+    #         cel = ndtw.sliding_window_normalizations([],cel,1) #faço as normalizações com média e desvio padrão
+    #         y.append(cel[-1:]) #o ultimo valor normalizado é meu y
+    #         x.append(cel[:WIN_SIZE])  #os primeiro WIN_SIZE valores são o meu x
+    #         cel = []
+    #     else:
+    #         cel.append(i)
 
-    obj.fit(x,y)
+    # obj = NearestNeighbors(metric=dtw, n_neighbors=1)
 
+    # obj.fit(x,y)
 
-    for i in range(int(len(y_aux)*0.2)+1): #slicing lists like a BALLLSS
-        passar = np.array(y_saida[-WIN_SIZE:]).reshape(1,-1) #transformo a janela em numpy array e dou um reshape pq o knn reclama
-        volta = np.copy(passar) #esse volta é uma cópia de passar que serve para armazenar os valores originais antes da normalização com a média e o desvio padrão pra que futuramente eu possa reverter a normalização pra apresentar os dados
-        passar = ndtw.sliding_window_normalizations([],passar,1) #normalizo com a média e desvio padrão
-        pred = obj.predict(passar)[0] #pego a predição normalizada
-        passar = np.append(passar,pred) #adiciono ela nos valores da qual a predição foi feita (os valores e a predição estão normalizados)
-        passar = ndtw.sliding_window_normalizations(volta,passar,0) #tiro a normlização pra jogar na lista de saida
-        y_saida.append(passar[-1:]) #coloco o valor obtido na lista de saída 
+    # for i in range(int(len(y_aux)*0.2)+1): #slicing lists like a BALLLSS
+    #     passar = np.array(y_saida[-WIN_SIZE:]).reshape(1,-1) #transformo a janela em numpy array e dou um reshape pq o knn reclama
+    #     volta = np.copy(passar) #esse volta é uma cópia de passar que serve para armazenar os valores originais antes da normalização com a média e o desvio padrão pra que futuramente eu possa reverter a normalização pra apresentar os dados
+    #     passar = ndtw.sliding_window_normalizations([],passar,1) #normalizo com a média e desvio padrão
+    #     pred = obj.predict(passar)[0] #pego a predição normalizada
+    #     passar = np.append(passar,pred) #adiciono ela nos valores da qual a predição foi feita (os valores e a predição estão normalizados)
+    #     passar = ndtw.sliding_window_normalizations(volta,passar,0) #tiro a normlização pra jogar na lista de saida
+    #     y_saida.append(passar[-1:]) #coloco o valor obtido na lista de saída 
 
-    return x_aux,y_aux,y_saida
+    # return x_aux,y_aux,y_saida
     
-# main() 
+main() 
