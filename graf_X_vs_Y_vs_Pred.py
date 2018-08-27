@@ -20,7 +20,6 @@ def iterates_folder():
         #     os.makedirs("new_saida/"+"Y_vs_X_vs_Pred/"+subdir[6:11])
         for file in files:
         # if (file.startswith('100') and (not file.endswith('pdf') and not file.endswith('csv'))):
-            # copyfile(subdir+'/'+file,'output.ou')
             mkof.trataArquivo(ROOTDIR+file)
             x_test, y_test, pred = knn.main()
             print "executing hole dataset tests..."

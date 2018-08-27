@@ -5,6 +5,9 @@ import matplotlib.dates as mdates
 from matplotlib.backends.backend_pdf import PdfPages
 import numpy as np
 
+e = 2.718281828459045235360287
+a = 0.0000001
+
 def trataValores(valores): #transforma os literais em valores inteiro e float, respectivamente, pra uso posterior
     return int(valores[0]), float(valores[1]) 
 
@@ -20,6 +23,24 @@ def get_data():
                 x.append(a)
                 y.append(b)
     return x,y
+
+def sigmoid(y, flag):
+    if (flag):
+        for i, j in enumerate(y):
+            print "/////////////////"
+            print j
+            y[i] = 1/(1+e**(-1*j))
+
+            print y[i]
+            print "****************"
+            print "\n"
+    else:
+        for i, j in enumerate(y):
+            if (j != 0):
+                y[i] = -1*np.log((1/j)-1)
+            else:
+                y[i] = -1*np.log((1/a)-1)
+    return y
 
 def suavizacao(x,y):
     # x,y = get_data()
