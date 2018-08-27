@@ -73,6 +73,14 @@ def main():
 
     obj.fit(x,y)
 
+    # for i in range(int(len(y_aux)*0.2)+1): #slicing lists like a BALLLSS
+    #     passar = np.array(y_saida[-WIN_SIZE:]).reshape(1,-1) #transformo a janela em numpy array e dou um reshape pq o knn reclama
+    #     volta = np.copy(passar) #esse volta é uma cópia de passar que serve para armazenar os valores originais antes da normalização com a média e o desvio padrão pra que futuramente eu possa reverter a normalização pra apresentar os dados
+    #     passar = ndtw.sliding_window_normalizations([],passar,1) #normalizo com a média e desvio padrão
+    #     pred = obj.predict(passar)[0] #pego a predição normalizada
+    #     passar = np.append(passar,pred) #adiciono ela nos valores da qual a predição foi feita (os valores e a predição estão normalizados)
+    #     passar = ndtw.sliding_window_normalizations(volta,passar,0) #tiro a normlização pra jogar na lista de saida
+    #     y_saida.append(passar[-1:]) #coloco o valor obtido na lista de saída 
 
     for i in range(int(len(classes_sax)*0.2)+1): #slicing lists like a BALLLSS
         passar = np.array(y_saida[-WIN_SIZE:]).reshape(1,-1) #transformo a janela em numpy array e dou um reshape pq o knn reclama
